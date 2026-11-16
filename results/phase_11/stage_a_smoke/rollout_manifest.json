@@ -1,0 +1,7146 @@
+{
+  "stage": "Stage_A_Smoke",
+  "total_rollouts": 1020,
+  "records": [
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "heldout_s5003_t45_46e586",
+      "condition": "B0",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "heldout_s5003_t45_46e586",
+      "condition": "B0",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "heldout_s5003_t45_46e586",
+      "condition": "B0",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "heldout_s5003_t45_46e586",
+      "condition": "B1",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "heldout_s5003_t45_46e586",
+      "condition": "B1",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "heldout_s5003_t45_46e586",
+      "condition": "B1",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "heldout_s5003_t45_46e586",
+      "condition": "B2",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "heldout_s5003_t45_46e586",
+      "condition": "B2",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "heldout_s5003_t45_46e586",
+      "condition": "B2",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "heldout_s5003_t45_46e586",
+      "condition": "B3",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "heldout_s5003_t45_46e586",
+      "condition": "B3",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "heldout_s5003_t45_46e586",
+      "condition": "B3",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "heldout_s5003_t45_46e586",
+      "condition": "B4",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "heldout_s5003_t45_46e586",
+      "condition": "B4",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "heldout_s5003_t45_46e586",
+      "condition": "B4",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "heldout_s5004_t46_ff166f",
+      "condition": "B0",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "heldout_s5004_t46_ff166f",
+      "condition": "B0",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "heldout_s5004_t46_ff166f",
+      "condition": "B0",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "heldout_s5004_t46_ff166f",
+      "condition": "B1",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "heldout_s5004_t46_ff166f",
+      "condition": "B1",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "heldout_s5004_t46_ff166f",
+      "condition": "B1",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "heldout_s5004_t46_ff166f",
+      "condition": "B2",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "heldout_s5004_t46_ff166f",
+      "condition": "B2",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "heldout_s5004_t46_ff166f",
+      "condition": "B2",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "heldout_s5004_t46_ff166f",
+      "condition": "B3",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "heldout_s5004_t46_ff166f",
+      "condition": "B3",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "heldout_s5004_t46_ff166f",
+      "condition": "B3",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "heldout_s5004_t46_ff166f",
+      "condition": "B4",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "heldout_s5004_t46_ff166f",
+      "condition": "B4",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "heldout_s5004_t46_ff166f",
+      "condition": "B4",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "heldout_s5010_t43_ebcd74",
+      "condition": "B0",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "heldout_s5010_t43_ebcd74",
+      "condition": "B0",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "heldout_s5010_t43_ebcd74",
+      "condition": "B0",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "heldout_s5010_t43_ebcd74",
+      "condition": "B1",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "heldout_s5010_t43_ebcd74",
+      "condition": "B1",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "heldout_s5010_t43_ebcd74",
+      "condition": "B1",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "heldout_s5010_t43_ebcd74",
+      "condition": "B2",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "heldout_s5010_t43_ebcd74",
+      "condition": "B2",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "heldout_s5010_t43_ebcd74",
+      "condition": "B2",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "heldout_s5010_t43_ebcd74",
+      "condition": "B3",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "heldout_s5010_t43_ebcd74",
+      "condition": "B3",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "heldout_s5010_t43_ebcd74",
+      "condition": "B3",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "heldout_s5010_t43_ebcd74",
+      "condition": "B4",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "heldout_s5010_t43_ebcd74",
+      "condition": "B4",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "heldout_s5010_t43_ebcd74",
+      "condition": "B4",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "heldout_s5015_t36_658825",
+      "condition": "B0",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "heldout_s5015_t36_658825",
+      "condition": "B0",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "heldout_s5015_t36_658825",
+      "condition": "B0",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "heldout_s5015_t36_658825",
+      "condition": "B1",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "heldout_s5015_t36_658825",
+      "condition": "B1",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "heldout_s5015_t36_658825",
+      "condition": "B1",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "heldout_s5015_t36_658825",
+      "condition": "B2",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "heldout_s5015_t36_658825",
+      "condition": "B2",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "heldout_s5015_t36_658825",
+      "condition": "B2",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "heldout_s5015_t36_658825",
+      "condition": "B3",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "heldout_s5015_t36_658825",
+      "condition": "B3",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "heldout_s5015_t36_658825",
+      "condition": "B3",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "heldout_s5015_t36_658825",
+      "condition": "B4",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "heldout_s5015_t36_658825",
+      "condition": "B4",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "heldout_s5015_t36_658825",
+      "condition": "B4",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "heldout_s5021_t37_898e82",
+      "condition": "B0",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "heldout_s5021_t37_898e82",
+      "condition": "B0",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "heldout_s5021_t37_898e82",
+      "condition": "B0",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "heldout_s5021_t37_898e82",
+      "condition": "B1",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "heldout_s5021_t37_898e82",
+      "condition": "B1",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "heldout_s5021_t37_898e82",
+      "condition": "B1",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "heldout_s5021_t37_898e82",
+      "condition": "B2",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "heldout_s5021_t37_898e82",
+      "condition": "B2",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "heldout_s5021_t37_898e82",
+      "condition": "B2",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "heldout_s5021_t37_898e82",
+      "condition": "B3",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "heldout_s5021_t37_898e82",
+      "condition": "B3",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "heldout_s5021_t37_898e82",
+      "condition": "B3",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "heldout_s5021_t37_898e82",
+      "condition": "B4",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "heldout_s5021_t37_898e82",
+      "condition": "B4",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "heldout_s5021_t37_898e82",
+      "condition": "B4",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "task2_loss_9001_000",
+      "condition": "B0",
+      "eval_seed": 9001,
+      "is_success": 1
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "task2_loss_9001_000",
+      "condition": "B0",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "task2_loss_9001_000",
+      "condition": "B0",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "task2_loss_9001_000",
+      "condition": "B1",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "task2_loss_9001_000",
+      "condition": "B1",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "task2_loss_9001_000",
+      "condition": "B1",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "task2_loss_9001_000",
+      "condition": "B2",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "task2_loss_9001_000",
+      "condition": "B2",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "task2_loss_9001_000",
+      "condition": "B2",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "task2_loss_9001_000",
+      "condition": "B3",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "task2_loss_9001_000",
+      "condition": "B3",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "task2_loss_9001_000",
+      "condition": "B3",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "task2_loss_9001_000",
+      "condition": "B4",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "task2_loss_9001_000",
+      "condition": "B4",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "task2_loss_9001_000",
+      "condition": "B4",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "task2_loss_9002_001",
+      "condition": "B0",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "task2_loss_9002_001",
+      "condition": "B0",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "task2_loss_9002_001",
+      "condition": "B0",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "task2_loss_9002_001",
+      "condition": "B1",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "task2_loss_9002_001",
+      "condition": "B1",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "task2_loss_9002_001",
+      "condition": "B1",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "task2_loss_9002_001",
+      "condition": "B2",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "task2_loss_9002_001",
+      "condition": "B2",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "task2_loss_9002_001",
+      "condition": "B2",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "task2_loss_9002_001",
+      "condition": "B3",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "task2_loss_9002_001",
+      "condition": "B3",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "task2_loss_9002_001",
+      "condition": "B3",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "task2_loss_9002_001",
+      "condition": "B4",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "task2_loss_9002_001",
+      "condition": "B4",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "task2_loss_9002_001",
+      "condition": "B4",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "task2_loss_9006_002",
+      "condition": "B0",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "task2_loss_9006_002",
+      "condition": "B0",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "task2_loss_9006_002",
+      "condition": "B0",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "task2_loss_9006_002",
+      "condition": "B1",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "task2_loss_9006_002",
+      "condition": "B1",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "task2_loss_9006_002",
+      "condition": "B1",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "task2_loss_9006_002",
+      "condition": "B2",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "task2_loss_9006_002",
+      "condition": "B2",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "task2_loss_9006_002",
+      "condition": "B2",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "task2_loss_9006_002",
+      "condition": "B3",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "task2_loss_9006_002",
+      "condition": "B3",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "task2_loss_9006_002",
+      "condition": "B3",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "task2_loss_9006_002",
+      "condition": "B4",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "task2_loss_9006_002",
+      "condition": "B4",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "task2_loss_9006_002",
+      "condition": "B4",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "task2_loss_9008_003",
+      "condition": "B0",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "task2_loss_9008_003",
+      "condition": "B0",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "task2_loss_9008_003",
+      "condition": "B0",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "task2_loss_9008_003",
+      "condition": "B1",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "task2_loss_9008_003",
+      "condition": "B1",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "task2_loss_9008_003",
+      "condition": "B1",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "task2_loss_9008_003",
+      "condition": "B2",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "task2_loss_9008_003",
+      "condition": "B2",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "task2_loss_9008_003",
+      "condition": "B2",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "task2_loss_9008_003",
+      "condition": "B3",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "task2_loss_9008_003",
+      "condition": "B3",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "task2_loss_9008_003",
+      "condition": "B3",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "task2_loss_9008_003",
+      "condition": "B4",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "task2_loss_9008_003",
+      "condition": "B4",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "task2_loss_9008_003",
+      "condition": "B4",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "task2_loss_9009_004",
+      "condition": "B0",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "task2_loss_9009_004",
+      "condition": "B0",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "task2_loss_9009_004",
+      "condition": "B0",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "task2_loss_9009_004",
+      "condition": "B1",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "task2_loss_9009_004",
+      "condition": "B1",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "task2_loss_9009_004",
+      "condition": "B1",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "task2_loss_9009_004",
+      "condition": "B2",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "task2_loss_9009_004",
+      "condition": "B2",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "task2_loss_9009_004",
+      "condition": "B2",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "task2_loss_9009_004",
+      "condition": "B3",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "task2_loss_9009_004",
+      "condition": "B3",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "task2_loss_9009_004",
+      "condition": "B3",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "task2_loss_9009_004",
+      "condition": "B4",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "task2_loss_9009_004",
+      "condition": "B4",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "task2_loss_9009_004",
+      "condition": "B4",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell2_t1_loss_9201_00",
+      "condition": "B0",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell2_t1_loss_9201_00",
+      "condition": "B0",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell2_t1_loss_9201_00",
+      "condition": "B0",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell2_t1_loss_9201_00",
+      "condition": "B1",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell2_t1_loss_9201_00",
+      "condition": "B1",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell2_t1_loss_9201_00",
+      "condition": "B1",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell2_t1_loss_9201_00",
+      "condition": "B2",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell2_t1_loss_9201_00",
+      "condition": "B2",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell2_t1_loss_9201_00",
+      "condition": "B2",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell2_t1_loss_9201_00",
+      "condition": "B3",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell2_t1_loss_9201_00",
+      "condition": "B3",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell2_t1_loss_9201_00",
+      "condition": "B3",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell2_t1_loss_9201_00",
+      "condition": "B4",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell2_t1_loss_9201_00",
+      "condition": "B4",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell2_t1_loss_9201_00",
+      "condition": "B4",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell2_t1_loss_9202_01",
+      "condition": "B0",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell2_t1_loss_9202_01",
+      "condition": "B0",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell2_t1_loss_9202_01",
+      "condition": "B0",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell2_t1_loss_9202_01",
+      "condition": "B1",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell2_t1_loss_9202_01",
+      "condition": "B1",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell2_t1_loss_9202_01",
+      "condition": "B1",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell2_t1_loss_9202_01",
+      "condition": "B2",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell2_t1_loss_9202_01",
+      "condition": "B2",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell2_t1_loss_9202_01",
+      "condition": "B2",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell2_t1_loss_9202_01",
+      "condition": "B3",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell2_t1_loss_9202_01",
+      "condition": "B3",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell2_t1_loss_9202_01",
+      "condition": "B3",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell2_t1_loss_9202_01",
+      "condition": "B4",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell2_t1_loss_9202_01",
+      "condition": "B4",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell2_t1_loss_9202_01",
+      "condition": "B4",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell2_t1_loss_9204_02",
+      "condition": "B0",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell2_t1_loss_9204_02",
+      "condition": "B0",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell2_t1_loss_9204_02",
+      "condition": "B0",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell2_t1_loss_9204_02",
+      "condition": "B1",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell2_t1_loss_9204_02",
+      "condition": "B1",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell2_t1_loss_9204_02",
+      "condition": "B1",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell2_t1_loss_9204_02",
+      "condition": "B2",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell2_t1_loss_9204_02",
+      "condition": "B2",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell2_t1_loss_9204_02",
+      "condition": "B2",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell2_t1_loss_9204_02",
+      "condition": "B3",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell2_t1_loss_9204_02",
+      "condition": "B3",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell2_t1_loss_9204_02",
+      "condition": "B3",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell2_t1_loss_9204_02",
+      "condition": "B4",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell2_t1_loss_9204_02",
+      "condition": "B4",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell2_t1_loss_9204_02",
+      "condition": "B4",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell2_t1_loss_9205_03",
+      "condition": "B0",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell2_t1_loss_9205_03",
+      "condition": "B0",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell2_t1_loss_9205_03",
+      "condition": "B0",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell2_t1_loss_9205_03",
+      "condition": "B1",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell2_t1_loss_9205_03",
+      "condition": "B1",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell2_t1_loss_9205_03",
+      "condition": "B1",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell2_t1_loss_9205_03",
+      "condition": "B2",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell2_t1_loss_9205_03",
+      "condition": "B2",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell2_t1_loss_9205_03",
+      "condition": "B2",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell2_t1_loss_9205_03",
+      "condition": "B3",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell2_t1_loss_9205_03",
+      "condition": "B3",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell2_t1_loss_9205_03",
+      "condition": "B3",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell2_t1_loss_9205_03",
+      "condition": "B4",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell2_t1_loss_9205_03",
+      "condition": "B4",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell2_t1_loss_9205_03",
+      "condition": "B4",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell2_t1_loss_9206_04",
+      "condition": "B0",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell2_t1_loss_9206_04",
+      "condition": "B0",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell2_t1_loss_9206_04",
+      "condition": "B0",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell2_t1_loss_9206_04",
+      "condition": "B1",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell2_t1_loss_9206_04",
+      "condition": "B1",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell2_t1_loss_9206_04",
+      "condition": "B1",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell2_t1_loss_9206_04",
+      "condition": "B2",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell2_t1_loss_9206_04",
+      "condition": "B2",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell2_t1_loss_9206_04",
+      "condition": "B2",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell2_t1_loss_9206_04",
+      "condition": "B3",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell2_t1_loss_9206_04",
+      "condition": "B3",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell2_t1_loss_9206_04",
+      "condition": "B3",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell2_t1_loss_9206_04",
+      "condition": "B4",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell2_t1_loss_9206_04",
+      "condition": "B4",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell2_t1_loss_9206_04",
+      "condition": "B4",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell3_t2_slip_9532_00",
+      "condition": "B0",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell3_t2_slip_9532_00",
+      "condition": "B0",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell3_t2_slip_9532_00",
+      "condition": "B0",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell3_t2_slip_9532_00",
+      "condition": "B1",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell3_t2_slip_9532_00",
+      "condition": "B1",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell3_t2_slip_9532_00",
+      "condition": "B1",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell3_t2_slip_9532_00",
+      "condition": "B2",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell3_t2_slip_9532_00",
+      "condition": "B2",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell3_t2_slip_9532_00",
+      "condition": "B2",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell3_t2_slip_9532_00",
+      "condition": "B3",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell3_t2_slip_9532_00",
+      "condition": "B3",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell3_t2_slip_9532_00",
+      "condition": "B3",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell3_t2_slip_9532_00",
+      "condition": "B4",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell3_t2_slip_9532_00",
+      "condition": "B4",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell3_t2_slip_9532_00",
+      "condition": "B4",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell3_t2_slip_9588_01",
+      "condition": "B0",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell3_t2_slip_9588_01",
+      "condition": "B0",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell3_t2_slip_9588_01",
+      "condition": "B0",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell3_t2_slip_9588_01",
+      "condition": "B1",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell3_t2_slip_9588_01",
+      "condition": "B1",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell3_t2_slip_9588_01",
+      "condition": "B1",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell3_t2_slip_9588_01",
+      "condition": "B2",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell3_t2_slip_9588_01",
+      "condition": "B2",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell3_t2_slip_9588_01",
+      "condition": "B2",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell3_t2_slip_9588_01",
+      "condition": "B3",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell3_t2_slip_9588_01",
+      "condition": "B3",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell3_t2_slip_9588_01",
+      "condition": "B3",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell3_t2_slip_9588_01",
+      "condition": "B4",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell3_t2_slip_9588_01",
+      "condition": "B4",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "reactive_mlp",
+      "scenario_uid": "cell3_t2_slip_9588_01",
+      "condition": "B4",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "heldout_s5003_t45_46e586",
+      "condition": "B0",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "heldout_s5003_t45_46e586",
+      "condition": "B0",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "heldout_s5003_t45_46e586",
+      "condition": "B0",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "heldout_s5003_t45_46e586",
+      "condition": "B1",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "heldout_s5003_t45_46e586",
+      "condition": "B1",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "heldout_s5003_t45_46e586",
+      "condition": "B1",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "heldout_s5003_t45_46e586",
+      "condition": "B2",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "heldout_s5003_t45_46e586",
+      "condition": "B2",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "heldout_s5003_t45_46e586",
+      "condition": "B2",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "heldout_s5003_t45_46e586",
+      "condition": "B3",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "heldout_s5003_t45_46e586",
+      "condition": "B3",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "heldout_s5003_t45_46e586",
+      "condition": "B3",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "heldout_s5003_t45_46e586",
+      "condition": "B4",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "heldout_s5003_t45_46e586",
+      "condition": "B4",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "heldout_s5003_t45_46e586",
+      "condition": "B4",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "heldout_s5004_t46_ff166f",
+      "condition": "B0",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "heldout_s5004_t46_ff166f",
+      "condition": "B0",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "heldout_s5004_t46_ff166f",
+      "condition": "B0",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "heldout_s5004_t46_ff166f",
+      "condition": "B1",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "heldout_s5004_t46_ff166f",
+      "condition": "B1",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "heldout_s5004_t46_ff166f",
+      "condition": "B1",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "heldout_s5004_t46_ff166f",
+      "condition": "B2",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "heldout_s5004_t46_ff166f",
+      "condition": "B2",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "heldout_s5004_t46_ff166f",
+      "condition": "B2",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "heldout_s5004_t46_ff166f",
+      "condition": "B3",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "heldout_s5004_t46_ff166f",
+      "condition": "B3",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "heldout_s5004_t46_ff166f",
+      "condition": "B3",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "heldout_s5004_t46_ff166f",
+      "condition": "B4",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "heldout_s5004_t46_ff166f",
+      "condition": "B4",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "heldout_s5004_t46_ff166f",
+      "condition": "B4",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "heldout_s5010_t43_ebcd74",
+      "condition": "B0",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "heldout_s5010_t43_ebcd74",
+      "condition": "B0",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "heldout_s5010_t43_ebcd74",
+      "condition": "B0",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "heldout_s5010_t43_ebcd74",
+      "condition": "B1",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "heldout_s5010_t43_ebcd74",
+      "condition": "B1",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "heldout_s5010_t43_ebcd74",
+      "condition": "B1",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "heldout_s5010_t43_ebcd74",
+      "condition": "B2",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "heldout_s5010_t43_ebcd74",
+      "condition": "B2",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "heldout_s5010_t43_ebcd74",
+      "condition": "B2",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "heldout_s5010_t43_ebcd74",
+      "condition": "B3",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "heldout_s5010_t43_ebcd74",
+      "condition": "B3",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "heldout_s5010_t43_ebcd74",
+      "condition": "B3",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "heldout_s5010_t43_ebcd74",
+      "condition": "B4",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "heldout_s5010_t43_ebcd74",
+      "condition": "B4",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "heldout_s5010_t43_ebcd74",
+      "condition": "B4",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "heldout_s5015_t36_658825",
+      "condition": "B0",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "heldout_s5015_t36_658825",
+      "condition": "B0",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "heldout_s5015_t36_658825",
+      "condition": "B0",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "heldout_s5015_t36_658825",
+      "condition": "B1",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "heldout_s5015_t36_658825",
+      "condition": "B1",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "heldout_s5015_t36_658825",
+      "condition": "B1",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "heldout_s5015_t36_658825",
+      "condition": "B2",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "heldout_s5015_t36_658825",
+      "condition": "B2",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "heldout_s5015_t36_658825",
+      "condition": "B2",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "heldout_s5015_t36_658825",
+      "condition": "B3",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "heldout_s5015_t36_658825",
+      "condition": "B3",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "heldout_s5015_t36_658825",
+      "condition": "B3",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "heldout_s5015_t36_658825",
+      "condition": "B4",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "heldout_s5015_t36_658825",
+      "condition": "B4",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "heldout_s5015_t36_658825",
+      "condition": "B4",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "heldout_s5021_t37_898e82",
+      "condition": "B0",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "heldout_s5021_t37_898e82",
+      "condition": "B0",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "heldout_s5021_t37_898e82",
+      "condition": "B0",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "heldout_s5021_t37_898e82",
+      "condition": "B1",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "heldout_s5021_t37_898e82",
+      "condition": "B1",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "heldout_s5021_t37_898e82",
+      "condition": "B1",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "heldout_s5021_t37_898e82",
+      "condition": "B2",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "heldout_s5021_t37_898e82",
+      "condition": "B2",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "heldout_s5021_t37_898e82",
+      "condition": "B2",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "heldout_s5021_t37_898e82",
+      "condition": "B3",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "heldout_s5021_t37_898e82",
+      "condition": "B3",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "heldout_s5021_t37_898e82",
+      "condition": "B3",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "heldout_s5021_t37_898e82",
+      "condition": "B4",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "heldout_s5021_t37_898e82",
+      "condition": "B4",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "heldout_s5021_t37_898e82",
+      "condition": "B4",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "task2_loss_9001_000",
+      "condition": "B0",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "task2_loss_9001_000",
+      "condition": "B0",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "task2_loss_9001_000",
+      "condition": "B0",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "task2_loss_9001_000",
+      "condition": "B1",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "task2_loss_9001_000",
+      "condition": "B1",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "task2_loss_9001_000",
+      "condition": "B1",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "task2_loss_9001_000",
+      "condition": "B2",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "task2_loss_9001_000",
+      "condition": "B2",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "task2_loss_9001_000",
+      "condition": "B2",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "task2_loss_9001_000",
+      "condition": "B3",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "task2_loss_9001_000",
+      "condition": "B3",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "task2_loss_9001_000",
+      "condition": "B3",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "task2_loss_9001_000",
+      "condition": "B4",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "task2_loss_9001_000",
+      "condition": "B4",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "task2_loss_9001_000",
+      "condition": "B4",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "task2_loss_9002_001",
+      "condition": "B0",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "task2_loss_9002_001",
+      "condition": "B0",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "task2_loss_9002_001",
+      "condition": "B0",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "task2_loss_9002_001",
+      "condition": "B1",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "task2_loss_9002_001",
+      "condition": "B1",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "task2_loss_9002_001",
+      "condition": "B1",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "task2_loss_9002_001",
+      "condition": "B2",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "task2_loss_9002_001",
+      "condition": "B2",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "task2_loss_9002_001",
+      "condition": "B2",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "task2_loss_9002_001",
+      "condition": "B3",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "task2_loss_9002_001",
+      "condition": "B3",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "task2_loss_9002_001",
+      "condition": "B3",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "task2_loss_9002_001",
+      "condition": "B4",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "task2_loss_9002_001",
+      "condition": "B4",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "task2_loss_9002_001",
+      "condition": "B4",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "task2_loss_9006_002",
+      "condition": "B0",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "task2_loss_9006_002",
+      "condition": "B0",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "task2_loss_9006_002",
+      "condition": "B0",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "task2_loss_9006_002",
+      "condition": "B1",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "task2_loss_9006_002",
+      "condition": "B1",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "task2_loss_9006_002",
+      "condition": "B1",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "task2_loss_9006_002",
+      "condition": "B2",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "task2_loss_9006_002",
+      "condition": "B2",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "task2_loss_9006_002",
+      "condition": "B2",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "task2_loss_9006_002",
+      "condition": "B3",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "task2_loss_9006_002",
+      "condition": "B3",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "task2_loss_9006_002",
+      "condition": "B3",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "task2_loss_9006_002",
+      "condition": "B4",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "task2_loss_9006_002",
+      "condition": "B4",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "task2_loss_9006_002",
+      "condition": "B4",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "task2_loss_9008_003",
+      "condition": "B0",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "task2_loss_9008_003",
+      "condition": "B0",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "task2_loss_9008_003",
+      "condition": "B0",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "task2_loss_9008_003",
+      "condition": "B1",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "task2_loss_9008_003",
+      "condition": "B1",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "task2_loss_9008_003",
+      "condition": "B1",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "task2_loss_9008_003",
+      "condition": "B2",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "task2_loss_9008_003",
+      "condition": "B2",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "task2_loss_9008_003",
+      "condition": "B2",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "task2_loss_9008_003",
+      "condition": "B3",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "task2_loss_9008_003",
+      "condition": "B3",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "task2_loss_9008_003",
+      "condition": "B3",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "task2_loss_9008_003",
+      "condition": "B4",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "task2_loss_9008_003",
+      "condition": "B4",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "task2_loss_9008_003",
+      "condition": "B4",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "task2_loss_9009_004",
+      "condition": "B0",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "task2_loss_9009_004",
+      "condition": "B0",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "task2_loss_9009_004",
+      "condition": "B0",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "task2_loss_9009_004",
+      "condition": "B1",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "task2_loss_9009_004",
+      "condition": "B1",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "task2_loss_9009_004",
+      "condition": "B1",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "task2_loss_9009_004",
+      "condition": "B2",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "task2_loss_9009_004",
+      "condition": "B2",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "task2_loss_9009_004",
+      "condition": "B2",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "task2_loss_9009_004",
+      "condition": "B3",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "task2_loss_9009_004",
+      "condition": "B3",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "task2_loss_9009_004",
+      "condition": "B3",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "task2_loss_9009_004",
+      "condition": "B4",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "task2_loss_9009_004",
+      "condition": "B4",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "task2_loss_9009_004",
+      "condition": "B4",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell2_t1_loss_9201_00",
+      "condition": "B0",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell2_t1_loss_9201_00",
+      "condition": "B0",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell2_t1_loss_9201_00",
+      "condition": "B0",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell2_t1_loss_9201_00",
+      "condition": "B1",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell2_t1_loss_9201_00",
+      "condition": "B1",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell2_t1_loss_9201_00",
+      "condition": "B1",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell2_t1_loss_9201_00",
+      "condition": "B2",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell2_t1_loss_9201_00",
+      "condition": "B2",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell2_t1_loss_9201_00",
+      "condition": "B2",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell2_t1_loss_9201_00",
+      "condition": "B3",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell2_t1_loss_9201_00",
+      "condition": "B3",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell2_t1_loss_9201_00",
+      "condition": "B3",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell2_t1_loss_9201_00",
+      "condition": "B4",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell2_t1_loss_9201_00",
+      "condition": "B4",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell2_t1_loss_9201_00",
+      "condition": "B4",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell2_t1_loss_9202_01",
+      "condition": "B0",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell2_t1_loss_9202_01",
+      "condition": "B0",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell2_t1_loss_9202_01",
+      "condition": "B0",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell2_t1_loss_9202_01",
+      "condition": "B1",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell2_t1_loss_9202_01",
+      "condition": "B1",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell2_t1_loss_9202_01",
+      "condition": "B1",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell2_t1_loss_9202_01",
+      "condition": "B2",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell2_t1_loss_9202_01",
+      "condition": "B2",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell2_t1_loss_9202_01",
+      "condition": "B2",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell2_t1_loss_9202_01",
+      "condition": "B3",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell2_t1_loss_9202_01",
+      "condition": "B3",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell2_t1_loss_9202_01",
+      "condition": "B3",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell2_t1_loss_9202_01",
+      "condition": "B4",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell2_t1_loss_9202_01",
+      "condition": "B4",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell2_t1_loss_9202_01",
+      "condition": "B4",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell2_t1_loss_9204_02",
+      "condition": "B0",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell2_t1_loss_9204_02",
+      "condition": "B0",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell2_t1_loss_9204_02",
+      "condition": "B0",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell2_t1_loss_9204_02",
+      "condition": "B1",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell2_t1_loss_9204_02",
+      "condition": "B1",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell2_t1_loss_9204_02",
+      "condition": "B1",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell2_t1_loss_9204_02",
+      "condition": "B2",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell2_t1_loss_9204_02",
+      "condition": "B2",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell2_t1_loss_9204_02",
+      "condition": "B2",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell2_t1_loss_9204_02",
+      "condition": "B3",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell2_t1_loss_9204_02",
+      "condition": "B3",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell2_t1_loss_9204_02",
+      "condition": "B3",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell2_t1_loss_9204_02",
+      "condition": "B4",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell2_t1_loss_9204_02",
+      "condition": "B4",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell2_t1_loss_9204_02",
+      "condition": "B4",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell2_t1_loss_9205_03",
+      "condition": "B0",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell2_t1_loss_9205_03",
+      "condition": "B0",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell2_t1_loss_9205_03",
+      "condition": "B0",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell2_t1_loss_9205_03",
+      "condition": "B1",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell2_t1_loss_9205_03",
+      "condition": "B1",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell2_t1_loss_9205_03",
+      "condition": "B1",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell2_t1_loss_9205_03",
+      "condition": "B2",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell2_t1_loss_9205_03",
+      "condition": "B2",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell2_t1_loss_9205_03",
+      "condition": "B2",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell2_t1_loss_9205_03",
+      "condition": "B3",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell2_t1_loss_9205_03",
+      "condition": "B3",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell2_t1_loss_9205_03",
+      "condition": "B3",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell2_t1_loss_9205_03",
+      "condition": "B4",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell2_t1_loss_9205_03",
+      "condition": "B4",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell2_t1_loss_9205_03",
+      "condition": "B4",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell2_t1_loss_9206_04",
+      "condition": "B0",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell2_t1_loss_9206_04",
+      "condition": "B0",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell2_t1_loss_9206_04",
+      "condition": "B0",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell2_t1_loss_9206_04",
+      "condition": "B1",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell2_t1_loss_9206_04",
+      "condition": "B1",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell2_t1_loss_9206_04",
+      "condition": "B1",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell2_t1_loss_9206_04",
+      "condition": "B2",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell2_t1_loss_9206_04",
+      "condition": "B2",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell2_t1_loss_9206_04",
+      "condition": "B2",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell2_t1_loss_9206_04",
+      "condition": "B3",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell2_t1_loss_9206_04",
+      "condition": "B3",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell2_t1_loss_9206_04",
+      "condition": "B3",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell2_t1_loss_9206_04",
+      "condition": "B4",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell2_t1_loss_9206_04",
+      "condition": "B4",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell2_t1_loss_9206_04",
+      "condition": "B4",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell3_t2_slip_9532_00",
+      "condition": "B0",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell3_t2_slip_9532_00",
+      "condition": "B0",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell3_t2_slip_9532_00",
+      "condition": "B0",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell3_t2_slip_9532_00",
+      "condition": "B1",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell3_t2_slip_9532_00",
+      "condition": "B1",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell3_t2_slip_9532_00",
+      "condition": "B1",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell3_t2_slip_9532_00",
+      "condition": "B2",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell3_t2_slip_9532_00",
+      "condition": "B2",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell3_t2_slip_9532_00",
+      "condition": "B2",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell3_t2_slip_9532_00",
+      "condition": "B3",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell3_t2_slip_9532_00",
+      "condition": "B3",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell3_t2_slip_9532_00",
+      "condition": "B3",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell3_t2_slip_9532_00",
+      "condition": "B4",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell3_t2_slip_9532_00",
+      "condition": "B4",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell3_t2_slip_9532_00",
+      "condition": "B4",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell3_t2_slip_9588_01",
+      "condition": "B0",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell3_t2_slip_9588_01",
+      "condition": "B0",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell3_t2_slip_9588_01",
+      "condition": "B0",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell3_t2_slip_9588_01",
+      "condition": "B1",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell3_t2_slip_9588_01",
+      "condition": "B1",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell3_t2_slip_9588_01",
+      "condition": "B1",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell3_t2_slip_9588_01",
+      "condition": "B2",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell3_t2_slip_9588_01",
+      "condition": "B2",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell3_t2_slip_9588_01",
+      "condition": "B2",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell3_t2_slip_9588_01",
+      "condition": "B3",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell3_t2_slip_9588_01",
+      "condition": "B3",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell3_t2_slip_9588_01",
+      "condition": "B3",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell3_t2_slip_9588_01",
+      "condition": "B4",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell3_t2_slip_9588_01",
+      "condition": "B4",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "history_gru",
+      "scenario_uid": "cell3_t2_slip_9588_01",
+      "condition": "B4",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "heldout_s5003_t45_46e586",
+      "condition": "B0",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "heldout_s5003_t45_46e586",
+      "condition": "B0",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "heldout_s5003_t45_46e586",
+      "condition": "B0",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "heldout_s5003_t45_46e586",
+      "condition": "B1",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "heldout_s5003_t45_46e586",
+      "condition": "B1",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "heldout_s5003_t45_46e586",
+      "condition": "B1",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "heldout_s5003_t45_46e586",
+      "condition": "B2",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "heldout_s5003_t45_46e586",
+      "condition": "B2",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "heldout_s5003_t45_46e586",
+      "condition": "B2",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "heldout_s5003_t45_46e586",
+      "condition": "B3",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "heldout_s5003_t45_46e586",
+      "condition": "B3",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "heldout_s5003_t45_46e586",
+      "condition": "B3",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "heldout_s5003_t45_46e586",
+      "condition": "B4",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "heldout_s5003_t45_46e586",
+      "condition": "B4",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "heldout_s5003_t45_46e586",
+      "condition": "B4",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "heldout_s5004_t46_ff166f",
+      "condition": "B0",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "heldout_s5004_t46_ff166f",
+      "condition": "B0",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "heldout_s5004_t46_ff166f",
+      "condition": "B0",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "heldout_s5004_t46_ff166f",
+      "condition": "B1",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "heldout_s5004_t46_ff166f",
+      "condition": "B1",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "heldout_s5004_t46_ff166f",
+      "condition": "B1",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "heldout_s5004_t46_ff166f",
+      "condition": "B2",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "heldout_s5004_t46_ff166f",
+      "condition": "B2",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "heldout_s5004_t46_ff166f",
+      "condition": "B2",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "heldout_s5004_t46_ff166f",
+      "condition": "B3",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "heldout_s5004_t46_ff166f",
+      "condition": "B3",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "heldout_s5004_t46_ff166f",
+      "condition": "B3",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "heldout_s5004_t46_ff166f",
+      "condition": "B4",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "heldout_s5004_t46_ff166f",
+      "condition": "B4",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "heldout_s5004_t46_ff166f",
+      "condition": "B4",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "heldout_s5010_t43_ebcd74",
+      "condition": "B0",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "heldout_s5010_t43_ebcd74",
+      "condition": "B0",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "heldout_s5010_t43_ebcd74",
+      "condition": "B0",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "heldout_s5010_t43_ebcd74",
+      "condition": "B1",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "heldout_s5010_t43_ebcd74",
+      "condition": "B1",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "heldout_s5010_t43_ebcd74",
+      "condition": "B1",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "heldout_s5010_t43_ebcd74",
+      "condition": "B2",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "heldout_s5010_t43_ebcd74",
+      "condition": "B2",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "heldout_s5010_t43_ebcd74",
+      "condition": "B2",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "heldout_s5010_t43_ebcd74",
+      "condition": "B3",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "heldout_s5010_t43_ebcd74",
+      "condition": "B3",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "heldout_s5010_t43_ebcd74",
+      "condition": "B3",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "heldout_s5010_t43_ebcd74",
+      "condition": "B4",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "heldout_s5010_t43_ebcd74",
+      "condition": "B4",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "heldout_s5010_t43_ebcd74",
+      "condition": "B4",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "heldout_s5015_t36_658825",
+      "condition": "B0",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "heldout_s5015_t36_658825",
+      "condition": "B0",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "heldout_s5015_t36_658825",
+      "condition": "B0",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "heldout_s5015_t36_658825",
+      "condition": "B1",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "heldout_s5015_t36_658825",
+      "condition": "B1",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "heldout_s5015_t36_658825",
+      "condition": "B1",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "heldout_s5015_t36_658825",
+      "condition": "B2",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "heldout_s5015_t36_658825",
+      "condition": "B2",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "heldout_s5015_t36_658825",
+      "condition": "B2",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "heldout_s5015_t36_658825",
+      "condition": "B3",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "heldout_s5015_t36_658825",
+      "condition": "B3",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "heldout_s5015_t36_658825",
+      "condition": "B3",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "heldout_s5015_t36_658825",
+      "condition": "B4",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "heldout_s5015_t36_658825",
+      "condition": "B4",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "heldout_s5015_t36_658825",
+      "condition": "B4",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "heldout_s5021_t37_898e82",
+      "condition": "B0",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "heldout_s5021_t37_898e82",
+      "condition": "B0",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "heldout_s5021_t37_898e82",
+      "condition": "B0",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "heldout_s5021_t37_898e82",
+      "condition": "B1",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "heldout_s5021_t37_898e82",
+      "condition": "B1",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "heldout_s5021_t37_898e82",
+      "condition": "B1",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "heldout_s5021_t37_898e82",
+      "condition": "B2",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "heldout_s5021_t37_898e82",
+      "condition": "B2",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "heldout_s5021_t37_898e82",
+      "condition": "B2",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "heldout_s5021_t37_898e82",
+      "condition": "B3",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "heldout_s5021_t37_898e82",
+      "condition": "B3",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "heldout_s5021_t37_898e82",
+      "condition": "B3",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "heldout_s5021_t37_898e82",
+      "condition": "B4",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "heldout_s5021_t37_898e82",
+      "condition": "B4",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "heldout_s5021_t37_898e82",
+      "condition": "B4",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "task2_loss_9001_000",
+      "condition": "B0",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "task2_loss_9001_000",
+      "condition": "B0",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "task2_loss_9001_000",
+      "condition": "B0",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "task2_loss_9001_000",
+      "condition": "B1",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "task2_loss_9001_000",
+      "condition": "B1",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "task2_loss_9001_000",
+      "condition": "B1",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "task2_loss_9001_000",
+      "condition": "B2",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "task2_loss_9001_000",
+      "condition": "B2",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "task2_loss_9001_000",
+      "condition": "B2",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "task2_loss_9001_000",
+      "condition": "B3",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "task2_loss_9001_000",
+      "condition": "B3",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "task2_loss_9001_000",
+      "condition": "B3",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "task2_loss_9001_000",
+      "condition": "B4",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "task2_loss_9001_000",
+      "condition": "B4",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "task2_loss_9001_000",
+      "condition": "B4",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "task2_loss_9002_001",
+      "condition": "B0",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "task2_loss_9002_001",
+      "condition": "B0",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "task2_loss_9002_001",
+      "condition": "B0",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "task2_loss_9002_001",
+      "condition": "B1",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "task2_loss_9002_001",
+      "condition": "B1",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "task2_loss_9002_001",
+      "condition": "B1",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "task2_loss_9002_001",
+      "condition": "B2",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "task2_loss_9002_001",
+      "condition": "B2",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "task2_loss_9002_001",
+      "condition": "B2",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "task2_loss_9002_001",
+      "condition": "B3",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "task2_loss_9002_001",
+      "condition": "B3",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "task2_loss_9002_001",
+      "condition": "B3",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "task2_loss_9002_001",
+      "condition": "B4",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "task2_loss_9002_001",
+      "condition": "B4",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "task2_loss_9002_001",
+      "condition": "B4",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "task2_loss_9006_002",
+      "condition": "B0",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "task2_loss_9006_002",
+      "condition": "B0",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "task2_loss_9006_002",
+      "condition": "B0",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "task2_loss_9006_002",
+      "condition": "B1",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "task2_loss_9006_002",
+      "condition": "B1",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "task2_loss_9006_002",
+      "condition": "B1",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "task2_loss_9006_002",
+      "condition": "B2",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "task2_loss_9006_002",
+      "condition": "B2",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "task2_loss_9006_002",
+      "condition": "B2",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "task2_loss_9006_002",
+      "condition": "B3",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "task2_loss_9006_002",
+      "condition": "B3",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "task2_loss_9006_002",
+      "condition": "B3",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "task2_loss_9006_002",
+      "condition": "B4",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "task2_loss_9006_002",
+      "condition": "B4",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "task2_loss_9006_002",
+      "condition": "B4",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "task2_loss_9008_003",
+      "condition": "B0",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "task2_loss_9008_003",
+      "condition": "B0",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "task2_loss_9008_003",
+      "condition": "B0",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "task2_loss_9008_003",
+      "condition": "B1",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "task2_loss_9008_003",
+      "condition": "B1",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "task2_loss_9008_003",
+      "condition": "B1",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "task2_loss_9008_003",
+      "condition": "B2",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "task2_loss_9008_003",
+      "condition": "B2",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "task2_loss_9008_003",
+      "condition": "B2",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "task2_loss_9008_003",
+      "condition": "B3",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "task2_loss_9008_003",
+      "condition": "B3",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "task2_loss_9008_003",
+      "condition": "B3",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "task2_loss_9008_003",
+      "condition": "B4",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "task2_loss_9008_003",
+      "condition": "B4",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "task2_loss_9008_003",
+      "condition": "B4",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "task2_loss_9009_004",
+      "condition": "B0",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "task2_loss_9009_004",
+      "condition": "B0",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "task2_loss_9009_004",
+      "condition": "B0",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "task2_loss_9009_004",
+      "condition": "B1",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "task2_loss_9009_004",
+      "condition": "B1",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "task2_loss_9009_004",
+      "condition": "B1",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "task2_loss_9009_004",
+      "condition": "B2",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "task2_loss_9009_004",
+      "condition": "B2",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "task2_loss_9009_004",
+      "condition": "B2",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "task2_loss_9009_004",
+      "condition": "B3",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "task2_loss_9009_004",
+      "condition": "B3",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "task2_loss_9009_004",
+      "condition": "B3",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "task2_loss_9009_004",
+      "condition": "B4",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "task2_loss_9009_004",
+      "condition": "B4",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "task2_loss_9009_004",
+      "condition": "B4",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell2_t1_loss_9201_00",
+      "condition": "B0",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell2_t1_loss_9201_00",
+      "condition": "B0",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell2_t1_loss_9201_00",
+      "condition": "B0",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell2_t1_loss_9201_00",
+      "condition": "B1",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell2_t1_loss_9201_00",
+      "condition": "B1",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell2_t1_loss_9201_00",
+      "condition": "B1",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell2_t1_loss_9201_00",
+      "condition": "B2",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell2_t1_loss_9201_00",
+      "condition": "B2",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell2_t1_loss_9201_00",
+      "condition": "B2",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell2_t1_loss_9201_00",
+      "condition": "B3",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell2_t1_loss_9201_00",
+      "condition": "B3",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell2_t1_loss_9201_00",
+      "condition": "B3",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell2_t1_loss_9201_00",
+      "condition": "B4",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell2_t1_loss_9201_00",
+      "condition": "B4",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell2_t1_loss_9201_00",
+      "condition": "B4",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell2_t1_loss_9202_01",
+      "condition": "B0",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell2_t1_loss_9202_01",
+      "condition": "B0",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell2_t1_loss_9202_01",
+      "condition": "B0",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell2_t1_loss_9202_01",
+      "condition": "B1",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell2_t1_loss_9202_01",
+      "condition": "B1",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell2_t1_loss_9202_01",
+      "condition": "B1",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell2_t1_loss_9202_01",
+      "condition": "B2",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell2_t1_loss_9202_01",
+      "condition": "B2",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell2_t1_loss_9202_01",
+      "condition": "B2",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell2_t1_loss_9202_01",
+      "condition": "B3",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell2_t1_loss_9202_01",
+      "condition": "B3",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell2_t1_loss_9202_01",
+      "condition": "B3",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell2_t1_loss_9202_01",
+      "condition": "B4",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell2_t1_loss_9202_01",
+      "condition": "B4",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell2_t1_loss_9202_01",
+      "condition": "B4",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell2_t1_loss_9204_02",
+      "condition": "B0",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell2_t1_loss_9204_02",
+      "condition": "B0",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell2_t1_loss_9204_02",
+      "condition": "B0",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell2_t1_loss_9204_02",
+      "condition": "B1",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell2_t1_loss_9204_02",
+      "condition": "B1",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell2_t1_loss_9204_02",
+      "condition": "B1",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell2_t1_loss_9204_02",
+      "condition": "B2",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell2_t1_loss_9204_02",
+      "condition": "B2",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell2_t1_loss_9204_02",
+      "condition": "B2",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell2_t1_loss_9204_02",
+      "condition": "B3",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell2_t1_loss_9204_02",
+      "condition": "B3",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell2_t1_loss_9204_02",
+      "condition": "B3",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell2_t1_loss_9204_02",
+      "condition": "B4",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell2_t1_loss_9204_02",
+      "condition": "B4",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell2_t1_loss_9204_02",
+      "condition": "B4",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell2_t1_loss_9205_03",
+      "condition": "B0",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell2_t1_loss_9205_03",
+      "condition": "B0",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell2_t1_loss_9205_03",
+      "condition": "B0",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell2_t1_loss_9205_03",
+      "condition": "B1",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell2_t1_loss_9205_03",
+      "condition": "B1",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell2_t1_loss_9205_03",
+      "condition": "B1",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell2_t1_loss_9205_03",
+      "condition": "B2",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell2_t1_loss_9205_03",
+      "condition": "B2",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell2_t1_loss_9205_03",
+      "condition": "B2",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell2_t1_loss_9205_03",
+      "condition": "B3",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell2_t1_loss_9205_03",
+      "condition": "B3",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell2_t1_loss_9205_03",
+      "condition": "B3",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell2_t1_loss_9205_03",
+      "condition": "B4",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell2_t1_loss_9205_03",
+      "condition": "B4",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell2_t1_loss_9205_03",
+      "condition": "B4",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell2_t1_loss_9206_04",
+      "condition": "B0",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell2_t1_loss_9206_04",
+      "condition": "B0",
+      "eval_seed": 9002,
+      "is_success": 1
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell2_t1_loss_9206_04",
+      "condition": "B0",
+      "eval_seed": 9003,
+      "is_success": 1
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell2_t1_loss_9206_04",
+      "condition": "B1",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell2_t1_loss_9206_04",
+      "condition": "B1",
+      "eval_seed": 9002,
+      "is_success": 1
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell2_t1_loss_9206_04",
+      "condition": "B1",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell2_t1_loss_9206_04",
+      "condition": "B2",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell2_t1_loss_9206_04",
+      "condition": "B2",
+      "eval_seed": 9002,
+      "is_success": 1
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell2_t1_loss_9206_04",
+      "condition": "B2",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell2_t1_loss_9206_04",
+      "condition": "B3",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell2_t1_loss_9206_04",
+      "condition": "B3",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell2_t1_loss_9206_04",
+      "condition": "B3",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell2_t1_loss_9206_04",
+      "condition": "B4",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell2_t1_loss_9206_04",
+      "condition": "B4",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell2_t1_loss_9206_04",
+      "condition": "B4",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell3_t2_slip_9532_00",
+      "condition": "B0",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell3_t2_slip_9532_00",
+      "condition": "B0",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell3_t2_slip_9532_00",
+      "condition": "B0",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell3_t2_slip_9532_00",
+      "condition": "B1",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell3_t2_slip_9532_00",
+      "condition": "B1",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell3_t2_slip_9532_00",
+      "condition": "B1",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell3_t2_slip_9532_00",
+      "condition": "B2",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell3_t2_slip_9532_00",
+      "condition": "B2",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell3_t2_slip_9532_00",
+      "condition": "B2",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell3_t2_slip_9532_00",
+      "condition": "B3",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell3_t2_slip_9532_00",
+      "condition": "B3",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell3_t2_slip_9532_00",
+      "condition": "B3",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell3_t2_slip_9532_00",
+      "condition": "B4",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell3_t2_slip_9532_00",
+      "condition": "B4",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell3_t2_slip_9532_00",
+      "condition": "B4",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell3_t2_slip_9588_01",
+      "condition": "B0",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell3_t2_slip_9588_01",
+      "condition": "B0",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell3_t2_slip_9588_01",
+      "condition": "B0",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell3_t2_slip_9588_01",
+      "condition": "B1",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell3_t2_slip_9588_01",
+      "condition": "B1",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell3_t2_slip_9588_01",
+      "condition": "B1",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell3_t2_slip_9588_01",
+      "condition": "B2",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell3_t2_slip_9588_01",
+      "condition": "B2",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell3_t2_slip_9588_01",
+      "condition": "B2",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell3_t2_slip_9588_01",
+      "condition": "B3",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell3_t2_slip_9588_01",
+      "condition": "B3",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell3_t2_slip_9588_01",
+      "condition": "B3",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell3_t2_slip_9588_01",
+      "condition": "B4",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell3_t2_slip_9588_01",
+      "condition": "B4",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_mlp",
+      "scenario_uid": "cell3_t2_slip_9588_01",
+      "condition": "B4",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "heldout_s5003_t45_46e586",
+      "condition": "B0",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "heldout_s5003_t45_46e586",
+      "condition": "B0",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "heldout_s5003_t45_46e586",
+      "condition": "B0",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "heldout_s5003_t45_46e586",
+      "condition": "B1",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "heldout_s5003_t45_46e586",
+      "condition": "B1",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "heldout_s5003_t45_46e586",
+      "condition": "B1",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "heldout_s5003_t45_46e586",
+      "condition": "B2",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "heldout_s5003_t45_46e586",
+      "condition": "B2",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "heldout_s5003_t45_46e586",
+      "condition": "B2",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "heldout_s5003_t45_46e586",
+      "condition": "B3",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "heldout_s5003_t45_46e586",
+      "condition": "B3",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "heldout_s5003_t45_46e586",
+      "condition": "B3",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "heldout_s5003_t45_46e586",
+      "condition": "B4",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "heldout_s5003_t45_46e586",
+      "condition": "B4",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "heldout_s5003_t45_46e586",
+      "condition": "B4",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "heldout_s5004_t46_ff166f",
+      "condition": "B0",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "heldout_s5004_t46_ff166f",
+      "condition": "B0",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "heldout_s5004_t46_ff166f",
+      "condition": "B0",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "heldout_s5004_t46_ff166f",
+      "condition": "B1",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "heldout_s5004_t46_ff166f",
+      "condition": "B1",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "heldout_s5004_t46_ff166f",
+      "condition": "B1",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "heldout_s5004_t46_ff166f",
+      "condition": "B2",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "heldout_s5004_t46_ff166f",
+      "condition": "B2",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "heldout_s5004_t46_ff166f",
+      "condition": "B2",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "heldout_s5004_t46_ff166f",
+      "condition": "B3",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "heldout_s5004_t46_ff166f",
+      "condition": "B3",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "heldout_s5004_t46_ff166f",
+      "condition": "B3",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "heldout_s5004_t46_ff166f",
+      "condition": "B4",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "heldout_s5004_t46_ff166f",
+      "condition": "B4",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "heldout_s5004_t46_ff166f",
+      "condition": "B4",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "heldout_s5010_t43_ebcd74",
+      "condition": "B0",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "heldout_s5010_t43_ebcd74",
+      "condition": "B0",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "heldout_s5010_t43_ebcd74",
+      "condition": "B0",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "heldout_s5010_t43_ebcd74",
+      "condition": "B1",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "heldout_s5010_t43_ebcd74",
+      "condition": "B1",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "heldout_s5010_t43_ebcd74",
+      "condition": "B1",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "heldout_s5010_t43_ebcd74",
+      "condition": "B2",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "heldout_s5010_t43_ebcd74",
+      "condition": "B2",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "heldout_s5010_t43_ebcd74",
+      "condition": "B2",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "heldout_s5010_t43_ebcd74",
+      "condition": "B3",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "heldout_s5010_t43_ebcd74",
+      "condition": "B3",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "heldout_s5010_t43_ebcd74",
+      "condition": "B3",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "heldout_s5010_t43_ebcd74",
+      "condition": "B4",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "heldout_s5010_t43_ebcd74",
+      "condition": "B4",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "heldout_s5010_t43_ebcd74",
+      "condition": "B4",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "heldout_s5015_t36_658825",
+      "condition": "B0",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "heldout_s5015_t36_658825",
+      "condition": "B0",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "heldout_s5015_t36_658825",
+      "condition": "B0",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "heldout_s5015_t36_658825",
+      "condition": "B1",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "heldout_s5015_t36_658825",
+      "condition": "B1",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "heldout_s5015_t36_658825",
+      "condition": "B1",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "heldout_s5015_t36_658825",
+      "condition": "B2",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "heldout_s5015_t36_658825",
+      "condition": "B2",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "heldout_s5015_t36_658825",
+      "condition": "B2",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "heldout_s5015_t36_658825",
+      "condition": "B3",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "heldout_s5015_t36_658825",
+      "condition": "B3",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "heldout_s5015_t36_658825",
+      "condition": "B3",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "heldout_s5015_t36_658825",
+      "condition": "B4",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "heldout_s5015_t36_658825",
+      "condition": "B4",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "heldout_s5015_t36_658825",
+      "condition": "B4",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "heldout_s5021_t37_898e82",
+      "condition": "B0",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "heldout_s5021_t37_898e82",
+      "condition": "B0",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "heldout_s5021_t37_898e82",
+      "condition": "B0",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "heldout_s5021_t37_898e82",
+      "condition": "B1",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "heldout_s5021_t37_898e82",
+      "condition": "B1",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "heldout_s5021_t37_898e82",
+      "condition": "B1",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "heldout_s5021_t37_898e82",
+      "condition": "B2",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "heldout_s5021_t37_898e82",
+      "condition": "B2",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "heldout_s5021_t37_898e82",
+      "condition": "B2",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "heldout_s5021_t37_898e82",
+      "condition": "B3",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "heldout_s5021_t37_898e82",
+      "condition": "B3",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "heldout_s5021_t37_898e82",
+      "condition": "B3",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "heldout_s5021_t37_898e82",
+      "condition": "B4",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "heldout_s5021_t37_898e82",
+      "condition": "B4",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "heldout_s5021_t37_898e82",
+      "condition": "B4",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "task2_loss_9001_000",
+      "condition": "B0",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "task2_loss_9001_000",
+      "condition": "B0",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "task2_loss_9001_000",
+      "condition": "B0",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "task2_loss_9001_000",
+      "condition": "B1",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "task2_loss_9001_000",
+      "condition": "B1",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "task2_loss_9001_000",
+      "condition": "B1",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "task2_loss_9001_000",
+      "condition": "B2",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "task2_loss_9001_000",
+      "condition": "B2",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "task2_loss_9001_000",
+      "condition": "B2",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "task2_loss_9001_000",
+      "condition": "B3",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "task2_loss_9001_000",
+      "condition": "B3",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "task2_loss_9001_000",
+      "condition": "B3",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "task2_loss_9001_000",
+      "condition": "B4",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "task2_loss_9001_000",
+      "condition": "B4",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "task2_loss_9001_000",
+      "condition": "B4",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "task2_loss_9002_001",
+      "condition": "B0",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "task2_loss_9002_001",
+      "condition": "B0",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "task2_loss_9002_001",
+      "condition": "B0",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "task2_loss_9002_001",
+      "condition": "B1",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "task2_loss_9002_001",
+      "condition": "B1",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "task2_loss_9002_001",
+      "condition": "B1",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "task2_loss_9002_001",
+      "condition": "B2",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "task2_loss_9002_001",
+      "condition": "B2",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "task2_loss_9002_001",
+      "condition": "B2",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "task2_loss_9002_001",
+      "condition": "B3",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "task2_loss_9002_001",
+      "condition": "B3",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "task2_loss_9002_001",
+      "condition": "B3",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "task2_loss_9002_001",
+      "condition": "B4",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "task2_loss_9002_001",
+      "condition": "B4",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "task2_loss_9002_001",
+      "condition": "B4",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "task2_loss_9006_002",
+      "condition": "B0",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "task2_loss_9006_002",
+      "condition": "B0",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "task2_loss_9006_002",
+      "condition": "B0",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "task2_loss_9006_002",
+      "condition": "B1",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "task2_loss_9006_002",
+      "condition": "B1",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "task2_loss_9006_002",
+      "condition": "B1",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "task2_loss_9006_002",
+      "condition": "B2",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "task2_loss_9006_002",
+      "condition": "B2",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "task2_loss_9006_002",
+      "condition": "B2",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "task2_loss_9006_002",
+      "condition": "B3",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "task2_loss_9006_002",
+      "condition": "B3",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "task2_loss_9006_002",
+      "condition": "B3",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "task2_loss_9006_002",
+      "condition": "B4",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "task2_loss_9006_002",
+      "condition": "B4",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "task2_loss_9006_002",
+      "condition": "B4",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "task2_loss_9008_003",
+      "condition": "B0",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "task2_loss_9008_003",
+      "condition": "B0",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "task2_loss_9008_003",
+      "condition": "B0",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "task2_loss_9008_003",
+      "condition": "B1",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "task2_loss_9008_003",
+      "condition": "B1",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "task2_loss_9008_003",
+      "condition": "B1",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "task2_loss_9008_003",
+      "condition": "B2",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "task2_loss_9008_003",
+      "condition": "B2",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "task2_loss_9008_003",
+      "condition": "B2",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "task2_loss_9008_003",
+      "condition": "B3",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "task2_loss_9008_003",
+      "condition": "B3",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "task2_loss_9008_003",
+      "condition": "B3",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "task2_loss_9008_003",
+      "condition": "B4",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "task2_loss_9008_003",
+      "condition": "B4",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "task2_loss_9008_003",
+      "condition": "B4",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "task2_loss_9009_004",
+      "condition": "B0",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "task2_loss_9009_004",
+      "condition": "B0",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "task2_loss_9009_004",
+      "condition": "B0",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "task2_loss_9009_004",
+      "condition": "B1",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "task2_loss_9009_004",
+      "condition": "B1",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "task2_loss_9009_004",
+      "condition": "B1",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "task2_loss_9009_004",
+      "condition": "B2",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "task2_loss_9009_004",
+      "condition": "B2",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "task2_loss_9009_004",
+      "condition": "B2",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "task2_loss_9009_004",
+      "condition": "B3",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "task2_loss_9009_004",
+      "condition": "B3",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "task2_loss_9009_004",
+      "condition": "B3",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "task2_loss_9009_004",
+      "condition": "B4",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "task2_loss_9009_004",
+      "condition": "B4",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "task2_loss_9009_004",
+      "condition": "B4",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell2_t1_loss_9201_00",
+      "condition": "B0",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell2_t1_loss_9201_00",
+      "condition": "B0",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell2_t1_loss_9201_00",
+      "condition": "B0",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell2_t1_loss_9201_00",
+      "condition": "B1",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell2_t1_loss_9201_00",
+      "condition": "B1",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell2_t1_loss_9201_00",
+      "condition": "B1",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell2_t1_loss_9201_00",
+      "condition": "B2",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell2_t1_loss_9201_00",
+      "condition": "B2",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell2_t1_loss_9201_00",
+      "condition": "B2",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell2_t1_loss_9201_00",
+      "condition": "B3",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell2_t1_loss_9201_00",
+      "condition": "B3",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell2_t1_loss_9201_00",
+      "condition": "B3",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell2_t1_loss_9201_00",
+      "condition": "B4",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell2_t1_loss_9201_00",
+      "condition": "B4",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell2_t1_loss_9201_00",
+      "condition": "B4",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell2_t1_loss_9202_01",
+      "condition": "B0",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell2_t1_loss_9202_01",
+      "condition": "B0",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell2_t1_loss_9202_01",
+      "condition": "B0",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell2_t1_loss_9202_01",
+      "condition": "B1",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell2_t1_loss_9202_01",
+      "condition": "B1",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell2_t1_loss_9202_01",
+      "condition": "B1",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell2_t1_loss_9202_01",
+      "condition": "B2",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell2_t1_loss_9202_01",
+      "condition": "B2",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell2_t1_loss_9202_01",
+      "condition": "B2",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell2_t1_loss_9202_01",
+      "condition": "B3",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell2_t1_loss_9202_01",
+      "condition": "B3",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell2_t1_loss_9202_01",
+      "condition": "B3",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell2_t1_loss_9202_01",
+      "condition": "B4",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell2_t1_loss_9202_01",
+      "condition": "B4",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell2_t1_loss_9202_01",
+      "condition": "B4",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell2_t1_loss_9204_02",
+      "condition": "B0",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell2_t1_loss_9204_02",
+      "condition": "B0",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell2_t1_loss_9204_02",
+      "condition": "B0",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell2_t1_loss_9204_02",
+      "condition": "B1",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell2_t1_loss_9204_02",
+      "condition": "B1",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell2_t1_loss_9204_02",
+      "condition": "B1",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell2_t1_loss_9204_02",
+      "condition": "B2",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell2_t1_loss_9204_02",
+      "condition": "B2",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell2_t1_loss_9204_02",
+      "condition": "B2",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell2_t1_loss_9204_02",
+      "condition": "B3",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell2_t1_loss_9204_02",
+      "condition": "B3",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell2_t1_loss_9204_02",
+      "condition": "B3",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell2_t1_loss_9204_02",
+      "condition": "B4",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell2_t1_loss_9204_02",
+      "condition": "B4",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell2_t1_loss_9204_02",
+      "condition": "B4",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell2_t1_loss_9205_03",
+      "condition": "B0",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell2_t1_loss_9205_03",
+      "condition": "B0",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell2_t1_loss_9205_03",
+      "condition": "B0",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell2_t1_loss_9205_03",
+      "condition": "B1",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell2_t1_loss_9205_03",
+      "condition": "B1",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell2_t1_loss_9205_03",
+      "condition": "B1",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell2_t1_loss_9205_03",
+      "condition": "B2",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell2_t1_loss_9205_03",
+      "condition": "B2",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell2_t1_loss_9205_03",
+      "condition": "B2",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell2_t1_loss_9205_03",
+      "condition": "B3",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell2_t1_loss_9205_03",
+      "condition": "B3",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell2_t1_loss_9205_03",
+      "condition": "B3",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell2_t1_loss_9205_03",
+      "condition": "B4",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell2_t1_loss_9205_03",
+      "condition": "B4",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell2_t1_loss_9205_03",
+      "condition": "B4",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell2_t1_loss_9206_04",
+      "condition": "B0",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell2_t1_loss_9206_04",
+      "condition": "B0",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell2_t1_loss_9206_04",
+      "condition": "B0",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell2_t1_loss_9206_04",
+      "condition": "B1",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell2_t1_loss_9206_04",
+      "condition": "B1",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell2_t1_loss_9206_04",
+      "condition": "B1",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell2_t1_loss_9206_04",
+      "condition": "B2",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell2_t1_loss_9206_04",
+      "condition": "B2",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell2_t1_loss_9206_04",
+      "condition": "B2",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell2_t1_loss_9206_04",
+      "condition": "B3",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell2_t1_loss_9206_04",
+      "condition": "B3",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell2_t1_loss_9206_04",
+      "condition": "B3",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell2_t1_loss_9206_04",
+      "condition": "B4",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell2_t1_loss_9206_04",
+      "condition": "B4",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell2_t1_loss_9206_04",
+      "condition": "B4",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell3_t2_slip_9532_00",
+      "condition": "B0",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell3_t2_slip_9532_00",
+      "condition": "B0",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell3_t2_slip_9532_00",
+      "condition": "B0",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell3_t2_slip_9532_00",
+      "condition": "B1",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell3_t2_slip_9532_00",
+      "condition": "B1",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell3_t2_slip_9532_00",
+      "condition": "B1",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell3_t2_slip_9532_00",
+      "condition": "B2",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell3_t2_slip_9532_00",
+      "condition": "B2",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell3_t2_slip_9532_00",
+      "condition": "B2",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell3_t2_slip_9532_00",
+      "condition": "B3",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell3_t2_slip_9532_00",
+      "condition": "B3",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell3_t2_slip_9532_00",
+      "condition": "B3",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell3_t2_slip_9532_00",
+      "condition": "B4",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell3_t2_slip_9532_00",
+      "condition": "B4",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell3_t2_slip_9532_00",
+      "condition": "B4",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell3_t2_slip_9588_01",
+      "condition": "B0",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell3_t2_slip_9588_01",
+      "condition": "B0",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell3_t2_slip_9588_01",
+      "condition": "B0",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell3_t2_slip_9588_01",
+      "condition": "B1",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell3_t2_slip_9588_01",
+      "condition": "B1",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell3_t2_slip_9588_01",
+      "condition": "B1",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell3_t2_slip_9588_01",
+      "condition": "B2",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell3_t2_slip_9588_01",
+      "condition": "B2",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell3_t2_slip_9588_01",
+      "condition": "B2",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell3_t2_slip_9588_01",
+      "condition": "B3",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell3_t2_slip_9588_01",
+      "condition": "B3",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell3_t2_slip_9588_01",
+      "condition": "B3",
+      "eval_seed": 9003,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell3_t2_slip_9588_01",
+      "condition": "B4",
+      "eval_seed": 9001,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell3_t2_slip_9588_01",
+      "condition": "B4",
+      "eval_seed": 9002,
+      "is_success": 0
+    },
+    {
+      "policy_id": "recovery_augmented_gru",
+      "scenario_uid": "cell3_t2_slip_9588_01",
+      "condition": "B4",
+      "eval_seed": 9003,
+      "is_success": 0
+    }
+  ]
+}

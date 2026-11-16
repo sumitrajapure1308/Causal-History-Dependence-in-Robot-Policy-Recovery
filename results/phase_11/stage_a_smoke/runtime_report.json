@@ -1,0 +1,8 @@
+{
+  "stage": "Stage_A_Smoke",
+  "total_rollouts": 1020,
+  "total_runtime_seconds": 155.03225111961365,
+  "average_rollout_seconds": 0.15199240305844475,
+  "rollouts_per_second": 6.579276199847145,
+  "projected_20k_runtime_hours": 0.8444022392135819
+}

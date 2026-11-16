@@ -1,0 +1,62 @@
+<mujoco model="second_push_target_env">
+  <compiler angle="radian" coordinate="local" inertiafromgeom="true"/>
+  <option timestep="0.005" iterations="50" solver="Newton" gravity="0 0 -9.81"/>
+
+  <visual>
+    <quality shadowsize="2048"/>
+    <headlight ambient="0.4 0.4 0.4" diffuse="0.8 0.8 0.8" specular="0.1 0.1 0.1"/>
+  </visual>
+
+  <asset>
+    <texture type="skybox" builtin="gradient" rgb1="0.9 0.9 0.9" rgb2="0.6 0.7 0.8" width="512" height="512"/>
+    <texture name="table_tex2" type="2d" builtin="flat" rgb1="0.82 0.82 0.82" width="256" height="256"/>
+    <material name="table_mat2" texture="table_tex2" specular="0.1" shininess="0.1"/>
+  </asset>
+
+  <worldbody>
+    <light diffuse=".8 .8 .8" pos="0 0 2" dir="0 0 -1"/>
+    
+    <!-- Table Surface with lower friction (mu = 0.35) -->
+    <geom name="table" type="box" size="0.5 0.5 0.02" pos="0 0 -0.02" material="table_mat2" friction="0.35 0.05 0.001"/>
+
+    <!-- Target Goal Site (Offset diagonal goal: [0.20, 0.08, 0.001]) -->
+    <site name="target_site" pos="0.20 0.08 0.001" size="0.065 0.001" type="cylinder" rgba="0.8 0.5 0.2 0.35"/>
+
+    <!-- 3-DoF Cartesian Pusher Manipulator -->
+    <body name="pusher_base" pos="0 0 0">
+      <body name="pusher_x_link" pos="0 0 0">
+        <geom name="geom_rail_x" type="sphere" size="0.005" mass="0.1" contype="0" conaffinity="0" rgba="0 0 0 0"/>
+        <joint name="pusher_x" type="slide" axis="1 0 0" range="-0.45 0.45" damping="1.0"/>
+        <body name="pusher_y_link" pos="0 0 0">
+          <geom name="geom_rail_y" type="sphere" size="0.005" mass="0.1" contype="0" conaffinity="0" rgba="0 0 0 0"/>
+          <joint name="pusher_y" type="slide" axis="0 1 0" range="-0.45 0.45" damping="1.0"/>
+          <body name="pusher_z_link" pos="0 0 0">
+            <geom name="geom_rail_z" type="sphere" size="0.005" mass="0.1" contype="0" conaffinity="0" rgba="0 0 0 0"/>
+            <joint name="pusher_z" type="slide" axis="0 0 1" range="-0.01 0.15" damping="1.0"/>
+            <!-- End-Effector / Probe Cylindrical Pusher -->
+            <geom name="pusher_geom" type="cylinder" size="0.015 0.025" pos="0 0 0.026" mass="0.3" friction="0.8 0.005 0.0001" contype="1" conaffinity="1" rgba="0.2 0.4 0.8 1"/>
+            <site name="pusher_site" pos="0 0 0.026" size="0.005" rgba="1 0 0 1"/>
+          </body>
+        </body>
+      </body>
+    </body>
+
+    <!-- 6-DoF Movable Cylindrical Puck Object (Mass 0.15 kg, Radius 0.035 m, Half-Height 0.020 m) -->
+    <body name="target_object" pos="0.0 0.0 0.020">
+      <joint name="object_joint" type="free" damping="0.001"/>
+      <geom name="object_geom" type="cylinder" size="0.035 0.020" mass="0.15" friction="0.35 0.005 0.0001" rgba="0.2 0.7 0.3 1"/>
+      <site name="object_site" pos="0 0 0" size="0.005" rgba="0 0 1 1"/>
+    </body>
+
+    <!-- Fixed Cameras -->
+    <camera name="top_cam" pos="0 0 0.85" xyaxes="1 0 0 0 1 0"/>
+    <camera name="front_cam" pos="0 -0.65 0.5" xyaxes="1 0 0 0 0.6 0.8"/>
+  </worldbody>
+
+  <actuator>
+    <position name="act_x" joint="pusher_x" kp="1500" kv="30" ctrlrange="-0.45 0.45"/>
+    <position name="act_y" joint="pusher_y" kp="1500" kv="30" ctrlrange="-0.45 0.45"/>
+    <position name="act_z" joint="pusher_z" kp="1500" kv="30" ctrlrange="-0.01 0.15"/>
+  </actuator>
+</mujoco>
+

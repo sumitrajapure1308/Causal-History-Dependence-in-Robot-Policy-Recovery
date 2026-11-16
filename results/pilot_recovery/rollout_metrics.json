@@ -1,0 +1,234 @@
+{
+  "metadata": {
+    "status": "validated_pilot_rollout",
+    "official_experimental_result": false,
+    "disclaimer": "PHASE 3 PILOT VALIDATION ONLY. NOT AN OFFICIAL BENCHMARK RESULT.",
+    "base_seed": 42,
+    "episodes_per_policy": 20,
+    "policies": [
+      "reactive_mlp",
+      "history_gru"
+    ],
+    "conditions": [
+      "B0",
+      "B2",
+      "B4"
+    ]
+  },
+  "nominal_evaluation": {
+    "reactive_mlp": {
+      "success_rate": 0.2,
+      "success_count": 4,
+      "total": 20,
+      "mean_steps": 135.25,
+      "mean_final_dist_to_goal_m": 0.07848196641296497
+    },
+    "history_gru": {
+      "success_rate": 0.3,
+      "success_count": 6,
+      "total": 20,
+      "mean_steps": 128.2,
+      "mean_final_dist_to_goal_m": 0.0728933578250999
+    }
+  },
+  "deviation_evaluation": {
+    "reactive_mlp": {
+      "deviations_detected": 20,
+      "detection_rate": 1.0,
+      "mean_yaw_deg": 26.804892942559253,
+      "mean_drift_m": 0.0207318743570192,
+      "oracle_admitted_count": 5
+    },
+    "history_gru": {
+      "deviations_detected": 20,
+      "detection_rate": 1.0,
+      "mean_yaw_deg": 24.654350489862985,
+      "mean_drift_m": 0.02049978505974699,
+      "oracle_admitted_count": 3
+    }
+  },
+  "recovery_evaluation": {
+    "reactive_mlp": {
+      "admitted_scenarios": 5,
+      "condition_success_counts": {
+        "B0": 1,
+        "B2": 1,
+        "B4": 1
+      },
+      "condition_recovery_rates": {
+        "B0": 0.2,
+        "B2": 0.2,
+        "B4": 0.2
+      },
+      "scenarios": [
+        {
+          "episode_idx": 4,
+          "seed": 70,
+          "dev_time": 44,
+          "conditions": {
+            "B0": {
+              "success": false,
+              "error": 0.0
+            },
+            "B2": {
+              "success": false,
+              "error": 0.0
+            },
+            "B4": {
+              "success": false,
+              "error": 0.0
+            }
+          }
+        },
+        {
+          "episode_idx": 10,
+          "seed": 112,
+          "dev_time": 57,
+          "conditions": {
+            "B0": {
+              "success": false,
+              "error": 0.0
+            },
+            "B2": {
+              "success": false,
+              "error": 0.0
+            },
+            "B4": {
+              "success": false,
+              "error": 0.0
+            }
+          }
+        },
+        {
+          "episode_idx": 11,
+          "seed": 119,
+          "dev_time": 83,
+          "conditions": {
+            "B0": {
+              "success": true,
+              "error": 0.0
+            },
+            "B2": {
+              "success": true,
+              "error": 0.0
+            },
+            "B4": {
+              "success": true,
+              "error": 0.0
+            }
+          }
+        },
+        {
+          "episode_idx": 12,
+          "seed": 126,
+          "dev_time": 47,
+          "conditions": {
+            "B0": {
+              "success": false,
+              "error": 0.0
+            },
+            "B2": {
+              "success": false,
+              "error": 0.0
+            },
+            "B4": {
+              "success": false,
+              "error": 0.0
+            }
+          }
+        },
+        {
+          "episode_idx": 16,
+          "seed": 154,
+          "dev_time": 57,
+          "conditions": {
+            "B0": {
+              "success": false,
+              "error": 0.0
+            },
+            "B2": {
+              "success": false,
+              "error": 0.0
+            },
+            "B4": {
+              "success": false,
+              "error": 0.0
+            }
+          }
+        }
+      ]
+    },
+    "history_gru": {
+      "admitted_scenarios": 3,
+      "condition_success_counts": {
+        "B0": 1,
+        "B2": 1,
+        "B4": 1
+      },
+      "condition_recovery_rates": {
+        "B0": 0.3333333333333333,
+        "B2": 0.3333333333333333,
+        "B4": 0.3333333333333333
+      },
+      "scenarios": [
+        {
+          "episode_idx": 5,
+          "seed": 77,
+          "dev_time": 87,
+          "conditions": {
+            "B0": {
+              "success": true,
+              "error": 0.0
+            },
+            "B2": {
+              "success": true,
+              "error": 0.0
+            },
+            "B4": {
+              "success": true,
+              "error": 0.0
+            }
+          }
+        },
+        {
+          "episode_idx": 12,
+          "seed": 126,
+          "dev_time": 44,
+          "conditions": {
+            "B0": {
+              "success": false,
+              "error": 0.0
+            },
+            "B2": {
+              "success": false,
+              "error": 0.0
+            },
+            "B4": {
+              "success": false,
+              "error": 0.0
+            }
+          }
+        },
+        {
+          "episode_idx": 18,
+          "seed": 168,
+          "dev_time": 66,
+          "conditions": {
+            "B0": {
+              "success": false,
+              "error": 0.0
+            },
+            "B2": {
+              "success": false,
+              "error": 0.0
+            },
+            "B4": {
+              "success": false,
+              "error": 0.0
+            }
+          }
+        }
+      ]
+    }
+  }
+}

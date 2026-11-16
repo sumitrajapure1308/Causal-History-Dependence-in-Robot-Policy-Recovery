@@ -1,0 +1,31 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "causal-history-recovery"
+version = "1.0.0-rc1"
+description = "Matched-State Causal-History Evaluation of Robot Policy Recovery under Execution-Induced Failures"
+readme = "README.md"
+authors = [{ name = "Causal History Recovery Contributors" }]
+license = { text = "MIT" }
+requires-python = ">=3.10"
+dependencies = [
+    "gymnasium>=0.29.0",
+    "torch>=2.0.0",
+    "numpy>=1.24.0",
+    "scipy>=1.10.0",
+    "matplotlib>=3.7.0",
+    "pyyaml>=6.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.3.0",
+    "nbclient>=0.7.0",
+    "nbformat>=5.9.0",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py"]

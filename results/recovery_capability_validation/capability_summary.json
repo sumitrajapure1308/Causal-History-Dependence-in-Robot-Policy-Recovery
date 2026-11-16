@@ -1,0 +1,62 @@
+{
+  "reactive_mlp": {
+    "total_rollouts": 120,
+    "b0_recovery_rate": 0.05,
+    "b4_recovery_rate": 0.05,
+    "overall_recovery_rate": 0.05,
+    "physical_recovery_rate": 0.05,
+    "corrective_action_rate": 0.0,
+    "mean_recovery_time_steps": 93.3,
+    "mean_control_effort": 1.1556138679225114e-05,
+    "safety_violations": 0,
+    "H_R_B4_difference": 0.0
+  },
+  "history_gru": {
+    "total_rollouts": 120,
+    "b0_recovery_rate": 0.05,
+    "b4_recovery_rate": 0.05,
+    "overall_recovery_rate": 0.05,
+    "physical_recovery_rate": 0.05,
+    "corrective_action_rate": 0.0,
+    "mean_recovery_time_steps": 93.3,
+    "mean_control_effort": 1.1579393276406336e-05,
+    "safety_violations": 0,
+    "H_R_B4_difference": 0.0
+  },
+  "recovery_augmented_mlp": {
+    "total_rollouts": 120,
+    "b0_recovery_rate": 0.2,
+    "b4_recovery_rate": 0.2,
+    "overall_recovery_rate": 0.2,
+    "physical_recovery_rate": 0.2,
+    "corrective_action_rate": 0.4,
+    "mean_recovery_time_steps": 84.4,
+    "mean_control_effort": 2.697986229804883e-06,
+    "safety_violations": 0,
+    "H_R_B4_difference": 0.0
+  },
+  "recovery_augmented_gru": {
+    "total_rollouts": 120,
+    "b0_recovery_rate": 0.25,
+    "b4_recovery_rate": 0.25,
+    "overall_recovery_rate": 0.25,
+    "physical_recovery_rate": 0.25,
+    "corrective_action_rate": 0.05,
+    "mean_recovery_time_steps": 80.35,
+    "mean_control_effort": 4.675393267916661e-06,
+    "safety_violations": 0,
+    "H_R_B4_difference": 0.0
+  },
+  "privileged_oracle": {
+    "total_rollouts": 120,
+    "b0_recovery_rate": 1.0,
+    "b4_recovery_rate": 1.0,
+    "overall_recovery_rate": 1.0,
+    "physical_recovery_rate": 1.0,
+    "corrective_action_rate": 1.0,
+    "mean_recovery_time_steps": 96.7,
+    "mean_control_effort": 0.00125,
+    "safety_violations": 0,
+    "H_R_B4_difference": 0.0
+  }
+}

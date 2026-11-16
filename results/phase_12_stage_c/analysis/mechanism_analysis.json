@@ -1,0 +1,613 @@
+{
+  "status_label": "Exploratory mechanism analysis \u2014 not confirmatory evidence.",
+  "policies": {
+    "history_gru": {
+      "first_action_divergence": {
+        "metric_name": "first_action_divergence",
+        "mean_difference": 0.0,
+        "median_difference": 0.0,
+        "std_difference": 0.0,
+        "95_bootstrap_ci": [
+          0.0,
+          0.0
+        ],
+        "effect_size_d": 0.0,
+        "valid_paired_scenarios": 200,
+        "missing_pairs": 0,
+        "direction_of_effect": "zero",
+        "is_exploratory": true
+      },
+      "action_sequence_divergence": {
+        "metric_name": "action_sequence_divergence",
+        "mean_difference": 2.3158785552368284e-08,
+        "median_difference": 0.0,
+        "std_difference": 2.3042700683252737e-07,
+        "95_bootstrap_ci": [
+          0.0,
+          5.789696388092071e-08
+        ],
+        "effect_size_d": 0.10050378152592121,
+        "valid_paired_scenarios": 200,
+        "missing_pairs": 0,
+        "direction_of_effect": "zero",
+        "is_exploratory": true
+      },
+      "object_trajectory_divergence": {
+        "metric_name": "object_trajectory_divergence",
+        "mean_difference": 3.45259072547413e-05,
+        "median_difference": 0.0,
+        "std_difference": 0.00032744735736703107,
+        "95_bootstrap_ci": [
+          2.3059833577624215e-07,
+          8.562171141284894e-05
+        ],
+        "effect_size_d": 0.10543956601867367,
+        "valid_paired_scenarios": 200,
+        "missing_pairs": 0,
+        "direction_of_effect": "positive",
+        "is_exploratory": true
+      },
+      "hidden_state_divergence": {
+        "metric_name": "hidden_state_divergence",
+        "mean_difference": 0.8804999999999998,
+        "median_difference": 0.8805,
+        "std_difference": 1.1102230246251565e-16,
+        "95_bootstrap_ci": [
+          0.8805,
+          0.8805
+        ],
+        "effect_size_d": 0.0,
+        "valid_paired_scenarios": 200,
+        "missing_pairs": 0,
+        "direction_of_effect": "positive",
+        "is_exploratory": true
+      },
+      "recovery_time_difference": {
+        "metric_name": "recovery_time_difference",
+        "mean_difference": 0.0,
+        "median_difference": 0.0,
+        "std_difference": 0.0,
+        "95_bootstrap_ci": [
+          0.0,
+          0.0
+        ],
+        "effect_size_d": 0.0,
+        "valid_paired_scenarios": 200,
+        "missing_pairs": 0,
+        "direction_of_effect": "zero",
+        "is_exploratory": true
+      },
+      "control_effort_difference": {
+        "metric_name": "control_effort_difference",
+        "mean_difference": 2.3158785552368284e-08,
+        "median_difference": 0.0,
+        "std_difference": 2.3042700683252737e-07,
+        "95_bootstrap_ci": [
+          0.0,
+          5.789696388092071e-08
+        ],
+        "effect_size_d": 0.10050378152592121,
+        "valid_paired_scenarios": 200,
+        "missing_pairs": 0,
+        "direction_of_effect": "zero",
+        "is_exploratory": true
+      },
+      "physical_recovery_difference": {
+        "metric_name": "physical_recovery_difference",
+        "mean_difference": 0.0,
+        "median_difference": 0.0,
+        "std_difference": 0.0,
+        "95_bootstrap_ci": [
+          0.0,
+          0.0
+        ],
+        "effect_size_d": 0.0,
+        "valid_paired_scenarios": 200,
+        "missing_pairs": 0,
+        "direction_of_effect": "zero",
+        "is_exploratory": true
+      },
+      "detection_difference": {
+        "metric_name": "detection_difference",
+        "mean_difference": 0.0,
+        "median_difference": 0.0,
+        "std_difference": 0.0,
+        "95_bootstrap_ci": [
+          0.0,
+          0.0
+        ],
+        "effect_size_d": 0.0,
+        "valid_paired_scenarios": 200,
+        "missing_pairs": 0,
+        "direction_of_effect": "zero",
+        "is_exploratory": true
+      },
+      "corrective_action_difference": {
+        "metric_name": "corrective_action_difference",
+        "mean_difference": 0.0,
+        "median_difference": 0.0,
+        "std_difference": 0.0,
+        "95_bootstrap_ci": [
+          0.0,
+          0.0
+        ],
+        "effect_size_d": 0.0,
+        "valid_paired_scenarios": 200,
+        "missing_pairs": 0,
+        "direction_of_effect": "zero",
+        "is_exploratory": true
+      },
+      "safety_violation_difference": {
+        "metric_name": "safety_violation_difference",
+        "mean_difference": 0.0,
+        "median_difference": 0.0,
+        "std_difference": 0.0,
+        "95_bootstrap_ci": [
+          0.0,
+          0.0
+        ],
+        "effect_size_d": 0.0,
+        "valid_paired_scenarios": 200,
+        "missing_pairs": 0,
+        "direction_of_effect": "zero",
+        "is_exploratory": true
+      }
+    },
+    "reactive_mlp": {
+      "first_action_divergence": {
+        "metric_name": "first_action_divergence",
+        "mean_difference": 0.0,
+        "median_difference": 0.0,
+        "std_difference": 0.0,
+        "95_bootstrap_ci": [
+          0.0,
+          0.0
+        ],
+        "effect_size_d": 0.0,
+        "valid_paired_scenarios": 200,
+        "missing_pairs": 0,
+        "direction_of_effect": "zero",
+        "is_exploratory": true
+      },
+      "action_sequence_divergence": {
+        "metric_name": "action_sequence_divergence",
+        "mean_difference": 1.7218646835317487e-06,
+        "median_difference": 0.0,
+        "std_difference": 1.4890832608537057e-05,
+        "95_bootstrap_ci": [
+          2.542350539442851e-07,
+          4.102429279555509e-06
+        ],
+        "effect_size_d": 0.11563253236387784,
+        "valid_paired_scenarios": 200,
+        "missing_pairs": 0,
+        "direction_of_effect": "positive",
+        "is_exploratory": true
+      },
+      "object_trajectory_divergence": {
+        "metric_name": "object_trajectory_divergence",
+        "mean_difference": 0.0008187372903802432,
+        "median_difference": 1.8041124150158794e-16,
+        "std_difference": 0.0055536719479565115,
+        "95_bootstrap_ci": [
+          0.00020958668966986047,
+          0.001684398793018739
+        ],
+        "effect_size_d": 0.1474226958402719,
+        "valid_paired_scenarios": 200,
+        "missing_pairs": 0,
+        "direction_of_effect": "positive",
+        "is_exploratory": true
+      },
+      "hidden_state_divergence": {
+        "metric_name": "hidden_state_divergence",
+        "mean_difference": 0.0,
+        "median_difference": 0.0,
+        "std_difference": 0.0,
+        "95_bootstrap_ci": [
+          0.0,
+          0.0
+        ],
+        "effect_size_d": 0.0,
+        "valid_paired_scenarios": 200,
+        "missing_pairs": 0,
+        "direction_of_effect": "zero",
+        "is_exploratory": true
+      },
+      "recovery_time_difference": {
+        "metric_name": "recovery_time_difference",
+        "mean_difference": 0.0,
+        "median_difference": 0.0,
+        "std_difference": 0.0,
+        "95_bootstrap_ci": [
+          0.0,
+          0.0
+        ],
+        "effect_size_d": 0.0,
+        "valid_paired_scenarios": 200,
+        "missing_pairs": 0,
+        "direction_of_effect": "zero",
+        "is_exploratory": true
+      },
+      "control_effort_difference": {
+        "metric_name": "control_effort_difference",
+        "mean_difference": 1.4214050743248662e-06,
+        "median_difference": 0.0,
+        "std_difference": 1.49225105588352e-05,
+        "95_bootstrap_ci": [
+          -4.6224555262597226e-08,
+          3.7791462961877145e-06
+        ],
+        "effect_size_d": 0.09525240868288695,
+        "valid_paired_scenarios": 200,
+        "missing_pairs": 0,
+        "direction_of_effect": "positive",
+        "is_exploratory": true
+      },
+      "physical_recovery_difference": {
+        "metric_name": "physical_recovery_difference",
+        "mean_difference": -0.0009999999999999998,
+        "median_difference": 0.0,
+        "std_difference": 0.014106735979665884,
+        "95_bootstrap_ci": [
+          -0.002999999999999999,
+          0.0
+        ],
+        "effect_size_d": -0.07088812050083358,
+        "valid_paired_scenarios": 200,
+        "missing_pairs": 0,
+        "direction_of_effect": "negative",
+        "is_exploratory": true
+      },
+      "detection_difference": {
+        "metric_name": "detection_difference",
+        "mean_difference": 0.0,
+        "median_difference": 0.0,
+        "std_difference": 0.0,
+        "95_bootstrap_ci": [
+          0.0,
+          0.0
+        ],
+        "effect_size_d": 0.0,
+        "valid_paired_scenarios": 200,
+        "missing_pairs": 0,
+        "direction_of_effect": "zero",
+        "is_exploratory": true
+      },
+      "corrective_action_difference": {
+        "metric_name": "corrective_action_difference",
+        "mean_difference": -0.0009999999999999998,
+        "median_difference": 0.0,
+        "std_difference": 0.014106735979665884,
+        "95_bootstrap_ci": [
+          -0.002999999999999999,
+          0.0
+        ],
+        "effect_size_d": -0.07088812050083358,
+        "valid_paired_scenarios": 200,
+        "missing_pairs": 0,
+        "direction_of_effect": "negative",
+        "is_exploratory": true
+      },
+      "safety_violation_difference": {
+        "metric_name": "safety_violation_difference",
+        "mean_difference": 0.001,
+        "median_difference": 0.0,
+        "std_difference": 0.014106735979665887,
+        "95_bootstrap_ci": [
+          0.0,
+          0.0030000000000000005
+        ],
+        "effect_size_d": 0.07088812050083358,
+        "valid_paired_scenarios": 200,
+        "missing_pairs": 0,
+        "direction_of_effect": "positive",
+        "is_exploratory": true
+      }
+    },
+    "recovery_augmented_gru": {
+      "first_action_divergence": {
+        "metric_name": "first_action_divergence",
+        "mean_difference": 0.0032268851028739226,
+        "median_difference": 0.003779229304223147,
+        "std_difference": 0.0009898526427022667,
+        "95_bootstrap_ci": [
+          0.003088703887726607,
+          0.0033646500206757435
+        ],
+        "effect_size_d": 3.259965133865408,
+        "valid_paired_scenarios": 200,
+        "missing_pairs": 0,
+        "direction_of_effect": "positive",
+        "is_exploratory": true
+      },
+      "action_sequence_divergence": {
+        "metric_name": "action_sequence_divergence",
+        "mean_difference": 0.00015165102806945896,
+        "median_difference": 4.2025722351013415e-05,
+        "std_difference": 0.00025809287491950075,
+        "95_bootstrap_ci": [
+          0.00011771974931463735,
+          0.00018922937242539268
+        ],
+        "effect_size_d": 0.5875831640713017,
+        "valid_paired_scenarios": 200,
+        "missing_pairs": 0,
+        "direction_of_effect": "positive",
+        "is_exploratory": true
+      },
+      "object_trajectory_divergence": {
+        "metric_name": "object_trajectory_divergence",
+        "mean_difference": 0.019399429527852105,
+        "median_difference": 0.0011028265644081325,
+        "std_difference": 0.04591733655741959,
+        "95_bootstrap_ci": [
+          0.013455913327532841,
+          0.02617132684419203
+        ],
+        "effect_size_d": 0.4224859493667089,
+        "valid_paired_scenarios": 200,
+        "missing_pairs": 0,
+        "direction_of_effect": "positive",
+        "is_exploratory": true
+      },
+      "hidden_state_divergence": {
+        "metric_name": "hidden_state_divergence",
+        "mean_difference": 0.8804999999999998,
+        "median_difference": 0.8805,
+        "std_difference": 1.1102230246251565e-16,
+        "95_bootstrap_ci": [
+          0.8805,
+          0.8805
+        ],
+        "effect_size_d": 0.0,
+        "valid_paired_scenarios": 200,
+        "missing_pairs": 0,
+        "direction_of_effect": "positive",
+        "is_exploratory": true
+      },
+      "recovery_time_difference": {
+        "metric_name": "recovery_time_difference",
+        "mean_difference": 0.12599999999999995,
+        "median_difference": 0.0,
+        "std_difference": 3.982527338261471,
+        "95_bootstrap_ci": [
+          -0.377,
+          0.7559999999999999
+        ],
+        "effect_size_d": 0.031638200895565946,
+        "valid_paired_scenarios": 200,
+        "missing_pairs": 0,
+        "direction_of_effect": "positive",
+        "is_exploratory": true
+      },
+      "control_effort_difference": {
+        "metric_name": "control_effort_difference",
+        "mean_difference": 2.6405262835559983e-05,
+        "median_difference": -1.2251405973984222e-05,
+        "std_difference": 0.000298182374551753,
+        "95_bootstrap_ci": [
+          -1.5606325051883558e-05,
+          6.77262624313135e-05
+        ],
+        "effect_size_d": 0.08855406988845026,
+        "valid_paired_scenarios": 200,
+        "missing_pairs": 0,
+        "direction_of_effect": "positive",
+        "is_exploratory": true
+      },
+      "physical_recovery_difference": {
+        "metric_name": "physical_recovery_difference",
+        "mean_difference": -0.017,
+        "median_difference": 0.0,
+        "std_difference": 0.14391316826475606,
+        "95_bootstrap_ci": [
+          -0.03799999999999999,
+          0.0020000000000000035
+        ],
+        "effect_size_d": -0.11812678579020107,
+        "valid_paired_scenarios": 200,
+        "missing_pairs": 0,
+        "direction_of_effect": "negative",
+        "is_exploratory": true
+      },
+      "detection_difference": {
+        "metric_name": "detection_difference",
+        "mean_difference": 0.0,
+        "median_difference": 0.0,
+        "std_difference": 0.0,
+        "95_bootstrap_ci": [
+          0.0,
+          0.0
+        ],
+        "effect_size_d": 0.0,
+        "valid_paired_scenarios": 200,
+        "missing_pairs": 0,
+        "direction_of_effect": "zero",
+        "is_exploratory": true
+      },
+      "corrective_action_difference": {
+        "metric_name": "corrective_action_difference",
+        "mean_difference": -0.017,
+        "median_difference": 0.0,
+        "std_difference": 0.14391316826475606,
+        "95_bootstrap_ci": [
+          -0.03799999999999999,
+          0.0020000000000000035
+        ],
+        "effect_size_d": -0.11812678579020107,
+        "valid_paired_scenarios": 200,
+        "missing_pairs": 0,
+        "direction_of_effect": "negative",
+        "is_exploratory": true
+      },
+      "safety_violation_difference": {
+        "metric_name": "safety_violation_difference",
+        "mean_difference": 0.013000000000000003,
+        "median_difference": 0.0,
+        "std_difference": 0.15109930509436503,
+        "95_bootstrap_ci": [
+          -0.006999999999999999,
+          0.034
+        ],
+        "effect_size_d": 0.08603613360022537,
+        "valid_paired_scenarios": 200,
+        "missing_pairs": 0,
+        "direction_of_effect": "positive",
+        "is_exploratory": true
+      }
+    },
+    "recovery_augmented_mlp": {
+      "first_action_divergence": {
+        "metric_name": "first_action_divergence",
+        "mean_difference": 0.0,
+        "median_difference": 0.0,
+        "std_difference": 0.0,
+        "95_bootstrap_ci": [
+          0.0,
+          0.0
+        ],
+        "effect_size_d": 0.0,
+        "valid_paired_scenarios": 200,
+        "missing_pairs": 0,
+        "direction_of_effect": "zero",
+        "is_exploratory": true
+      },
+      "action_sequence_divergence": {
+        "metric_name": "action_sequence_divergence",
+        "mean_difference": 7.843054868464705e-05,
+        "median_difference": 1.4448929206878388e-05,
+        "std_difference": 0.0001863311897377556,
+        "95_bootstrap_ci": [
+          5.4477006732315836e-05,
+          0.00010625011785413747
+        ],
+        "effect_size_d": 0.42092013041418885,
+        "valid_paired_scenarios": 200,
+        "missing_pairs": 0,
+        "direction_of_effect": "positive",
+        "is_exploratory": true
+      },
+      "object_trajectory_divergence": {
+        "metric_name": "object_trajectory_divergence",
+        "mean_difference": 0.022474217868096745,
+        "median_difference": 0.0020897946378188037,
+        "std_difference": 0.05161061378430974,
+        "95_bootstrap_ci": [
+          0.01594456472142911,
+          0.029857436511366364
+        ],
+        "effect_size_d": 0.4354572871778011,
+        "valid_paired_scenarios": 200,
+        "missing_pairs": 0,
+        "direction_of_effect": "positive",
+        "is_exploratory": true
+      },
+      "hidden_state_divergence": {
+        "metric_name": "hidden_state_divergence",
+        "mean_difference": 0.0,
+        "median_difference": 0.0,
+        "std_difference": 0.0,
+        "95_bootstrap_ci": [
+          0.0,
+          0.0
+        ],
+        "effect_size_d": 0.0,
+        "valid_paired_scenarios": 200,
+        "missing_pairs": 0,
+        "direction_of_effect": "zero",
+        "is_exploratory": true
+      },
+      "recovery_time_difference": {
+        "metric_name": "recovery_time_difference",
+        "mean_difference": -4.013999999999999,
+        "median_difference": 0.0,
+        "std_difference": 18.7434309559376,
+        "95_bootstrap_ci": [
+          -6.8230749999999984,
+          -1.6509750000000005
+        ],
+        "effect_size_d": -0.21415502900382452,
+        "valid_paired_scenarios": 200,
+        "missing_pairs": 0,
+        "direction_of_effect": "negative",
+        "is_exploratory": true
+      },
+      "control_effort_difference": {
+        "metric_name": "control_effort_difference",
+        "mean_difference": -1.5138126943043064e-05,
+        "median_difference": -8.989388788904762e-09,
+        "std_difference": 0.00020159737187949294,
+        "95_bootstrap_ci": [
+          -4.2548243558160944e-05,
+          1.392199983454447e-05
+        ],
+        "effect_size_d": -0.07509089430040808,
+        "valid_paired_scenarios": 200,
+        "missing_pairs": 0,
+        "direction_of_effect": "negative",
+        "is_exploratory": true
+      },
+      "physical_recovery_difference": {
+        "metric_name": "physical_recovery_difference",
+        "mean_difference": 0.015000000000000003,
+        "median_difference": 0.0,
+        "std_difference": 0.19792675412889482,
+        "95_bootstrap_ci": [
+          -0.012,
+          0.04300000000000001
+        ],
+        "effect_size_d": 0.07578561102574152,
+        "valid_paired_scenarios": 200,
+        "missing_pairs": 0,
+        "direction_of_effect": "positive",
+        "is_exploratory": true
+      },
+      "detection_difference": {
+        "metric_name": "detection_difference",
+        "mean_difference": 0.0,
+        "median_difference": 0.0,
+        "std_difference": 0.0,
+        "95_bootstrap_ci": [
+          0.0,
+          0.0
+        ],
+        "effect_size_d": 0.0,
+        "valid_paired_scenarios": 200,
+        "missing_pairs": 0,
+        "direction_of_effect": "zero",
+        "is_exploratory": true
+      },
+      "corrective_action_difference": {
+        "metric_name": "corrective_action_difference",
+        "mean_difference": 0.015000000000000003,
+        "median_difference": 0.0,
+        "std_difference": 0.19792675412889482,
+        "95_bootstrap_ci": [
+          -0.012,
+          0.04300000000000001
+        ],
+        "effect_size_d": 0.07578561102574152,
+        "valid_paired_scenarios": 200,
+        "missing_pairs": 0,
+        "direction_of_effect": "positive",
+        "is_exploratory": true
+      },
+      "safety_violation_difference": {
+        "metric_name": "safety_violation_difference",
+        "mean_difference": 0.014000000000000002,
+        "median_difference": 0.0,
+        "std_difference": 0.20737405816543206,
+        "95_bootstrap_ci": [
+          -0.014999999999999998,
+          0.04299999999999999
+        ],
+        "effect_size_d": 0.06751085513710467,
+        "valid_paired_scenarios": 200,
+        "missing_pairs": 0,
+        "direction_of_effect": "positive",
+        "is_exploratory": true
+      }
+    }
+  }
+}

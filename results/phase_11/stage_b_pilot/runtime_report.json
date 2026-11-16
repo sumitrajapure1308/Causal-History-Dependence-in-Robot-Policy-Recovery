@@ -1,0 +1,8 @@
+{
+  "stage": "Stage_B_Pilot",
+  "total_rollouts": 3720,
+  "total_runtime_seconds": 486.9992485046387,
+  "average_rollout_seconds": 0.1309137764797416,
+  "rollouts_per_second": 7.638615483334913,
+  "projected_20k_runtime_hours": 0.7272987582207866
+}

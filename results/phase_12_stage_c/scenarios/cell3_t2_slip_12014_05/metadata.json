@@ -1,0 +1,15 @@
+{
+  "scenario_uid": "cell3_t2_slip_12014_05",
+  "seed": 12014,
+  "task_id": "task2_puck",
+  "failure_mode": "rotational_slip",
+  "remaining_horizon": 134,
+  "goal_state": [
+    0.2,
+    0.08,
+    0.02
+  ],
+  "oracle_verified": true,
+  "peak_yaw_deg": 39.41851198522997,
+  "lateral_drift_m": 0.022914862189157614
+}

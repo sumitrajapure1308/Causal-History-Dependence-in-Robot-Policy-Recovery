@@ -1,0 +1,273 @@
+{
+  "total_rollouts": 1020,
+  "policies": {
+    "reactive_mlp": {
+      "B0": {
+        "success_count": 1,
+        "total_scenarios": 17,
+        "success_rate": 0.058823529411764705,
+        "wilson_95_ci": [
+          0.010460430894396022,
+          0.2698197370908782
+        ],
+        "mean_final_distance": 0.2520585775174524,
+        "mean_recovery_time": 56.64705882352941,
+        "mean_control_effort": 1.1556138762149631e-05,
+        "physical_recovery_rate": 0.058823529411764705
+      },
+      "B1": {
+        "success_count": 0,
+        "total_scenarios": 17,
+        "success_rate": 0.0,
+        "wilson_95_ci": [
+          0.0,
+          0.18431752371664414
+        ],
+        "mean_final_distance": 0.26221102979498045,
+        "mean_recovery_time": 57.470588235294116,
+        "mean_control_effort": 1.1556138708649942e-05,
+        "physical_recovery_rate": 0.0
+      },
+      "B2": {
+        "success_count": 0,
+        "total_scenarios": 17,
+        "success_rate": 0.0,
+        "wilson_95_ci": [
+          0.0,
+          0.18431752371664414
+        ],
+        "mean_final_distance": 0.2649958473023805,
+        "mean_recovery_time": 56.23529411764706,
+        "mean_control_effort": 1.155613881564932e-05,
+        "physical_recovery_rate": 0.0
+      },
+      "B3": {
+        "success_count": 0,
+        "total_scenarios": 17,
+        "success_rate": 0.0,
+        "wilson_95_ci": [
+          0.0,
+          0.18431752371664414
+        ],
+        "mean_final_distance": 0.26760293487267034,
+        "mean_recovery_time": 56.11764705882353,
+        "mean_control_effort": 1.155613881564932e-05,
+        "physical_recovery_rate": 0.0
+      },
+      "B4": {
+        "success_count": 0,
+        "total_scenarios": 17,
+        "success_rate": 0.0,
+        "wilson_95_ci": [
+          0.0,
+          0.18431752371664414
+        ],
+        "mean_final_distance": 0.2690904692454194,
+        "mean_recovery_time": 56.0,
+        "mean_control_effort": 1.155613881564932e-05,
+        "physical_recovery_rate": 0.0
+      }
+    },
+    "history_gru": {
+      "B0": {
+        "success_count": 0,
+        "total_scenarios": 17,
+        "success_rate": 0.0,
+        "wilson_95_ci": [
+          0.0,
+          0.18431752371664414
+        ],
+        "mean_final_distance": 0.24038792666791345,
+        "mean_recovery_time": 74.76470588235294,
+        "mean_control_effort": 1.1579392990183004e-05,
+        "physical_recovery_rate": 0.0
+      },
+      "B1": {
+        "success_count": 0,
+        "total_scenarios": 17,
+        "success_rate": 0.0,
+        "wilson_95_ci": [
+          0.0,
+          0.18431752371664414
+        ],
+        "mean_final_distance": 0.2402097035932377,
+        "mean_recovery_time": 74.76470588235294,
+        "mean_control_effort": 1.1579392990183004e-05,
+        "physical_recovery_rate": 0.0
+      },
+      "B2": {
+        "success_count": 0,
+        "total_scenarios": 17,
+        "success_rate": 0.0,
+        "wilson_95_ci": [
+          0.0,
+          0.18431752371664414
+        ],
+        "mean_final_distance": 0.24002618332406675,
+        "mean_recovery_time": 74.76470588235294,
+        "mean_control_effort": 1.1579392990183004e-05,
+        "physical_recovery_rate": 0.0
+      },
+      "B3": {
+        "success_count": 0,
+        "total_scenarios": 17,
+        "success_rate": 0.0,
+        "wilson_95_ci": [
+          0.0,
+          0.18431752371664414
+        ],
+        "mean_final_distance": 0.23983762679315374,
+        "mean_recovery_time": 74.76470588235294,
+        "mean_control_effort": 1.1579392990183004e-05,
+        "physical_recovery_rate": 0.0
+      },
+      "B4": {
+        "success_count": 0,
+        "total_scenarios": 17,
+        "success_rate": 0.0,
+        "wilson_95_ci": [
+          0.0,
+          0.18431752371664414
+        ],
+        "mean_final_distance": 0.23964436335301265,
+        "mean_recovery_time": 74.76470588235294,
+        "mean_control_effort": 1.1579392990183004e-05,
+        "physical_recovery_rate": 0.0
+      }
+    },
+    "recovery_augmented_mlp": {
+      "B0": {
+        "success_count": 0,
+        "total_scenarios": 17,
+        "success_rate": 0.0,
+        "wilson_95_ci": [
+          0.0,
+          0.18431752371664414
+        ],
+        "mean_final_distance": 0.2621246992616921,
+        "mean_recovery_time": 59.588235294117645,
+        "mean_control_effort": 1.1412427043336828e-05,
+        "physical_recovery_rate": 0.0
+      },
+      "B1": {
+        "success_count": 0,
+        "total_scenarios": 17,
+        "success_rate": 0.0,
+        "wilson_95_ci": [
+          0.0,
+          0.18431752371664414
+        ],
+        "mean_final_distance": 0.29699276630428795,
+        "mean_recovery_time": 50.294117647058826,
+        "mean_control_effort": 9.959775043706245e-06,
+        "physical_recovery_rate": 0.0
+      },
+      "B2": {
+        "success_count": 0,
+        "total_scenarios": 17,
+        "success_rate": 0.0,
+        "wilson_95_ci": [
+          0.0,
+          0.18431752371664414
+        ],
+        "mean_final_distance": 0.29546257045825114,
+        "mean_recovery_time": 49.05882352941177,
+        "mean_control_effort": 1.0189452388979535e-05,
+        "physical_recovery_rate": 0.0
+      },
+      "B3": {
+        "success_count": 0,
+        "total_scenarios": 17,
+        "success_rate": 0.0,
+        "wilson_95_ci": [
+          0.0,
+          0.18431752371664414
+        ],
+        "mean_final_distance": 0.29243262981331,
+        "mean_recovery_time": 52.64705882352941,
+        "mean_control_effort": 1.049006291128428e-05,
+        "physical_recovery_rate": 0.0
+      },
+      "B4": {
+        "success_count": 0,
+        "total_scenarios": 17,
+        "success_rate": 0.0,
+        "wilson_95_ci": [
+          0.0,
+          0.18431752371664414
+        ],
+        "mean_final_distance": 0.28111527806989717,
+        "mean_recovery_time": 47.470588235294116,
+        "mean_control_effort": 1.0842564439799925e-05,
+        "physical_recovery_rate": 0.0
+      }
+    },
+    "recovery_augmented_gru": {
+      "B0": {
+        "success_count": 0,
+        "total_scenarios": 17,
+        "success_rate": 0.0,
+        "wilson_95_ci": [
+          0.0,
+          0.18431752371664414
+        ],
+        "mean_final_distance": 0.2594371090801227,
+        "mean_recovery_time": 66.0,
+        "mean_control_effort": 2.0759050504934482e-05,
+        "physical_recovery_rate": 0.0
+      },
+      "B1": {
+        "success_count": 0,
+        "total_scenarios": 17,
+        "success_rate": 0.0,
+        "wilson_95_ci": [
+          0.0,
+          0.18431752371664414
+        ],
+        "mean_final_distance": 0.2675135119310952,
+        "mean_recovery_time": 60.0,
+        "mean_control_effort": 2.3184588345055306e-05,
+        "physical_recovery_rate": 0.0
+      },
+      "B2": {
+        "success_count": 0,
+        "total_scenarios": 17,
+        "success_rate": 0.0,
+        "wilson_95_ci": [
+          0.0,
+          0.18431752371664414
+        ],
+        "mean_final_distance": 0.2689273769434599,
+        "mean_recovery_time": 59.470588235294116,
+        "mean_control_effort": 2.0662899420558996e-05,
+        "physical_recovery_rate": 0.0
+      },
+      "B3": {
+        "success_count": 0,
+        "total_scenarios": 17,
+        "success_rate": 0.0,
+        "wilson_95_ci": [
+          0.0,
+          0.18431752371664414
+        ],
+        "mean_final_distance": 0.2648887017670048,
+        "mean_recovery_time": 58.64705882352941,
+        "mean_control_effort": 2.199747316754998e-05,
+        "physical_recovery_rate": 0.0
+      },
+      "B4": {
+        "success_count": 0,
+        "total_scenarios": 17,
+        "success_rate": 0.0,
+        "wilson_95_ci": [
+          0.0,
+          0.18431752371664414
+        ],
+        "mean_final_distance": 0.26478613916556293,
+        "mean_recovery_time": 59.1764705882353,
+        "mean_control_effort": 2.232542443808223e-05,
+        "physical_recovery_rate": 0.0
+      }
+    }
+  }
+}

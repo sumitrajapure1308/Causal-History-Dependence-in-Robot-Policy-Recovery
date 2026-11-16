@@ -1,0 +1,66 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# Jupyter / Testing / Coverage
+.ipynb_checkpoints/
+.pytest_cache/
+.coverage
+
+# Environment & Secrets
+.env
+.env.*
+secrets/
+credentials/
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# IDE configurations
+.vscode/
+.idea/
+
+# LaTeX auxiliary build files
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.out
+*.synctex.gz
+*.toc
+
+# Data binaries & serializations
+*.hdf5
+*.h5
+*.npz
+*.npy
+*.pkl
+*.parquet
+
+# Archives
+*.zip
+*.tar
+*.tar.gz
+
+# Logs
+*.log
+logs/
+
+# Whitelist required research artifacts
+!paper/research_draft/manuscript_source.zip
+!paper/research_draft/build.log
+!paper/research_draft/manuscript.md
+!paper/research_draft/manuscript.tex
+!paper/research_draft/references.bib
+!paper/research_draft/evidence_map.csv
+!paper/research_draft/figures/
+!paper/research_draft/figures/**
+!LICENSE
+!LICENSE-DATA.md
+!README.md

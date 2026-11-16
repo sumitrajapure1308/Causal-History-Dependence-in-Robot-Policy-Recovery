@@ -1,0 +1,57 @@
+{
+  "condition_rankings": {
+    "B0": {
+      "mlp_recovery_rate": 0.02631578947368421,
+      "gru_recovery_rate": 0.05263157894736842,
+      "ranks": {
+        "history_gru": 1,
+        "reactive_mlp": 2
+      },
+      "top_1": "history_gru",
+      "advantage_gru_minus_mlp": 0.02631578947368421
+    },
+    "B1": {
+      "mlp_recovery_rate": 0.02631578947368421,
+      "gru_recovery_rate": 0.05263157894736842,
+      "ranks": {
+        "history_gru": 1,
+        "reactive_mlp": 2
+      },
+      "top_1": "history_gru",
+      "advantage_gru_minus_mlp": 0.02631578947368421
+    },
+    "B2": {
+      "mlp_recovery_rate": 0.02631578947368421,
+      "gru_recovery_rate": 0.05263157894736842,
+      "ranks": {
+        "history_gru": 1,
+        "reactive_mlp": 2
+      },
+      "top_1": "history_gru",
+      "advantage_gru_minus_mlp": 0.02631578947368421
+    },
+    "B3": {
+      "mlp_recovery_rate": 0.02631578947368421,
+      "gru_recovery_rate": 0.05263157894736842,
+      "ranks": {
+        "history_gru": 1,
+        "reactive_mlp": 2
+      },
+      "top_1": "history_gru",
+      "advantage_gru_minus_mlp": 0.02631578947368421
+    },
+    "B4": {
+      "mlp_recovery_rate": 0.02631578947368421,
+      "gru_recovery_rate": 0.05263157894736842,
+      "ranks": {
+        "history_gru": 1,
+        "reactive_mlp": 2
+      },
+      "top_1": "history_gru",
+      "advantage_gru_minus_mlp": 0.02631578947368421
+    }
+  },
+  "ranking_reversal_B0_vs_B4": false,
+  "kendall_tau": 1.0,
+  "spearman_rho": 1.0
+}

@@ -1,0 +1,85 @@
+{
+  "sensitivity_by_severity": {
+    "reactive_mlp": {
+      "small": {
+        "scenarios_count": 23,
+        "succ_b0": 0.043478260869565216,
+        "succ_b4": 0.043478260869565216,
+        "diff": 0.0
+      },
+      "medium": {
+        "scenarios_count": 16,
+        "succ_b0": 0.0625,
+        "succ_b4": 0.0625,
+        "diff": 0.0
+      },
+      "large": {
+        "scenarios_count": 6,
+        "succ_b0": 0.0,
+        "succ_b4": 0.0,
+        "diff": 0.0
+      }
+    },
+    "history_gru": {
+      "small": {
+        "scenarios_count": 23,
+        "succ_b0": 0.043478260869565216,
+        "succ_b4": 0.043478260869565216,
+        "diff": 0.0
+      },
+      "medium": {
+        "scenarios_count": 16,
+        "succ_b0": 0.0625,
+        "succ_b4": 0.0625,
+        "diff": 0.0
+      },
+      "large": {
+        "scenarios_count": 6,
+        "succ_b0": 0.0,
+        "succ_b4": 0.0,
+        "diff": 0.0
+      }
+    },
+    "recovery_augmented_mlp": {
+      "small": {
+        "scenarios_count": 23,
+        "succ_b0": 0.043478260869565216,
+        "succ_b4": 0.043478260869565216,
+        "diff": 0.0
+      },
+      "medium": {
+        "scenarios_count": 16,
+        "succ_b0": 0.0,
+        "succ_b4": 0.0,
+        "diff": 0.0
+      },
+      "large": {
+        "scenarios_count": 6,
+        "succ_b0": 0.0,
+        "succ_b4": 0.0,
+        "diff": 0.0
+      }
+    },
+    "recovery_augmented_gru": {
+      "small": {
+        "scenarios_count": 23,
+        "succ_b0": 0.0,
+        "succ_b4": 0.0,
+        "diff": 0.0
+      },
+      "medium": {
+        "scenarios_count": 16,
+        "succ_b0": 0.0,
+        "succ_b4": 0.0,
+        "diff": 0.0
+      },
+      "large": {
+        "scenarios_count": 6,
+        "succ_b0": 0.0,
+        "succ_b4": 0.0,
+        "diff": 0.0
+      }
+    }
+  },
+  "sensitivity_by_horizon": {}
+}

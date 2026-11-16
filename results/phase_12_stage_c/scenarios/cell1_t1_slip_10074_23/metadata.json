@@ -1,0 +1,15 @@
+{
+  "scenario_uid": "cell1_t1_slip_10074_23",
+  "seed": 10074,
+  "task_id": "task1_cube",
+  "failure_mode": "rotational_slip",
+  "remaining_horizon": 112,
+  "goal_state": [
+    0.25,
+    0.0,
+    0.025
+  ],
+  "oracle_verified": true,
+  "peak_yaw_deg": 27.859604621742623,
+  "lateral_drift_m": 0.04859450557752911
+}

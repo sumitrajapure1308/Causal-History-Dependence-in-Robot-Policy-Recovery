@@ -1,0 +1,154 @@
+{
+  "metadata": {
+    "project": "Causal-History Dependence in Robot Policy Recovery",
+    "phase": "Phase 13 (Manuscript Evidence Package)",
+    "dpi": 600,
+    "format": [
+      "PNG",
+      "PDF"
+    ],
+    "timestamp": "2026-11-10T05:47:43.568451+00:00"
+  },
+  "figures": {
+    "fig_paper_01": {
+      "title": "Paired Replay-Injection Matching Methodological Pipeline",
+      "input_data_path": "docs/methodology/phase_12_stage_c_preregistration.md",
+      "output_path_png": "figures/benchmark/paper/fig_paper_01_method_pipeline.png",
+      "creation_script": "scripts/make_paper_figures.py",
+      "seed": 42,
+      "creation_timestamp": "2026-11-10T05:47:45.115388+00:00",
+      "data_hash": "c6a7ba4a1de072e4671848eba68053329379d670a3e53bcaafeb262b38c121bd",
+      "figure_hash": "6e6c6ac66ab4ec67988d45b9c3c4b9d92b7b9312b44017d152b36a99cd5db6b1"
+    },
+    "fig_paper_02": {
+      "title": "Benchmark Scenario Generation and Admission Funnel",
+      "input_data_path": "results/phase_12_stage_c/scenario_manifest.json",
+      "output_path_png": "figures/benchmark/paper/fig_paper_02_scenario_generation.png",
+      "creation_script": "scripts/make_paper_figures.py",
+      "seed": 42,
+      "creation_timestamp": "2026-11-10T05:47:46.226583+00:00",
+      "data_hash": "8a04c47eed1b818f9c823dbb1454bae183c4bf78be8caaab8eea3eff8bd5b259",
+      "figure_hash": "e1b3c9a34e838d11e0407140f54a0ff36156bc579077e4961c709b1341b60747"
+    },
+    "fig_paper_03": {
+      "title": "Physical State Matching Error Across Interventions",
+      "input_data_path": "results/phase_12_stage_c/completeness_report.json",
+      "output_path_png": "figures/benchmark/paper/fig_paper_03_state_matching.png",
+      "creation_script": "scripts/make_paper_figures.py",
+      "seed": 42,
+      "creation_timestamp": "2026-11-10T05:47:47.676337+00:00",
+      "data_hash": "a650a1b048cbedf69c566f568bf05414b4500a9605496172f00bece5050f2495",
+      "figure_hash": "d9d12c31e94cc3e0963467753788aea94da289bba73f714572636b1e5e65a640"
+    },
+    "fig_paper_04": {
+      "title": "Recovery Success Rate across History Conditions",
+      "input_data_path": "results/phase_12_stage_c/evaluation_summary.json",
+      "output_path_png": "figures/benchmark/paper/fig_paper_04_recovery_success_by_condition.png",
+      "creation_script": "scripts/make_paper_figures.py",
+      "seed": 42,
+      "creation_timestamp": "2026-11-10T05:47:48.934588+00:00",
+      "data_hash": "982b796c3735c9d12bb698851b080e5252960e5197703da9c760d9ad57bfc343",
+      "figure_hash": "67f92d48b7b256ba883a7287a1d8414f72f395f4933c1f34f53bf452cce12c13"
+    },
+    "fig_paper_05": {
+      "title": "Binary Recovery Success by Policy Architecture",
+      "input_data_path": "results/phase_12_stage_c/analysis/primary_analysis.json",
+      "output_path_png": "figures/benchmark/paper/fig_paper_05_recovery_success_by_policy.png",
+      "creation_script": "scripts/make_paper_figures.py",
+      "seed": 42,
+      "creation_timestamp": "2026-11-10T05:47:50.115701+00:00",
+      "data_hash": "e197ae12f1ca20874fc01ae4946013a13daeb979277de47b510e7a6a441b9b3a",
+      "figure_hash": "ade379d2afea03d86d4022bd1f91e085a8da155b9c5b765b9c91b3ed2ce90c3d"
+    },
+    "fig_paper_06": {
+      "title": "Recovery Success by Manipulation Task Environment",
+      "input_data_path": "results/phase_12_stage_c/analysis/sensitivity_analysis.json",
+      "output_path_png": "figures/benchmark/paper/fig_paper_06_recovery_success_by_task.png",
+      "creation_script": "scripts/make_paper_figures.py",
+      "seed": 42,
+      "creation_timestamp": "2026-11-10T05:47:51.453582+00:00",
+      "data_hash": "6d422041bee64b9b0473454d776356504abe966b938e9e66b4170e3cbc7afa6f",
+      "figure_hash": "60c2107144f11d5f3dcd9bb5ead25253e6e440300ba170a92192d0ca5c627524"
+    },
+    "fig_paper_07": {
+      "title": "Recovery Success by Execution Failure Mode",
+      "input_data_path": "results/phase_12_stage_c/analysis/sensitivity_analysis.json",
+      "output_path_png": "figures/benchmark/paper/fig_paper_07_recovery_success_by_failure_type.png",
+      "creation_script": "scripts/make_paper_figures.py",
+      "seed": 42,
+      "creation_timestamp": "2026-11-10T05:47:52.830166+00:00",
+      "data_hash": "6d422041bee64b9b0473454d776356504abe966b938e9e66b4170e3cbc7afa6f",
+      "figure_hash": "d30af00d0ea11bc4b6186a93b73fab42047ad5d3c763033f7c0507f2ae72563f"
+    },
+    "fig_paper_08": {
+      "title": "Primary History-Dependence Score Distribution",
+      "input_data_path": "results/phase_12_stage_c/analysis/primary_analysis.json",
+      "output_path_png": "figures/benchmark/paper/fig_paper_08_history_dependence_score.png",
+      "creation_script": "scripts/make_paper_figures.py",
+      "seed": 42,
+      "creation_timestamp": "2026-11-10T05:47:54.152637+00:00",
+      "data_hash": "e197ae12f1ca20874fc01ae4946013a13daeb979277de47b510e7a6a441b9b3a",
+      "figure_hash": "be9f11cd8e860bcd766bfe7fc420795976c499ecb5396ebfc9df87c0a52b68b8"
+    },
+    "fig_paper_09": {
+      "title": "Continuous Final Goal Distance Error Divergence",
+      "input_data_path": "results/phase_12_stage_c/analysis/continuous_analysis.json",
+      "output_path_png": "figures/benchmark/paper/fig_paper_09_paired_difference_distribution.png",
+      "creation_script": "scripts/make_paper_figures.py",
+      "seed": 42,
+      "creation_timestamp": "2026-11-10T05:47:55.309733+00:00",
+      "data_hash": "4e4842237fb83430bde100e2279783e5ccb0a0acd9ff605be65f091124bc9a82",
+      "figure_hash": "5461faff4025f5a177f6e24cdf2daaadadc48ba16dbb65d1287056b6f1c707af"
+    },
+    "fig_paper_10": {
+      "title": "Forest Plot of Paired Bootstrap CIs",
+      "input_data_path": "results/phase_12_stage_c/analysis/continuous_analysis.json",
+      "output_path_png": "figures/benchmark/paper/fig_paper_10_confidence_interval_forest.png",
+      "creation_script": "scripts/make_paper_figures.py",
+      "seed": 42,
+      "creation_timestamp": "2026-11-10T05:47:56.312974+00:00",
+      "data_hash": "4e4842237fb83430bde100e2279783e5ccb0a0acd9ff605be65f091124bc9a82",
+      "figure_hash": "4a51e27398ea3fa68f823c1ca8757b5f1a358948dc8c41ccdd19fdfb35e3d3d9"
+    },
+    "fig_paper_11": {
+      "title": "Mechanism Action and Trajectory Divergence",
+      "input_data_path": "results/phase_12_stage_c/analysis/mechanism_analysis.json",
+      "output_path_png": "figures/benchmark/paper/fig_paper_11_mechanism_divergence.png",
+      "creation_script": "scripts/make_paper_figures.py",
+      "seed": 42,
+      "creation_timestamp": "2026-11-10T05:47:57.505688+00:00",
+      "data_hash": "028f9b04e62a1e33a0849f0a6338f9624099019b411e34a417481424a2a99b36",
+      "figure_hash": "d185a5af02a281a6cfb5499445b2145a2cb9425bb994d3761f2038b3f1ea6e25"
+    },
+    "fig_paper_12": {
+      "title": "Recovery Decomposition Waterfall Funnel",
+      "input_data_path": "results/phase_12_stage_c/analysis/recovery_decomposition.json",
+      "output_path_png": "figures/benchmark/paper/fig_paper_12_recovery_decomposition.png",
+      "creation_script": "scripts/make_paper_figures.py",
+      "seed": 42,
+      "creation_timestamp": "2026-11-10T05:47:58.699743+00:00",
+      "data_hash": "bf1306358968304c951d49f707f01079f93cbd93217d113f205e237707a938d3",
+      "figure_hash": "ac981ee67822a2f73beacc61b2b03775a887f97184732bcdc55ce039143df3ba"
+    },
+    "fig_paper_13": {
+      "title": "Policy Ranking Stability across History Interventions",
+      "input_data_path": "results/phase_12_stage_c/analysis/policy_rankings.json",
+      "output_path_png": "figures/benchmark/paper/fig_paper_13_policy_ranking.png",
+      "creation_script": "scripts/make_paper_figures.py",
+      "seed": 42,
+      "creation_timestamp": "2026-11-10T05:47:59.734254+00:00",
+      "data_hash": "b9875f81078d0634b538acb609b1b12b96179233b2f9110a7a97754ed600aa38",
+      "figure_hash": "46fa4b14d868e310f5ed4a4248f16deafca11fa67affa322187fd5ea6cad1380"
+    },
+    "fig_paper_14": {
+      "title": "Benchmark Robustness Audit Summary",
+      "input_data_path": "docs/audit/benchmark_result_robustness_audit.md",
+      "output_path_png": "figures/benchmark/paper/fig_paper_14_sensitivity_analysis.png",
+      "creation_script": "scripts/make_paper_figures.py",
+      "seed": 42,
+      "creation_timestamp": "2026-11-10T05:48:00.743091+00:00",
+      "data_hash": "ce778af7e93cb0a491b7f9a7749c4d1ef2e460f0239fa2c4204117b2333409af",
+      "figure_hash": "a948aeca50b46bd2fcba1e97160c35a3f9419b9129ff51b20ce9014660ccd3b7"
+    }
+  }
+}

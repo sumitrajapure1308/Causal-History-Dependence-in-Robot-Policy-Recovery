@@ -1,0 +1,48 @@
+# Determinism & State Restoration Tolerances
+# These thresholds define numerical and physical boundaries for test verification.
+# Each tolerance is physically and numerically justified below.
+
+tolerances:
+  # Generalized coordinates (joint angles & prismatic positions)
+  # Justification: MuJoCo uses float64 double-precision arithmetic. A strict threshold of 1e-10
+  # guards against machine precision noise while detecting any unintended kinematic drift.
+  qpos_tolerance: 1.0e-10
+
+  # Generalized velocities (joint speeds & slide rates)
+  # Justification: Velocity integration is sensitive to solver step size. 1e-10 ensures momentum
+  # is preserved bitwise without velocity damping artifacts.
+  qvel_tolerance: 1.0e-10
+
+  # Object 6D Cartesian pose (position in meters, orientation in radians)
+  # Justification: Position tolerance of 1.0e-6 m (1 micrometer) is orders of magnitude smaller
+  # than real-world sensor resolution (millimeter scale), ensuring exact spatial equivalence.
+  object_position_tolerance_m: 1.0e-6
+  object_orientation_tolerance_rad: 1.0e-6
+
+  # End-effector Cartesian pose (position in meters, orientation in radians)
+  # Justification: 1.0e-6 m guarantees end-effector probe alignment.
+  end_effector_position_tolerance_m: 1.0e-6
+  end_effector_orientation_tolerance_rad: 1.0e-6
+
+  # Contact state tolerance
+  # Justification: Contact indicator must match exactly (0 difference). Contact normal force
+  # tolerance of 1.0e-4 N ensures identical contact pressure without impulse shock.
+  contact_count_tolerance: 0
+  contact_force_tolerance_n: 1.0e-4
+
+  # Continuous simulation time tolerance (seconds)
+  # Justification: MuJoCo advances time in discrete dt increments (0.005s or 0.01s). Time drift
+  # must be exactly zero (1.0e-12).
+  simulator_time_tolerance_s: 1.0e-12
+
+  # Observation vector tolerance
+  # Justification: In low-dimensional state observations, observations are direct projections of
+  # (qpos, qvel, target). Max difference across all observation components must not exceed 1.0e-8.
+  observation_tolerance: 1.0e-8
+
+  # Final rollout divergence tolerance after multi-step prefix replay
+  # Justification: Stepping an identical action sequence of N steps from an identical state
+  # must yield zero numerical divergence on deterministic CPU architectures (1.0e-9).
+  prefix_replay_rollout_tolerance: 1.0e-9
+  state_injection_rollout_tolerance: 1.0e-9
+

@@ -1,0 +1,6 @@
+{
+  "stage": "Stage_B_Pilot",
+  "jsonl_bytes": 1803226,
+  "bytes_per_rollout": 484.73817204301076,
+  "projected_20k_jsonl_mb": 9.24564689718267
+}

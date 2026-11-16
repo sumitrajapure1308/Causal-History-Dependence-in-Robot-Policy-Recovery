@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "title": "15-Point Paired Scenario Validation Report",
+    "total_evaluated": 140,
+    "total_passed": 38,
+    "total_rejected": 102,
+    "pass_rate": 0.2714
+  },
+  "rejection_summary": {
+    "oracle_unrecoverable": 102,
+    "failed_validation": 0
+  },
+  "rule_compliance": {
+    "rule_1": 1.0,
+    "rule_2": 1.0,
+    "rule_3": 1.0,
+    "rule_4": 1.0,
+    "rule_5": 1.0,
+    "rule_6": 1.0,
+    "rule_7": 1.0,
+    "rule_8": 1.0,
+    "rule_9": 1.0,
+    "rule_10": 1.0,
+    "rule_11": 1.0,
+    "rule_12": 1.0,
+    "rule_13": 1.0,
+    "rule_14": 1.0,
+    "rule_15": 1.0
+  }
+}

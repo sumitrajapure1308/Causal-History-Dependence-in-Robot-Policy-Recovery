@@ -1,0 +1,16 @@
+# Recovery-Augmented GRU Recurrent Policy Configuration
+policy_type: "recovery_augmented_gru"
+obs_dim: 20
+augmented_dim: 24
+action_dim: 3
+input_dim: 28  # 24 augmented obs + 3 prev action + 1 contact
+action_limit: 0.02
+history_window: 10
+hidden_dim: 128
+num_layers: 1
+device: "cpu"
+learning_rate: 0.001
+weight_decay: 1.0e-5
+batch_size: 32
+epochs: 35
+

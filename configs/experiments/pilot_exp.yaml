@@ -1,0 +1,9 @@
+experiment_id: "pilot_exp_01"
+description: "Minimum viable experiment evaluating contact slip on push-to-target task"
+seeds: [42, 1337, 2026]
+tasks: ["planned_custom_push_target_env"]
+policies: ["bc_reactive_mlp", "bc_history_gru"]
+matching_tier: "strict"
+sample_size: 50
+output_dir: "results/raw/pilot_exp_01"
+

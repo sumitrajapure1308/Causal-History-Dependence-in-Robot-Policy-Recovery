@@ -1,0 +1,27 @@
+{
+  "num_scenarios": 62,
+  "by_task": {
+    "task1_cube": {
+      "total_rollouts": 800,
+      "success_rate": 0.00875,
+      "mean_distance": 0.24554920701373967
+    },
+    "task2_puck": {
+      "total_rollouts": 440,
+      "success_rate": 0.0022727272727272726,
+      "mean_distance": 0.2783644549926827
+    }
+  },
+  "by_failure": {
+    "rotational_slip": {
+      "total_rollouts": 440,
+      "success_rate": 0.0,
+      "mean_distance": 0.259077398461691
+    },
+    "contact_loss": {
+      "total_rollouts": 800,
+      "success_rate": 0.01,
+      "mean_distance": 0.2561570881057851
+    }
+  }
+}

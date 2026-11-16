@@ -1,0 +1,1493 @@
+{
+  "timestamp": "2026-11-12 09:05:25",
+  "total_scenarios_tested": 4,
+  "total_rollouts_executed": 48,
+  "policies_tested": [
+    "rec_aug_gru",
+    "history_gru",
+    "reactive_mlp"
+  ],
+  "conditions_tested": [
+    "M_REPLAY_PRESERVED",
+    "M_INJECT_PRESERVED",
+    "M_INJECT_RESET",
+    "M_INJECT_ALTERNATIVE"
+  ],
+  "verification_summary": {
+    "all_checks_passed": true,
+    "memory_restoration_exactness_passed": true,
+    "memory_reset_exactness_passed": true,
+    "prefix_unroll_determinism_passed": true,
+    "state_matching_invariance_passed": true,
+    "remaining_horizon_invariance_passed": true,
+    "memory_leakage_prevention_passed": true,
+    "max_state_matching_error_m": 0.0,
+    "max_memory_restoration_diff": 0.0,
+    "max_memory_reset_norm": 0.0
+  },
+  "exactness_checks": {
+    "memory_restoration_exactness": [
+      {
+        "scenario": "cell1_t1_slip_10001_00",
+        "policy": "rec_aug_gru",
+        "h_diff": 0.0,
+        "passed": true
+      },
+      {
+        "scenario": "cell1_t1_slip_10001_00",
+        "policy": "history_gru",
+        "h_diff": 0.0,
+        "passed": true
+      },
+      {
+        "scenario": "cell2_t1_loss_11003_00",
+        "policy": "rec_aug_gru",
+        "h_diff": 0.0,
+        "passed": true
+      },
+      {
+        "scenario": "cell2_t1_loss_11003_00",
+        "policy": "history_gru",
+        "h_diff": 0.0,
+        "passed": true
+      },
+      {
+        "scenario": "cell3_t2_slip_12002_00",
+        "policy": "rec_aug_gru",
+        "h_diff": 0.0,
+        "passed": true
+      },
+      {
+        "scenario": "cell3_t2_slip_12002_00",
+        "policy": "history_gru",
+        "h_diff": 0.0,
+        "passed": true
+      },
+      {
+        "scenario": "cell4_t2_loss_13001_00",
+        "policy": "rec_aug_gru",
+        "h_diff": 0.0,
+        "passed": true
+      },
+      {
+        "scenario": "cell4_t2_loss_13001_00",
+        "policy": "history_gru",
+        "h_diff": 0.0,
+        "passed": true
+      }
+    ],
+    "memory_reset_exactness": [
+      {
+        "scenario": "cell1_t1_slip_10001_00",
+        "policy": "rec_aug_gru",
+        "h_norm": 0.0,
+        "passed": true
+      },
+      {
+        "scenario": "cell1_t1_slip_10001_00",
+        "policy": "history_gru",
+        "h_norm": 0.0,
+        "passed": true
+      },
+      {
+        "scenario": "cell2_t1_loss_11003_00",
+        "policy": "rec_aug_gru",
+        "h_norm": 0.0,
+        "passed": true
+      },
+      {
+        "scenario": "cell2_t1_loss_11003_00",
+        "policy": "history_gru",
+        "h_norm": 0.0,
+        "passed": true
+      },
+      {
+        "scenario": "cell3_t2_slip_12002_00",
+        "policy": "rec_aug_gru",
+        "h_norm": 0.0,
+        "passed": true
+      },
+      {
+        "scenario": "cell3_t2_slip_12002_00",
+        "policy": "history_gru",
+        "h_norm": 0.0,
+        "passed": true
+      },
+      {
+        "scenario": "cell4_t2_loss_13001_00",
+        "policy": "rec_aug_gru",
+        "h_norm": 0.0,
+        "passed": true
+      },
+      {
+        "scenario": "cell4_t2_loss_13001_00",
+        "policy": "history_gru",
+        "h_norm": 0.0,
+        "passed": true
+      }
+    ],
+    "prefix_unroll_determinism": [
+      {
+        "scenario": "cell1_t1_slip_10001_00",
+        "policy": "rec_aug_gru",
+        "unroll_diff": 0.0,
+        "passed": true
+      },
+      {
+        "scenario": "cell2_t1_loss_11003_00",
+        "policy": "rec_aug_gru",
+        "unroll_diff": 0.0,
+        "passed": true
+      },
+      {
+        "scenario": "cell3_t2_slip_12002_00",
+        "policy": "rec_aug_gru",
+        "unroll_diff": 0.0,
+        "passed": true
+      },
+      {
+        "scenario": "cell4_t2_loss_13001_00",
+        "policy": "rec_aug_gru",
+        "unroll_diff": 0.0,
+        "passed": true
+      }
+    ],
+    "state_matching_error": [
+      {
+        "scenario": "cell1_t1_slip_10001_00",
+        "policy": "rec_aug_gru",
+        "condition": "M_REPLAY_PRESERVED",
+        "state_error_m": 0.0,
+        "passed": true
+      },
+      {
+        "scenario": "cell1_t1_slip_10001_00",
+        "policy": "rec_aug_gru",
+        "condition": "M_INJECT_PRESERVED",
+        "state_error_m": 0.0,
+        "passed": true
+      },
+      {
+        "scenario": "cell1_t1_slip_10001_00",
+        "policy": "rec_aug_gru",
+        "condition": "M_INJECT_RESET",
+        "state_error_m": 0.0,
+        "passed": true
+      },
+      {
+        "scenario": "cell1_t1_slip_10001_00",
+        "policy": "rec_aug_gru",
+        "condition": "M_INJECT_ALTERNATIVE",
+        "state_error_m": 0.0,
+        "passed": true
+      },
+      {
+        "scenario": "cell1_t1_slip_10001_00",
+        "policy": "history_gru",
+        "condition": "M_REPLAY_PRESERVED",
+        "state_error_m": 0.0,
+        "passed": true
+      },
+      {
+        "scenario": "cell1_t1_slip_10001_00",
+        "policy": "history_gru",
+        "condition": "M_INJECT_PRESERVED",
+        "state_error_m": 0.0,
+        "passed": true
+      },
+      {
+        "scenario": "cell1_t1_slip_10001_00",
+        "policy": "history_gru",
+        "condition": "M_INJECT_RESET",
+        "state_error_m": 0.0,
+        "passed": true
+      },
+      {
+        "scenario": "cell1_t1_slip_10001_00",
+        "policy": "history_gru",
+        "condition": "M_INJECT_ALTERNATIVE",
+        "state_error_m": 0.0,
+        "passed": true
+      },
+      {
+        "scenario": "cell1_t1_slip_10001_00",
+        "policy": "reactive_mlp",
+        "condition": "M_REPLAY_PRESERVED",
+        "state_error_m": 0.0,
+        "passed": true
+      },
+      {
+        "scenario": "cell1_t1_slip_10001_00",
+        "policy": "reactive_mlp",
+        "condition": "M_INJECT_PRESERVED",
+        "state_error_m": 0.0,
+        "passed": true
+      },
+      {
+        "scenario": "cell1_t1_slip_10001_00",
+        "policy": "reactive_mlp",
+        "condition": "M_INJECT_RESET",
+        "state_error_m": 0.0,
+        "passed": true
+      },
+      {
+        "scenario": "cell1_t1_slip_10001_00",
+        "policy": "reactive_mlp",
+        "condition": "M_INJECT_ALTERNATIVE",
+        "state_error_m": 0.0,
+        "passed": true
+      },
+      {
+        "scenario": "cell2_t1_loss_11003_00",
+        "policy": "rec_aug_gru",
+        "condition": "M_REPLAY_PRESERVED",
+        "state_error_m": 0.0,
+        "passed": true
+      },
+      {
+        "scenario": "cell2_t1_loss_11003_00",
+        "policy": "rec_aug_gru",
+        "condition": "M_INJECT_PRESERVED",
+        "state_error_m": 0.0,
+        "passed": true
+      },
+      {
+        "scenario": "cell2_t1_loss_11003_00",
+        "policy": "rec_aug_gru",
+        "condition": "M_INJECT_RESET",
+        "state_error_m": 0.0,
+        "passed": true
+      },
+      {
+        "scenario": "cell2_t1_loss_11003_00",
+        "policy": "rec_aug_gru",
+        "condition": "M_INJECT_ALTERNATIVE",
+        "state_error_m": 0.0,
+        "passed": true
+      },
+      {
+        "scenario": "cell2_t1_loss_11003_00",
+        "policy": "history_gru",
+        "condition": "M_REPLAY_PRESERVED",
+        "state_error_m": 0.0,
+        "passed": true
+      },
+      {
+        "scenario": "cell2_t1_loss_11003_00",
+        "policy": "history_gru",
+        "condition": "M_INJECT_PRESERVED",
+        "state_error_m": 0.0,
+        "passed": true
+      },
+      {
+        "scenario": "cell2_t1_loss_11003_00",
+        "policy": "history_gru",
+        "condition": "M_INJECT_RESET",
+        "state_error_m": 0.0,
+        "passed": true
+      },
+      {
+        "scenario": "cell2_t1_loss_11003_00",
+        "policy": "history_gru",
+        "condition": "M_INJECT_ALTERNATIVE",
+        "state_error_m": 0.0,
+        "passed": true
+      },
+      {
+        "scenario": "cell2_t1_loss_11003_00",
+        "policy": "reactive_mlp",
+        "condition": "M_REPLAY_PRESERVED",
+        "state_error_m": 0.0,
+        "passed": true
+      },
+      {
+        "scenario": "cell2_t1_loss_11003_00",
+        "policy": "reactive_mlp",
+        "condition": "M_INJECT_PRESERVED",
+        "state_error_m": 0.0,
+        "passed": true
+      },
+      {
+        "scenario": "cell2_t1_loss_11003_00",
+        "policy": "reactive_mlp",
+        "condition": "M_INJECT_RESET",
+        "state_error_m": 0.0,
+        "passed": true
+      },
+      {
+        "scenario": "cell2_t1_loss_11003_00",
+        "policy": "reactive_mlp",
+        "condition": "M_INJECT_ALTERNATIVE",
+        "state_error_m": 0.0,
+        "passed": true
+      },
+      {
+        "scenario": "cell3_t2_slip_12002_00",
+        "policy": "rec_aug_gru",
+        "condition": "M_REPLAY_PRESERVED",
+        "state_error_m": 0.0,
+        "passed": true
+      },
+      {
+        "scenario": "cell3_t2_slip_12002_00",
+        "policy": "rec_aug_gru",
+        "condition": "M_INJECT_PRESERVED",
+        "state_error_m": 0.0,
+        "passed": true
+      },
+      {
+        "scenario": "cell3_t2_slip_12002_00",
+        "policy": "rec_aug_gru",
+        "condition": "M_INJECT_RESET",
+        "state_error_m": 0.0,
+        "passed": true
+      },
+      {
+        "scenario": "cell3_t2_slip_12002_00",
+        "policy": "rec_aug_gru",
+        "condition": "M_INJECT_ALTERNATIVE",
+        "state_error_m": 0.0,
+        "passed": true
+      },
+      {
+        "scenario": "cell3_t2_slip_12002_00",
+        "policy": "history_gru",
+        "condition": "M_REPLAY_PRESERVED",
+        "state_error_m": 0.0,
+        "passed": true
+      },
+      {
+        "scenario": "cell3_t2_slip_12002_00",
+        "policy": "history_gru",
+        "condition": "M_INJECT_PRESERVED",
+        "state_error_m": 0.0,
+        "passed": true
+      },
+      {
+        "scenario": "cell3_t2_slip_12002_00",
+        "policy": "history_gru",
+        "condition": "M_INJECT_RESET",
+        "state_error_m": 0.0,
+        "passed": true
+      },
+      {
+        "scenario": "cell3_t2_slip_12002_00",
+        "policy": "history_gru",
+        "condition": "M_INJECT_ALTERNATIVE",
+        "state_error_m": 0.0,
+        "passed": true
+      },
+      {
+        "scenario": "cell3_t2_slip_12002_00",
+        "policy": "reactive_mlp",
+        "condition": "M_REPLAY_PRESERVED",
+        "state_error_m": 0.0,
+        "passed": true
+      },
+      {
+        "scenario": "cell3_t2_slip_12002_00",
+        "policy": "reactive_mlp",
+        "condition": "M_INJECT_PRESERVED",
+        "state_error_m": 0.0,
+        "passed": true
+      },
+      {
+        "scenario": "cell3_t2_slip_12002_00",
+        "policy": "reactive_mlp",
+        "condition": "M_INJECT_RESET",
+        "state_error_m": 0.0,
+        "passed": true
+      },
+      {
+        "scenario": "cell3_t2_slip_12002_00",
+        "policy": "reactive_mlp",
+        "condition": "M_INJECT_ALTERNATIVE",
+        "state_error_m": 0.0,
+        "passed": true
+      },
+      {
+        "scenario": "cell4_t2_loss_13001_00",
+        "policy": "rec_aug_gru",
+        "condition": "M_REPLAY_PRESERVED",
+        "state_error_m": 0.0,
+        "passed": true
+      },
+      {
+        "scenario": "cell4_t2_loss_13001_00",
+        "policy": "rec_aug_gru",
+        "condition": "M_INJECT_PRESERVED",
+        "state_error_m": 0.0,
+        "passed": true
+      },
+      {
+        "scenario": "cell4_t2_loss_13001_00",
+        "policy": "rec_aug_gru",
+        "condition": "M_INJECT_RESET",
+        "state_error_m": 0.0,
+        "passed": true
+      },
+      {
+        "scenario": "cell4_t2_loss_13001_00",
+        "policy": "rec_aug_gru",
+        "condition": "M_INJECT_ALTERNATIVE",
+        "state_error_m": 0.0,
+        "passed": true
+      },
+      {
+        "scenario": "cell4_t2_loss_13001_00",
+        "policy": "history_gru",
+        "condition": "M_REPLAY_PRESERVED",
+        "state_error_m": 0.0,
+        "passed": true
+      },
+      {
+        "scenario": "cell4_t2_loss_13001_00",
+        "policy": "history_gru",
+        "condition": "M_INJECT_PRESERVED",
+        "state_error_m": 0.0,
+        "passed": true
+      },
+      {
+        "scenario": "cell4_t2_loss_13001_00",
+        "policy": "history_gru",
+        "condition": "M_INJECT_RESET",
+        "state_error_m": 0.0,
+        "passed": true
+      },
+      {
+        "scenario": "cell4_t2_loss_13001_00",
+        "policy": "history_gru",
+        "condition": "M_INJECT_ALTERNATIVE",
+        "state_error_m": 0.0,
+        "passed": true
+      },
+      {
+        "scenario": "cell4_t2_loss_13001_00",
+        "policy": "reactive_mlp",
+        "condition": "M_REPLAY_PRESERVED",
+        "state_error_m": 0.0,
+        "passed": true
+      },
+      {
+        "scenario": "cell4_t2_loss_13001_00",
+        "policy": "reactive_mlp",
+        "condition": "M_INJECT_PRESERVED",
+        "state_error_m": 0.0,
+        "passed": true
+      },
+      {
+        "scenario": "cell4_t2_loss_13001_00",
+        "policy": "reactive_mlp",
+        "condition": "M_INJECT_RESET",
+        "state_error_m": 0.0,
+        "passed": true
+      },
+      {
+        "scenario": "cell4_t2_loss_13001_00",
+        "policy": "reactive_mlp",
+        "condition": "M_INJECT_ALTERNATIVE",
+        "state_error_m": 0.0,
+        "passed": true
+      }
+    ],
+    "remaining_horizon_preserved": [
+      {
+        "scenario": "cell1_t1_slip_10001_00",
+        "policy": "rec_aug_gru",
+        "condition": "M_REPLAY_PRESERVED",
+        "expected_rem_h": 97,
+        "actual_rem_h": 97,
+        "passed": true
+      },
+      {
+        "scenario": "cell1_t1_slip_10001_00",
+        "policy": "rec_aug_gru",
+        "condition": "M_INJECT_PRESERVED",
+        "expected_rem_h": 97,
+        "actual_rem_h": 97,
+        "passed": true
+      },
+      {
+        "scenario": "cell1_t1_slip_10001_00",
+        "policy": "rec_aug_gru",
+        "condition": "M_INJECT_RESET",
+        "expected_rem_h": 97,
+        "actual_rem_h": 97,
+        "passed": true
+      },
+      {
+        "scenario": "cell1_t1_slip_10001_00",
+        "policy": "rec_aug_gru",
+        "condition": "M_INJECT_ALTERNATIVE",
+        "expected_rem_h": 97,
+        "actual_rem_h": 97,
+        "passed": true
+      },
+      {
+        "scenario": "cell1_t1_slip_10001_00",
+        "policy": "history_gru",
+        "condition": "M_REPLAY_PRESERVED",
+        "expected_rem_h": 97,
+        "actual_rem_h": 97,
+        "passed": true
+      },
+      {
+        "scenario": "cell1_t1_slip_10001_00",
+        "policy": "history_gru",
+        "condition": "M_INJECT_PRESERVED",
+        "expected_rem_h": 97,
+        "actual_rem_h": 97,
+        "passed": true
+      },
+      {
+        "scenario": "cell1_t1_slip_10001_00",
+        "policy": "history_gru",
+        "condition": "M_INJECT_RESET",
+        "expected_rem_h": 97,
+        "actual_rem_h": 97,
+        "passed": true
+      },
+      {
+        "scenario": "cell1_t1_slip_10001_00",
+        "policy": "history_gru",
+        "condition": "M_INJECT_ALTERNATIVE",
+        "expected_rem_h": 97,
+        "actual_rem_h": 97,
+        "passed": true
+      },
+      {
+        "scenario": "cell1_t1_slip_10001_00",
+        "policy": "reactive_mlp",
+        "condition": "M_REPLAY_PRESERVED",
+        "expected_rem_h": 97,
+        "actual_rem_h": 97,
+        "passed": true
+      },
+      {
+        "scenario": "cell1_t1_slip_10001_00",
+        "policy": "reactive_mlp",
+        "condition": "M_INJECT_PRESERVED",
+        "expected_rem_h": 97,
+        "actual_rem_h": 97,
+        "passed": true
+      },
+      {
+        "scenario": "cell1_t1_slip_10001_00",
+        "policy": "reactive_mlp",
+        "condition": "M_INJECT_RESET",
+        "expected_rem_h": 97,
+        "actual_rem_h": 97,
+        "passed": true
+      },
+      {
+        "scenario": "cell1_t1_slip_10001_00",
+        "policy": "reactive_mlp",
+        "condition": "M_INJECT_ALTERNATIVE",
+        "expected_rem_h": 97,
+        "actual_rem_h": 97,
+        "passed": true
+      },
+      {
+        "scenario": "cell2_t1_loss_11003_00",
+        "policy": "rec_aug_gru",
+        "condition": "M_REPLAY_PRESERVED",
+        "expected_rem_h": 147,
+        "actual_rem_h": 147,
+        "passed": true
+      },
+      {
+        "scenario": "cell2_t1_loss_11003_00",
+        "policy": "rec_aug_gru",
+        "condition": "M_INJECT_PRESERVED",
+        "expected_rem_h": 147,
+        "actual_rem_h": 147,
+        "passed": true
+      },
+      {
+        "scenario": "cell2_t1_loss_11003_00",
+        "policy": "rec_aug_gru",
+        "condition": "M_INJECT_RESET",
+        "expected_rem_h": 147,
+        "actual_rem_h": 147,
+        "passed": true
+      },
+      {
+        "scenario": "cell2_t1_loss_11003_00",
+        "policy": "rec_aug_gru",
+        "condition": "M_INJECT_ALTERNATIVE",
+        "expected_rem_h": 147,
+        "actual_rem_h": 147,
+        "passed": true
+      },
+      {
+        "scenario": "cell2_t1_loss_11003_00",
+        "policy": "history_gru",
+        "condition": "M_REPLAY_PRESERVED",
+        "expected_rem_h": 147,
+        "actual_rem_h": 147,
+        "passed": true
+      },
+      {
+        "scenario": "cell2_t1_loss_11003_00",
+        "policy": "history_gru",
+        "condition": "M_INJECT_PRESERVED",
+        "expected_rem_h": 147,
+        "actual_rem_h": 147,
+        "passed": true
+      },
+      {
+        "scenario": "cell2_t1_loss_11003_00",
+        "policy": "history_gru",
+        "condition": "M_INJECT_RESET",
+        "expected_rem_h": 147,
+        "actual_rem_h": 147,
+        "passed": true
+      },
+      {
+        "scenario": "cell2_t1_loss_11003_00",
+        "policy": "history_gru",
+        "condition": "M_INJECT_ALTERNATIVE",
+        "expected_rem_h": 147,
+        "actual_rem_h": 147,
+        "passed": true
+      },
+      {
+        "scenario": "cell2_t1_loss_11003_00",
+        "policy": "reactive_mlp",
+        "condition": "M_REPLAY_PRESERVED",
+        "expected_rem_h": 147,
+        "actual_rem_h": 147,
+        "passed": true
+      },
+      {
+        "scenario": "cell2_t1_loss_11003_00",
+        "policy": "reactive_mlp",
+        "condition": "M_INJECT_PRESERVED",
+        "expected_rem_h": 147,
+        "actual_rem_h": 147,
+        "passed": true
+      },
+      {
+        "scenario": "cell2_t1_loss_11003_00",
+        "policy": "reactive_mlp",
+        "condition": "M_INJECT_RESET",
+        "expected_rem_h": 147,
+        "actual_rem_h": 147,
+        "passed": true
+      },
+      {
+        "scenario": "cell2_t1_loss_11003_00",
+        "policy": "reactive_mlp",
+        "condition": "M_INJECT_ALTERNATIVE",
+        "expected_rem_h": 147,
+        "actual_rem_h": 147,
+        "passed": true
+      },
+      {
+        "scenario": "cell3_t2_slip_12002_00",
+        "policy": "rec_aug_gru",
+        "condition": "M_REPLAY_PRESERVED",
+        "expected_rem_h": 134,
+        "actual_rem_h": 134,
+        "passed": true
+      },
+      {
+        "scenario": "cell3_t2_slip_12002_00",
+        "policy": "rec_aug_gru",
+        "condition": "M_INJECT_PRESERVED",
+        "expected_rem_h": 134,
+        "actual_rem_h": 134,
+        "passed": true
+      },
+      {
+        "scenario": "cell3_t2_slip_12002_00",
+        "policy": "rec_aug_gru",
+        "condition": "M_INJECT_RESET",
+        "expected_rem_h": 134,
+        "actual_rem_h": 134,
+        "passed": true
+      },
+      {
+        "scenario": "cell3_t2_slip_12002_00",
+        "policy": "rec_aug_gru",
+        "condition": "M_INJECT_ALTERNATIVE",
+        "expected_rem_h": 134,
+        "actual_rem_h": 134,
+        "passed": true
+      },
+      {
+        "scenario": "cell3_t2_slip_12002_00",
+        "policy": "history_gru",
+        "condition": "M_REPLAY_PRESERVED",
+        "expected_rem_h": 134,
+        "actual_rem_h": 134,
+        "passed": true
+      },
+      {
+        "scenario": "cell3_t2_slip_12002_00",
+        "policy": "history_gru",
+        "condition": "M_INJECT_PRESERVED",
+        "expected_rem_h": 134,
+        "actual_rem_h": 134,
+        "passed": true
+      },
+      {
+        "scenario": "cell3_t2_slip_12002_00",
+        "policy": "history_gru",
+        "condition": "M_INJECT_RESET",
+        "expected_rem_h": 134,
+        "actual_rem_h": 134,
+        "passed": true
+      },
+      {
+        "scenario": "cell3_t2_slip_12002_00",
+        "policy": "history_gru",
+        "condition": "M_INJECT_ALTERNATIVE",
+        "expected_rem_h": 134,
+        "actual_rem_h": 134,
+        "passed": true
+      },
+      {
+        "scenario": "cell3_t2_slip_12002_00",
+        "policy": "reactive_mlp",
+        "condition": "M_REPLAY_PRESERVED",
+        "expected_rem_h": 134,
+        "actual_rem_h": 134,
+        "passed": true
+      },
+      {
+        "scenario": "cell3_t2_slip_12002_00",
+        "policy": "reactive_mlp",
+        "condition": "M_INJECT_PRESERVED",
+        "expected_rem_h": 134,
+        "actual_rem_h": 134,
+        "passed": true
+      },
+      {
+        "scenario": "cell3_t2_slip_12002_00",
+        "policy": "reactive_mlp",
+        "condition": "M_INJECT_RESET",
+        "expected_rem_h": 134,
+        "actual_rem_h": 134,
+        "passed": true
+      },
+      {
+        "scenario": "cell3_t2_slip_12002_00",
+        "policy": "reactive_mlp",
+        "condition": "M_INJECT_ALTERNATIVE",
+        "expected_rem_h": 134,
+        "actual_rem_h": 134,
+        "passed": true
+      },
+      {
+        "scenario": "cell4_t2_loss_13001_00",
+        "policy": "rec_aug_gru",
+        "condition": "M_REPLAY_PRESERVED",
+        "expected_rem_h": 147,
+        "actual_rem_h": 147,
+        "passed": true
+      },
+      {
+        "scenario": "cell4_t2_loss_13001_00",
+        "policy": "rec_aug_gru",
+        "condition": "M_INJECT_PRESERVED",
+        "expected_rem_h": 147,
+        "actual_rem_h": 147,
+        "passed": true
+      },
+      {
+        "scenario": "cell4_t2_loss_13001_00",
+        "policy": "rec_aug_gru",
+        "condition": "M_INJECT_RESET",
+        "expected_rem_h": 147,
+        "actual_rem_h": 147,
+        "passed": true
+      },
+      {
+        "scenario": "cell4_t2_loss_13001_00",
+        "policy": "rec_aug_gru",
+        "condition": "M_INJECT_ALTERNATIVE",
+        "expected_rem_h": 147,
+        "actual_rem_h": 147,
+        "passed": true
+      },
+      {
+        "scenario": "cell4_t2_loss_13001_00",
+        "policy": "history_gru",
+        "condition": "M_REPLAY_PRESERVED",
+        "expected_rem_h": 147,
+        "actual_rem_h": 147,
+        "passed": true
+      },
+      {
+        "scenario": "cell4_t2_loss_13001_00",
+        "policy": "history_gru",
+        "condition": "M_INJECT_PRESERVED",
+        "expected_rem_h": 147,
+        "actual_rem_h": 147,
+        "passed": true
+      },
+      {
+        "scenario": "cell4_t2_loss_13001_00",
+        "policy": "history_gru",
+        "condition": "M_INJECT_RESET",
+        "expected_rem_h": 147,
+        "actual_rem_h": 147,
+        "passed": true
+      },
+      {
+        "scenario": "cell4_t2_loss_13001_00",
+        "policy": "history_gru",
+        "condition": "M_INJECT_ALTERNATIVE",
+        "expected_rem_h": 147,
+        "actual_rem_h": 147,
+        "passed": true
+      },
+      {
+        "scenario": "cell4_t2_loss_13001_00",
+        "policy": "reactive_mlp",
+        "condition": "M_REPLAY_PRESERVED",
+        "expected_rem_h": 147,
+        "actual_rem_h": 147,
+        "passed": true
+      },
+      {
+        "scenario": "cell4_t2_loss_13001_00",
+        "policy": "reactive_mlp",
+        "condition": "M_INJECT_PRESERVED",
+        "expected_rem_h": 147,
+        "actual_rem_h": 147,
+        "passed": true
+      },
+      {
+        "scenario": "cell4_t2_loss_13001_00",
+        "policy": "reactive_mlp",
+        "condition": "M_INJECT_RESET",
+        "expected_rem_h": 147,
+        "actual_rem_h": 147,
+        "passed": true
+      },
+      {
+        "scenario": "cell4_t2_loss_13001_00",
+        "policy": "reactive_mlp",
+        "condition": "M_INJECT_ALTERNATIVE",
+        "expected_rem_h": 147,
+        "actual_rem_h": 147,
+        "passed": true
+      }
+    ],
+    "memory_leakage_checks": [
+      {
+        "scenario": "cell1_t1_slip_10001_00",
+        "policy": "rec_aug_gru",
+        "h_b1_norm": 1.568274736404419,
+        "h_c_norm": 0.0,
+        "h_b2_norm": 1.568274736404419,
+        "passed": true
+      },
+      {
+        "scenario": "cell2_t1_loss_11003_00",
+        "policy": "rec_aug_gru",
+        "h_b1_norm": 0.4937000870704651,
+        "h_c_norm": 0.0,
+        "h_b2_norm": 0.4937000870704651,
+        "passed": true
+      },
+      {
+        "scenario": "cell3_t2_slip_12002_00",
+        "policy": "rec_aug_gru",
+        "h_b1_norm": 4.811459541320801,
+        "h_c_norm": 0.0,
+        "h_b2_norm": 4.811459541320801,
+        "passed": true
+      },
+      {
+        "scenario": "cell4_t2_loss_13001_00",
+        "policy": "rec_aug_gru",
+        "h_b1_norm": 0.49573054909706116,
+        "h_c_norm": 0.0,
+        "h_b2_norm": 0.49573054909706116,
+        "passed": true
+      }
+    ]
+  },
+  "rollout_results": [
+    {
+      "scenario_uid": "cell1_t1_slip_10001_00",
+      "task_id": "task1_cube",
+      "failure_mode": "rotational_slip",
+      "policy_id": "rec_aug_gru",
+      "condition": "M_REPLAY_PRESERVED",
+      "steps": 30,
+      "is_success": false,
+      "state_matching_error": 0.0,
+      "initial_hidden_norm": 1.568274736404419,
+      "remaining_horizon": 97
+    },
+    {
+      "scenario_uid": "cell1_t1_slip_10001_00",
+      "task_id": "task1_cube",
+      "failure_mode": "rotational_slip",
+      "policy_id": "rec_aug_gru",
+      "condition": "M_INJECT_PRESERVED",
+      "steps": 30,
+      "is_success": false,
+      "state_matching_error": 0.0,
+      "initial_hidden_norm": 1.568274736404419,
+      "remaining_horizon": 97
+    },
+    {
+      "scenario_uid": "cell1_t1_slip_10001_00",
+      "task_id": "task1_cube",
+      "failure_mode": "rotational_slip",
+      "policy_id": "rec_aug_gru",
+      "condition": "M_INJECT_RESET",
+      "steps": 30,
+      "is_success": false,
+      "state_matching_error": 0.0,
+      "initial_hidden_norm": 0.0,
+      "remaining_horizon": 97
+    },
+    {
+      "scenario_uid": "cell1_t1_slip_10001_00",
+      "task_id": "task1_cube",
+      "failure_mode": "rotational_slip",
+      "policy_id": "rec_aug_gru",
+      "condition": "M_INJECT_ALTERNATIVE",
+      "steps": 30,
+      "is_success": false,
+      "state_matching_error": 0.0,
+      "initial_hidden_norm": 1.568274736404419,
+      "remaining_horizon": 97
+    },
+    {
+      "scenario_uid": "cell1_t1_slip_10001_00",
+      "task_id": "task1_cube",
+      "failure_mode": "rotational_slip",
+      "policy_id": "history_gru",
+      "condition": "M_REPLAY_PRESERVED",
+      "steps": 30,
+      "is_success": false,
+      "state_matching_error": 0.0,
+      "initial_hidden_norm": 0.0,
+      "remaining_horizon": 97
+    },
+    {
+      "scenario_uid": "cell1_t1_slip_10001_00",
+      "task_id": "task1_cube",
+      "failure_mode": "rotational_slip",
+      "policy_id": "history_gru",
+      "condition": "M_INJECT_PRESERVED",
+      "steps": 30,
+      "is_success": false,
+      "state_matching_error": 0.0,
+      "initial_hidden_norm": 0.0,
+      "remaining_horizon": 97
+    },
+    {
+      "scenario_uid": "cell1_t1_slip_10001_00",
+      "task_id": "task1_cube",
+      "failure_mode": "rotational_slip",
+      "policy_id": "history_gru",
+      "condition": "M_INJECT_RESET",
+      "steps": 30,
+      "is_success": false,
+      "state_matching_error": 0.0,
+      "initial_hidden_norm": 0.0,
+      "remaining_horizon": 97
+    },
+    {
+      "scenario_uid": "cell1_t1_slip_10001_00",
+      "task_id": "task1_cube",
+      "failure_mode": "rotational_slip",
+      "policy_id": "history_gru",
+      "condition": "M_INJECT_ALTERNATIVE",
+      "steps": 30,
+      "is_success": false,
+      "state_matching_error": 0.0,
+      "initial_hidden_norm": 0.0,
+      "remaining_horizon": 97
+    },
+    {
+      "scenario_uid": "cell1_t1_slip_10001_00",
+      "task_id": "task1_cube",
+      "failure_mode": "rotational_slip",
+      "policy_id": "reactive_mlp",
+      "condition": "M_REPLAY_PRESERVED",
+      "steps": 30,
+      "is_success": false,
+      "state_matching_error": 0.0,
+      "initial_hidden_norm": 0.0,
+      "remaining_horizon": 97
+    },
+    {
+      "scenario_uid": "cell1_t1_slip_10001_00",
+      "task_id": "task1_cube",
+      "failure_mode": "rotational_slip",
+      "policy_id": "reactive_mlp",
+      "condition": "M_INJECT_PRESERVED",
+      "steps": 30,
+      "is_success": false,
+      "state_matching_error": 0.0,
+      "initial_hidden_norm": 0.0,
+      "remaining_horizon": 97
+    },
+    {
+      "scenario_uid": "cell1_t1_slip_10001_00",
+      "task_id": "task1_cube",
+      "failure_mode": "rotational_slip",
+      "policy_id": "reactive_mlp",
+      "condition": "M_INJECT_RESET",
+      "steps": 30,
+      "is_success": false,
+      "state_matching_error": 0.0,
+      "initial_hidden_norm": 0.0,
+      "remaining_horizon": 97
+    },
+    {
+      "scenario_uid": "cell1_t1_slip_10001_00",
+      "task_id": "task1_cube",
+      "failure_mode": "rotational_slip",
+      "policy_id": "reactive_mlp",
+      "condition": "M_INJECT_ALTERNATIVE",
+      "steps": 30,
+      "is_success": false,
+      "state_matching_error": 0.0,
+      "initial_hidden_norm": 0.0,
+      "remaining_horizon": 97
+    },
+    {
+      "scenario_uid": "cell2_t1_loss_11003_00",
+      "task_id": "task1_cube",
+      "failure_mode": "contact_loss",
+      "policy_id": "rec_aug_gru",
+      "condition": "M_REPLAY_PRESERVED",
+      "steps": 30,
+      "is_success": false,
+      "state_matching_error": 0.0,
+      "initial_hidden_norm": 0.4937000870704651,
+      "remaining_horizon": 147
+    },
+    {
+      "scenario_uid": "cell2_t1_loss_11003_00",
+      "task_id": "task1_cube",
+      "failure_mode": "contact_loss",
+      "policy_id": "rec_aug_gru",
+      "condition": "M_INJECT_PRESERVED",
+      "steps": 30,
+      "is_success": false,
+      "state_matching_error": 0.0,
+      "initial_hidden_norm": 0.4937000870704651,
+      "remaining_horizon": 147
+    },
+    {
+      "scenario_uid": "cell2_t1_loss_11003_00",
+      "task_id": "task1_cube",
+      "failure_mode": "contact_loss",
+      "policy_id": "rec_aug_gru",
+      "condition": "M_INJECT_RESET",
+      "steps": 30,
+      "is_success": false,
+      "state_matching_error": 0.0,
+      "initial_hidden_norm": 0.0,
+      "remaining_horizon": 147
+    },
+    {
+      "scenario_uid": "cell2_t1_loss_11003_00",
+      "task_id": "task1_cube",
+      "failure_mode": "contact_loss",
+      "policy_id": "rec_aug_gru",
+      "condition": "M_INJECT_ALTERNATIVE",
+      "steps": 30,
+      "is_success": false,
+      "state_matching_error": 0.0,
+      "initial_hidden_norm": 0.4937000870704651,
+      "remaining_horizon": 147
+    },
+    {
+      "scenario_uid": "cell2_t1_loss_11003_00",
+      "task_id": "task1_cube",
+      "failure_mode": "contact_loss",
+      "policy_id": "history_gru",
+      "condition": "M_REPLAY_PRESERVED",
+      "steps": 30,
+      "is_success": false,
+      "state_matching_error": 0.0,
+      "initial_hidden_norm": 0.0,
+      "remaining_horizon": 147
+    },
+    {
+      "scenario_uid": "cell2_t1_loss_11003_00",
+      "task_id": "task1_cube",
+      "failure_mode": "contact_loss",
+      "policy_id": "history_gru",
+      "condition": "M_INJECT_PRESERVED",
+      "steps": 30,
+      "is_success": false,
+      "state_matching_error": 0.0,
+      "initial_hidden_norm": 0.0,
+      "remaining_horizon": 147
+    },
+    {
+      "scenario_uid": "cell2_t1_loss_11003_00",
+      "task_id": "task1_cube",
+      "failure_mode": "contact_loss",
+      "policy_id": "history_gru",
+      "condition": "M_INJECT_RESET",
+      "steps": 30,
+      "is_success": false,
+      "state_matching_error": 0.0,
+      "initial_hidden_norm": 0.0,
+      "remaining_horizon": 147
+    },
+    {
+      "scenario_uid": "cell2_t1_loss_11003_00",
+      "task_id": "task1_cube",
+      "failure_mode": "contact_loss",
+      "policy_id": "history_gru",
+      "condition": "M_INJECT_ALTERNATIVE",
+      "steps": 30,
+      "is_success": false,
+      "state_matching_error": 0.0,
+      "initial_hidden_norm": 0.0,
+      "remaining_horizon": 147
+    },
+    {
+      "scenario_uid": "cell2_t1_loss_11003_00",
+      "task_id": "task1_cube",
+      "failure_mode": "contact_loss",
+      "policy_id": "reactive_mlp",
+      "condition": "M_REPLAY_PRESERVED",
+      "steps": 30,
+      "is_success": false,
+      "state_matching_error": 0.0,
+      "initial_hidden_norm": 0.0,
+      "remaining_horizon": 147
+    },
+    {
+      "scenario_uid": "cell2_t1_loss_11003_00",
+      "task_id": "task1_cube",
+      "failure_mode": "contact_loss",
+      "policy_id": "reactive_mlp",
+      "condition": "M_INJECT_PRESERVED",
+      "steps": 30,
+      "is_success": false,
+      "state_matching_error": 0.0,
+      "initial_hidden_norm": 0.0,
+      "remaining_horizon": 147
+    },
+    {
+      "scenario_uid": "cell2_t1_loss_11003_00",
+      "task_id": "task1_cube",
+      "failure_mode": "contact_loss",
+      "policy_id": "reactive_mlp",
+      "condition": "M_INJECT_RESET",
+      "steps": 30,
+      "is_success": false,
+      "state_matching_error": 0.0,
+      "initial_hidden_norm": 0.0,
+      "remaining_horizon": 147
+    },
+    {
+      "scenario_uid": "cell2_t1_loss_11003_00",
+      "task_id": "task1_cube",
+      "failure_mode": "contact_loss",
+      "policy_id": "reactive_mlp",
+      "condition": "M_INJECT_ALTERNATIVE",
+      "steps": 30,
+      "is_success": false,
+      "state_matching_error": 0.0,
+      "initial_hidden_norm": 0.0,
+      "remaining_horizon": 147
+    },
+    {
+      "scenario_uid": "cell3_t2_slip_12002_00",
+      "task_id": "task2_puck",
+      "failure_mode": "rotational_slip",
+      "policy_id": "rec_aug_gru",
+      "condition": "M_REPLAY_PRESERVED",
+      "steps": 30,
+      "is_success": false,
+      "state_matching_error": 0.0,
+      "initial_hidden_norm": 4.811459541320801,
+      "remaining_horizon": 134
+    },
+    {
+      "scenario_uid": "cell3_t2_slip_12002_00",
+      "task_id": "task2_puck",
+      "failure_mode": "rotational_slip",
+      "policy_id": "rec_aug_gru",
+      "condition": "M_INJECT_PRESERVED",
+      "steps": 30,
+      "is_success": false,
+      "state_matching_error": 0.0,
+      "initial_hidden_norm": 4.811459541320801,
+      "remaining_horizon": 134
+    },
+    {
+      "scenario_uid": "cell3_t2_slip_12002_00",
+      "task_id": "task2_puck",
+      "failure_mode": "rotational_slip",
+      "policy_id": "rec_aug_gru",
+      "condition": "M_INJECT_RESET",
+      "steps": 30,
+      "is_success": false,
+      "state_matching_error": 0.0,
+      "initial_hidden_norm": 0.0,
+      "remaining_horizon": 134
+    },
+    {
+      "scenario_uid": "cell3_t2_slip_12002_00",
+      "task_id": "task2_puck",
+      "failure_mode": "rotational_slip",
+      "policy_id": "rec_aug_gru",
+      "condition": "M_INJECT_ALTERNATIVE",
+      "steps": 30,
+      "is_success": false,
+      "state_matching_error": 0.0,
+      "initial_hidden_norm": 4.811459541320801,
+      "remaining_horizon": 134
+    },
+    {
+      "scenario_uid": "cell3_t2_slip_12002_00",
+      "task_id": "task2_puck",
+      "failure_mode": "rotational_slip",
+      "policy_id": "history_gru",
+      "condition": "M_REPLAY_PRESERVED",
+      "steps": 30,
+      "is_success": false,
+      "state_matching_error": 0.0,
+      "initial_hidden_norm": 0.0,
+      "remaining_horizon": 134
+    },
+    {
+      "scenario_uid": "cell3_t2_slip_12002_00",
+      "task_id": "task2_puck",
+      "failure_mode": "rotational_slip",
+      "policy_id": "history_gru",
+      "condition": "M_INJECT_PRESERVED",
+      "steps": 30,
+      "is_success": false,
+      "state_matching_error": 0.0,
+      "initial_hidden_norm": 0.0,
+      "remaining_horizon": 134
+    },
+    {
+      "scenario_uid": "cell3_t2_slip_12002_00",
+      "task_id": "task2_puck",
+      "failure_mode": "rotational_slip",
+      "policy_id": "history_gru",
+      "condition": "M_INJECT_RESET",
+      "steps": 30,
+      "is_success": false,
+      "state_matching_error": 0.0,
+      "initial_hidden_norm": 0.0,
+      "remaining_horizon": 134
+    },
+    {
+      "scenario_uid": "cell3_t2_slip_12002_00",
+      "task_id": "task2_puck",
+      "failure_mode": "rotational_slip",
+      "policy_id": "history_gru",
+      "condition": "M_INJECT_ALTERNATIVE",
+      "steps": 30,
+      "is_success": false,
+      "state_matching_error": 0.0,
+      "initial_hidden_norm": 0.0,
+      "remaining_horizon": 134
+    },
+    {
+      "scenario_uid": "cell3_t2_slip_12002_00",
+      "task_id": "task2_puck",
+      "failure_mode": "rotational_slip",
+      "policy_id": "reactive_mlp",
+      "condition": "M_REPLAY_PRESERVED",
+      "steps": 30,
+      "is_success": false,
+      "state_matching_error": 0.0,
+      "initial_hidden_norm": 0.0,
+      "remaining_horizon": 134
+    },
+    {
+      "scenario_uid": "cell3_t2_slip_12002_00",
+      "task_id": "task2_puck",
+      "failure_mode": "rotational_slip",
+      "policy_id": "reactive_mlp",
+      "condition": "M_INJECT_PRESERVED",
+      "steps": 30,
+      "is_success": false,
+      "state_matching_error": 0.0,
+      "initial_hidden_norm": 0.0,
+      "remaining_horizon": 134
+    },
+    {
+      "scenario_uid": "cell3_t2_slip_12002_00",
+      "task_id": "task2_puck",
+      "failure_mode": "rotational_slip",
+      "policy_id": "reactive_mlp",
+      "condition": "M_INJECT_RESET",
+      "steps": 30,
+      "is_success": false,
+      "state_matching_error": 0.0,
+      "initial_hidden_norm": 0.0,
+      "remaining_horizon": 134
+    },
+    {
+      "scenario_uid": "cell3_t2_slip_12002_00",
+      "task_id": "task2_puck",
+      "failure_mode": "rotational_slip",
+      "policy_id": "reactive_mlp",
+      "condition": "M_INJECT_ALTERNATIVE",
+      "steps": 30,
+      "is_success": false,
+      "state_matching_error": 0.0,
+      "initial_hidden_norm": 0.0,
+      "remaining_horizon": 134
+    },
+    {
+      "scenario_uid": "cell4_t2_loss_13001_00",
+      "task_id": "task2_puck",
+      "failure_mode": "contact_loss",
+      "policy_id": "rec_aug_gru",
+      "condition": "M_REPLAY_PRESERVED",
+      "steps": 30,
+      "is_success": false,
+      "state_matching_error": 0.0,
+      "initial_hidden_norm": 0.49573054909706116,
+      "remaining_horizon": 147
+    },
+    {
+      "scenario_uid": "cell4_t2_loss_13001_00",
+      "task_id": "task2_puck",
+      "failure_mode": "contact_loss",
+      "policy_id": "rec_aug_gru",
+      "condition": "M_INJECT_PRESERVED",
+      "steps": 30,
+      "is_success": false,
+      "state_matching_error": 0.0,
+      "initial_hidden_norm": 0.49573054909706116,
+      "remaining_horizon": 147
+    },
+    {
+      "scenario_uid": "cell4_t2_loss_13001_00",
+      "task_id": "task2_puck",
+      "failure_mode": "contact_loss",
+      "policy_id": "rec_aug_gru",
+      "condition": "M_INJECT_RESET",
+      "steps": 30,
+      "is_success": false,
+      "state_matching_error": 0.0,
+      "initial_hidden_norm": 0.0,
+      "remaining_horizon": 147
+    },
+    {
+      "scenario_uid": "cell4_t2_loss_13001_00",
+      "task_id": "task2_puck",
+      "failure_mode": "contact_loss",
+      "policy_id": "rec_aug_gru",
+      "condition": "M_INJECT_ALTERNATIVE",
+      "steps": 30,
+      "is_success": false,
+      "state_matching_error": 0.0,
+      "initial_hidden_norm": 0.49573054909706116,
+      "remaining_horizon": 147
+    },
+    {
+      "scenario_uid": "cell4_t2_loss_13001_00",
+      "task_id": "task2_puck",
+      "failure_mode": "contact_loss",
+      "policy_id": "history_gru",
+      "condition": "M_REPLAY_PRESERVED",
+      "steps": 30,
+      "is_success": false,
+      "state_matching_error": 0.0,
+      "initial_hidden_norm": 0.0,
+      "remaining_horizon": 147
+    },
+    {
+      "scenario_uid": "cell4_t2_loss_13001_00",
+      "task_id": "task2_puck",
+      "failure_mode": "contact_loss",
+      "policy_id": "history_gru",
+      "condition": "M_INJECT_PRESERVED",
+      "steps": 30,
+      "is_success": false,
+      "state_matching_error": 0.0,
+      "initial_hidden_norm": 0.0,
+      "remaining_horizon": 147
+    },
+    {
+      "scenario_uid": "cell4_t2_loss_13001_00",
+      "task_id": "task2_puck",
+      "failure_mode": "contact_loss",
+      "policy_id": "history_gru",
+      "condition": "M_INJECT_RESET",
+      "steps": 30,
+      "is_success": false,
+      "state_matching_error": 0.0,
+      "initial_hidden_norm": 0.0,
+      "remaining_horizon": 147
+    },
+    {
+      "scenario_uid": "cell4_t2_loss_13001_00",
+      "task_id": "task2_puck",
+      "failure_mode": "contact_loss",
+      "policy_id": "history_gru",
+      "condition": "M_INJECT_ALTERNATIVE",
+      "steps": 30,
+      "is_success": false,
+      "state_matching_error": 0.0,
+      "initial_hidden_norm": 0.0,
+      "remaining_horizon": 147
+    },
+    {
+      "scenario_uid": "cell4_t2_loss_13001_00",
+      "task_id": "task2_puck",
+      "failure_mode": "contact_loss",
+      "policy_id": "reactive_mlp",
+      "condition": "M_REPLAY_PRESERVED",
+      "steps": 30,
+      "is_success": false,
+      "state_matching_error": 0.0,
+      "initial_hidden_norm": 0.0,
+      "remaining_horizon": 147
+    },
+    {
+      "scenario_uid": "cell4_t2_loss_13001_00",
+      "task_id": "task2_puck",
+      "failure_mode": "contact_loss",
+      "policy_id": "reactive_mlp",
+      "condition": "M_INJECT_PRESERVED",
+      "steps": 30,
+      "is_success": false,
+      "state_matching_error": 0.0,
+      "initial_hidden_norm": 0.0,
+      "remaining_horizon": 147
+    },
+    {
+      "scenario_uid": "cell4_t2_loss_13001_00",
+      "task_id": "task2_puck",
+      "failure_mode": "contact_loss",
+      "policy_id": "reactive_mlp",
+      "condition": "M_INJECT_RESET",
+      "steps": 30,
+      "is_success": false,
+      "state_matching_error": 0.0,
+      "initial_hidden_norm": 0.0,
+      "remaining_horizon": 147
+    },
+    {
+      "scenario_uid": "cell4_t2_loss_13001_00",
+      "task_id": "task2_puck",
+      "failure_mode": "contact_loss",
+      "policy_id": "reactive_mlp",
+      "condition": "M_INJECT_ALTERNATIVE",
+      "steps": 30,
+      "is_success": false,
+      "state_matching_error": 0.0,
+      "initial_hidden_norm": 0.0,
+      "remaining_horizon": 147
+    }
+  ],
+  "runtime_seconds": 7.834022760391235
+}

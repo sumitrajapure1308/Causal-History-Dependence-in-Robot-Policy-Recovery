@@ -1,0 +1,27 @@
+{
+  "total_rollout_records": 20000,
+  "expected_rollout_records": 20000,
+  "is_complete": true,
+  "unique_run_ids_count": 20000,
+  "unique_scenarios_count": 200,
+  "expected_scenarios_count": 200,
+  "unique_policies_count": 4,
+  "expected_policies_count": 4,
+  "unique_conditions_count": 5,
+  "expected_conditions_count": 5,
+  "unique_seeds_count": 5,
+  "expected_seeds_count": 5,
+  "unique_tasks_count": 2,
+  "unique_failures_count": 2,
+  "scenarios_per_task": {
+    "task1_cube": 100,
+    "task2_puck": 100
+  },
+  "scenarios_per_failure": {
+    "rotational_slip": 100,
+    "contact_loss": 100
+  },
+  "missing_combinations_count": 0,
+  "duplicate_combinations_count": 0,
+  "corrupted_records_count": 0
+}

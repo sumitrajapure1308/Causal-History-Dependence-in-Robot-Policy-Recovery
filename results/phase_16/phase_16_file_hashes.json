@@ -1,0 +1,21 @@
+{
+  "phase": "phase_16_submission_decision",
+  "description": "Cryptographic SHA-256 provenance manifest for Phase 16 final submission decision and journal-readiness audit",
+  "git_status": "No git repository found; cryptographic file hash manifest used as source-file provenance ledger",
+  "total_files_hashed": 13,
+  "file_hashes": {
+    "docs\\submission\\cover_letter.md": "1df5a6903bbe9553109e708d507459652359bf587dd513508730023c1b05b6b4",
+    "docs\\submission\\journal_readiness_audit.md": "b6a074c66c9d0ad1c9f03a825320b0b47f9ab6f1f7b4d3b7843e199de0921b04",
+    "docs\\submission\\reviewer_response_template.md": "69bded07ae9305024bf20c4a29375056ef6d48b089ad1ba4eb3753b36e50ae83",
+    "docs\\submission\\submission_decision.md": "3ded929486443e2726068abfb2ad26d185a40ce0c1d805389b8e7ee42a5b5c30",
+    "docs\\submission\\submission_risk_register.md": "e0b1e21665de6e45808699da65f5c28ed434d3d5ea0cb97f52a8a74f344843f4",
+    "docs\\audit\\final_benchmark_design_audit.md": "26d99e8be60f508d8dfc2a1b269192f353ce5bc9ccd12586a8f596641d4c1e3a",
+    "docs\\audit\\final_claim_audit.md": "ad7f77df43e84697c6605afc3f4df83bd394134c89ea259aad4556b834686178",
+    "docs\\audit\\final_manuscript_audit.md": "ff61e48b747537d761ab5bd9d80a75af9ccca1580d1d26466ac97985fef6062d",
+    "docs\\audit\\final_reference_audit.md": "6874628902516ea1e8117ab735523e981958b7b6384cec5a10fc5f08267982cc",
+    "docs\\audit\\final_release_audit.md": "b06d431f329c2bf2180bb6f08a052edbc967c55a8514e67cdc0590ae7fb30c2a",
+    "docs\\audit\\final_reproducibility_audit.md": "615080cbecb765455dff97961dbe00d4e355ddf2ae32081ca8cbd97cea40afef",
+    "docs\\reports\\phase_16_submission_decision_report.md": "2eff03a7b6d24775673773666d7058f8326ff0cbd16e6962aa53a1c36e10f0af",
+    "notebooks\\63_final_reproducibility_audit.ipynb": "e547f2b28c5fc4f5b8ed471ab9bb116311d73f6a4d0dae8c1080ab4f8be5f23d"
+  }
+}

@@ -1,0 +1,58 @@
+# Paired Scenario Sampling & Failure Diversity Configuration (Phase 5)
+metadata:
+  version: "1.0.0"
+  phase: 5
+  description: "Configuration for multi-severity execution-induced contact slip failure generation and paired scenario creation."
+
+pilot_sampling:
+  policy_name: "history_gru"
+  checkpoint_path: "models/checkpoints/history_gru_best.pt"
+  policy_seeds: [42, 123, 999]
+  episodes_per_seed: 50
+  total_candidate_episodes: 150
+  max_horizon: 150
+
+severity_tiers:
+  small:
+    name: "Small Off-Center Offset (Mild Slip)"
+    offset_y_range: [0.007, 0.010]
+    yaw_threshold_deg: 8.0
+    drift_threshold_m: 0.010
+    description: "Subtle contact eccentricity inducing slight yaw rotation and recoverable slip."
+  medium:
+    name: "Medium Off-Center Offset (Moderate Slip)"
+    offset_y_range: [0.011, 0.014]
+    yaw_threshold_deg: 13.0
+    drift_threshold_m: 0.015
+    description: "Substantial contact torque causing pronounced pivot without instantaneous loss of contact."
+  large:
+    name: "Large Off-Center Offset (Severe Slip)"
+    offset_y_range: [0.015, 0.018]
+    yaw_threshold_deg: 18.0
+    drift_threshold_m: 0.020
+    description: "Near-boundary contact eccentricity challenging stability and recovery reachability."
+
+perturbation_variations:
+  timing_steps: [20, 25, 30, 35]
+  directions: [+1.0, -1.0]  # Positive (leftward) and negative (rightward) lateral offsets
+  impulse_durations: [1, 2] # 1 or 2 step perturbation burst
+  initial_pose_y_jitter: [-0.010, -0.005, 0.000, 0.005, 0.010]
+  target_locations:
+    - [0.25, 0.00, 0.025]
+    - [0.25, -0.01, 0.025]
+    - [0.25, +0.01, 0.025]
+
+oracle_filter:
+  min_remaining_horizon: 25
+  max_yaw_recoverable_deg: 45.0
+  workspace_x: [0.05, 0.50]
+  workspace_y: [-0.20, 0.20]
+  require_oracle_demonstration: true
+
+counterfactual_conditions:
+  - "B0"  # Original continuation (all history intact)
+  - "B1"  # Action history ablated
+  - "B2"  # Observation history ablated
+  - "B3"  # Policy hidden state reset
+  - "B4"  # All history removed (direct matched injection)
+

@@ -1,0 +1,137 @@
+{
+  "policy_type": "reactive_mlp",
+  "seed": 42,
+  "epochs": 25,
+  "train_samples": 3097,
+  "val_samples": 775,
+  "history": [
+    {
+      "epoch": 1,
+      "train_loss": 4.395312268720725e-06,
+      "val_loss": 4.1973780707849074e-06
+    },
+    {
+      "epoch": 2,
+      "train_loss": 4.199009529506886e-06,
+      "val_loss": 4.173593820269161e-06
+    },
+    {
+      "epoch": 3,
+      "train_loss": 4.138643955286039e-06,
+      "val_loss": 4.154961120548251e-06
+    },
+    {
+      "epoch": 4,
+      "train_loss": 4.12862248866958e-06,
+      "val_loss": 4.147630857005425e-06
+    },
+    {
+      "epoch": 5,
+      "train_loss": 4.131022605338565e-06,
+      "val_loss": 4.146571677665634e-06
+    },
+    {
+      "epoch": 6,
+      "train_loss": 4.129496136856594e-06,
+      "val_loss": 4.143871642554586e-06
+    },
+    {
+      "epoch": 7,
+      "train_loss": 4.128739475941684e-06,
+      "val_loss": 4.1473493138255434e-06
+    },
+    {
+      "epoch": 8,
+      "train_loss": 4.125033971841103e-06,
+      "val_loss": 4.1455920336375125e-06
+    },
+    {
+      "epoch": 9,
+      "train_loss": 4.131010356460822e-06,
+      "val_loss": 4.146344649598177e-06
+    },
+    {
+      "epoch": 10,
+      "train_loss": 4.1286454065296306e-06,
+      "val_loss": 4.148855932726292e-06
+    },
+    {
+      "epoch": 11,
+      "train_loss": 4.120956878209326e-06,
+      "val_loss": 4.1480694699203015e-06
+    },
+    {
+      "epoch": 12,
+      "train_loss": 4.1340566861098404e-06,
+      "val_loss": 4.149981409682369e-06
+    },
+    {
+      "epoch": 13,
+      "train_loss": 4.1220784152718595e-06,
+      "val_loss": 4.145256266383512e-06
+    },
+    {
+      "epoch": 14,
+      "train_loss": 4.117169193761452e-06,
+      "val_loss": 4.155265278313891e-06
+    },
+    {
+      "epoch": 15,
+      "train_loss": 4.126122939382672e-06,
+      "val_loss": 4.1530614680596045e-06
+    },
+    {
+      "epoch": 16,
+      "train_loss": 4.120557444779122e-06,
+      "val_loss": 4.150344989284349e-06
+    },
+    {
+      "epoch": 17,
+      "train_loss": 4.1265182402377235e-06,
+      "val_loss": 4.145213774791046e-06
+    },
+    {
+      "epoch": 18,
+      "train_loss": 4.119413989597494e-06,
+      "val_loss": 4.147382687733625e-06
+    },
+    {
+      "epoch": 19,
+      "train_loss": 4.130861535702127e-06,
+      "val_loss": 4.146327205489797e-06
+    },
+    {
+      "epoch": 20,
+      "train_loss": 4.120312799494565e-06,
+      "val_loss": 4.148316479586356e-06
+    },
+    {
+      "epoch": 21,
+      "train_loss": 4.122238341007744e-06,
+      "val_loss": 4.150622257839131e-06
+    },
+    {
+      "epoch": 22,
+      "train_loss": 4.12304499483052e-06,
+      "val_loss": 4.144373297094717e-06
+    },
+    {
+      "epoch": 23,
+      "train_loss": 4.12245182027637e-06,
+      "val_loss": 4.148862130932685e-06
+    },
+    {
+      "epoch": 24,
+      "train_loss": 4.128061370287581e-06,
+      "val_loss": 4.145076582062757e-06
+    },
+    {
+      "epoch": 25,
+      "train_loss": 4.1114425480654315e-06,
+      "val_loss": 4.155234041718358e-06
+    }
+  ],
+  "best_val_loss": 4.143871642554586e-06,
+  "training_time_seconds": 15.300354719161987,
+  "best_checkpoint_path": "D:\\PROJECT\\CASUAL HISTORY IN ROBOT POLICY RECOVERY\\causal-history-recovery\\models\\checkpoints\\reactive_mlp_best.pt"
+}

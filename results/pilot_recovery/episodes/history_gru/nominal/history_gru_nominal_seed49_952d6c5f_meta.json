@@ -1,0 +1,160 @@
+{
+  "run_id": "952d6c5f",
+  "policy_id": "history_gru",
+  "task_id": "planned_custom_push_target_env",
+  "condition": "nominal",
+  "seed": 49,
+  "checkpoint_path": "D:\\PROJECT\\CASUAL HISTORY IN ROBOT POLICY RECOVERY\\causal-history-recovery\\models\\checkpoints\\history_gru_best.pt",
+  "env_config_hash": "2030b3c8bffc55e0",
+  "policy_config_hash": "3a8ea16b7234a1a9",
+  "episode_length": 150,
+  "final_task_success": false,
+  "dwell_count": 0,
+  "remaining_horizon": 0,
+  "deviation_time": null,
+  "deviation_type": null,
+  "deviation_magnitude": null,
+  "recoverability_label": null,
+  "recovery_outcome": null,
+  "initial_state": {
+    "seed": 49
+  },
+  "final_state": {
+    "qpos": [
+      0.41761846511431927,
+      -0.01906961198819671,
+      -0.00040217543680922443,
+      0.26908406999158385,
+      -0.08331956323332045,
+      0.024978592595891226,
+      0.9552730594217583,
+      -2.904679628401345e-05,
+      -5.016212413999477e-06,
+      -0.2957251782890907
+    ],
+    "qvel": [
+      0.7023007011056398,
+      -0.02596886969272323,
+      -0.05301857196841545,
+      -6.268506225593983e-06,
+      -4.926120962247365e-05,
+      0.00013980500007945194,
+      0.001834672812363136,
+      0.0009432559666006401,
+      -5.072381336287886e-09
+    ],
+    "act": null,
+    "qacc_warmstart": [
+      4.822219781280977,
+      4.778506060926224e-06,
+      -8.402941634290023,
+      0.00020637918273349204,
+      0.001760277408928619,
+      -0.004507930703387501,
+      -0.0734102415874738,
+      -0.038873499143706886,
+      9.90255912536549e-07
+    ],
+    "qfrc_applied": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "xfrc_applied": [
+      [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    ],
+    "ctrl": [
+      0.4300558861158788,
+      -0.019476456509437412,
+      1.3950626861585716e-39
+    ],
+    "time": 0.7500000000000006,
+    "step_count": 150,
+    "remaining_horizon": 0,
+    "max_horizon": 150,
+    "task_goal": [
+      0.25,
+      0.0,
+      0.025
+    ],
+    "object_pos": [
+      0.26908406999158385,
+      -0.08331956323332045,
+      0.024978592595891226
+    ],
+    "object_rot": [
+      0.9552730594217583,
+      -2.904679628401345e-05,
+      -5.016212413999477e-06,
+      -0.2957251782890907
+    ],
+    "end_effector_pos": [
+      0.41761846511431927,
+      -0.01906961198819671,
+      0.025597824563190773
+    ],
+    "active_contacts_count": 4,
+    "metadata": {
+      "env_id": "planned_custom_push_target_env",
+      "current_seed": 49,
+      "dwell_count": 0,
+      "timestep": 0.005
+    }
+  },
+  "timestamp_iso": "2026-11-09T11:12:32Z",
+  "trajectory_npz_path": "history_gru\\nominal\\history_gru_nominal_seed49_952d6c5f_trajectory.npz",
+  "extra_metadata": {}
+}

@@ -1,0 +1,250 @@
+{
+  "reactive_mlp": {
+    "B0_vs_B1": {
+      "num_scenarios": 62,
+      "discordant_scenarios": 2,
+      "paired_success_rate_diff": 0.03225806451612903,
+      "bootstrap_95_ci_succ": [
+        0.0,
+        0.08064516129032258
+      ],
+      "mean_dist_diff": -0.005572492777246802,
+      "bootstrap_95_ci_dist": [
+        -0.017430998259056737,
+        0.005654153197970833
+      ],
+      "mcnemar_p_value": 1.0
+    },
+    "B0_vs_B2": {
+      "num_scenarios": 62,
+      "discordant_scenarios": 2,
+      "paired_success_rate_diff": 0.03225806451612903,
+      "bootstrap_95_ci_succ": [
+        0.0,
+        0.08064516129032258
+      ],
+      "mean_dist_diff": -0.004342680835187874,
+      "bootstrap_95_ci_dist": [
+        -0.01761415130135297,
+        0.007276600188206024
+      ],
+      "mcnemar_p_value": 1.0
+    },
+    "B0_vs_B3": {
+      "num_scenarios": 62,
+      "discordant_scenarios": 2,
+      "paired_success_rate_diff": 0.03225806451612903,
+      "bootstrap_95_ci_succ": [
+        0.0,
+        0.08064516129032258
+      ],
+      "mean_dist_diff": -0.0029108832498689545,
+      "bootstrap_95_ci_dist": [
+        -0.017361184715454853,
+        0.009925234095406141
+      ],
+      "mcnemar_p_value": 1.0
+    },
+    "B0_vs_B4": {
+      "num_scenarios": 62,
+      "discordant_scenarios": 2,
+      "paired_success_rate_diff": 0.03225806451612903,
+      "bootstrap_95_ci_succ": [
+        0.0,
+        0.08064516129032258
+      ],
+      "mean_dist_diff": -0.0033260672415248767,
+      "bootstrap_95_ci_dist": [
+        -0.017681614059402884,
+        0.009854503182383564
+      ],
+      "mcnemar_p_value": 1.0
+    }
+  },
+  "history_gru": {
+    "B0_vs_B1": {
+      "num_scenarios": 62,
+      "discordant_scenarios": 0,
+      "paired_success_rate_diff": 0.0,
+      "bootstrap_95_ci_succ": [
+        0.0,
+        0.0
+      ],
+      "mean_dist_diff": 2.2283838812921635e-05,
+      "bootstrap_95_ci_dist": [
+        -2.434538347575383e-09,
+        6.685395164103832e-05
+      ],
+      "mcnemar_p_value": 1.0
+    },
+    "B0_vs_B2": {
+      "num_scenarios": 62,
+      "discordant_scenarios": 0,
+      "paired_success_rate_diff": 0.0,
+      "bootstrap_95_ci_succ": [
+        0.0,
+        0.0
+      ],
+      "mean_dist_diff": -2.4089828663419234e-05,
+      "bootstrap_95_ci_dist": [
+        -0.000139123435565484,
+        6.685394961870707e-05
+      ],
+      "mcnemar_p_value": 1.0
+    },
+    "B0_vs_B3": {
+      "num_scenarios": 62,
+      "discordant_scenarios": 0,
+      "paired_success_rate_diff": 0.0,
+      "bootstrap_95_ci_succ": [
+        0.0,
+        0.0
+      ],
+      "mean_dist_diff": 2.2284650560746057e-05,
+      "bootstrap_95_ci_dist": [
+        -7.677005312818127e-14,
+        6.685395175928986e-05
+      ],
+      "mcnemar_p_value": 1.0
+    },
+    "B0_vs_B4": {
+      "num_scenarios": 62,
+      "discordant_scenarios": 0,
+      "paired_success_rate_diff": 0.0,
+      "bootstrap_95_ci_succ": [
+        0.0,
+        0.0
+      ],
+      "mean_dist_diff": 1.910301598824717e-05,
+      "bootstrap_95_ci_dist": [
+        -9.544903067787033e-06,
+        6.685395171881018e-05
+      ],
+      "mcnemar_p_value": 1.0
+    }
+  },
+  "recovery_augmented_mlp": {
+    "B0_vs_B1": {
+      "num_scenarios": 62,
+      "discordant_scenarios": 1,
+      "paired_success_rate_diff": 0.016129032258064516,
+      "bootstrap_95_ci_succ": [
+        0.0,
+        0.04838709677419355
+      ],
+      "mean_dist_diff": -0.004218291161233207,
+      "bootstrap_95_ci_dist": [
+        -0.022728407142098235,
+        0.01449425756345665
+      ],
+      "mcnemar_p_value": 1.0
+    },
+    "B0_vs_B2": {
+      "num_scenarios": 62,
+      "discordant_scenarios": 2,
+      "paired_success_rate_diff": 0.0,
+      "bootstrap_95_ci_succ": [
+        -0.04838709677419355,
+        0.04838709677419355
+      ],
+      "mean_dist_diff": 0.00019107212947733435,
+      "bootstrap_95_ci_dist": [
+        -0.017592019599208603,
+        0.020727832249598153
+      ],
+      "mcnemar_p_value": 1.0
+    },
+    "B0_vs_B3": {
+      "num_scenarios": 62,
+      "discordant_scenarios": 1,
+      "paired_success_rate_diff": 0.016129032258064516,
+      "bootstrap_95_ci_succ": [
+        0.0,
+        0.04838709677419355
+      ],
+      "mean_dist_diff": -0.002119893999614536,
+      "bootstrap_95_ci_dist": [
+        -0.017793472265456474,
+        0.015305731211741643
+      ],
+      "mcnemar_p_value": 1.0
+    },
+    "B0_vs_B4": {
+      "num_scenarios": 62,
+      "discordant_scenarios": 1,
+      "paired_success_rate_diff": 0.016129032258064516,
+      "bootstrap_95_ci_succ": [
+        0.0,
+        0.04838709677419355
+      ],
+      "mean_dist_diff": 0.0005690476193816664,
+      "bootstrap_95_ci_dist": [
+        -0.01478646584603668,
+        0.017348358162020915
+      ],
+      "mcnemar_p_value": 1.0
+    }
+  },
+  "recovery_augmented_gru": {
+    "B0_vs_B1": {
+      "num_scenarios": 62,
+      "discordant_scenarios": 1,
+      "paired_success_rate_diff": -0.016129032258064516,
+      "bootstrap_95_ci_succ": [
+        -0.04838709677419355,
+        0.0
+      ],
+      "mean_dist_diff": -0.0009539191959974645,
+      "bootstrap_95_ci_dist": [
+        -0.008146006670406897,
+        0.007649187862901381
+      ],
+      "mcnemar_p_value": 1.0
+    },
+    "B0_vs_B2": {
+      "num_scenarios": 62,
+      "discordant_scenarios": 1,
+      "paired_success_rate_diff": -0.016129032258064516,
+      "bootstrap_95_ci_succ": [
+        -0.04838709677419355,
+        0.0
+      ],
+      "mean_dist_diff": -0.002291071251290808,
+      "bootstrap_95_ci_dist": [
+        -0.011329920090090905,
+        0.00752928248192843
+      ],
+      "mcnemar_p_value": 1.0
+    },
+    "B0_vs_B3": {
+      "num_scenarios": 62,
+      "discordant_scenarios": 1,
+      "paired_success_rate_diff": -0.016129032258064516,
+      "bootstrap_95_ci_succ": [
+        -0.04838709677419355,
+        0.0
+      ],
+      "mean_dist_diff": -0.0021161868576134563,
+      "bootstrap_95_ci_dist": [
+        -0.011801065453473194,
+        0.008187545680401141
+      ],
+      "mcnemar_p_value": 1.0
+    },
+    "B0_vs_B4": {
+      "num_scenarios": 62,
+      "discordant_scenarios": 1,
+      "paired_success_rate_diff": -0.016129032258064516,
+      "bootstrap_95_ci_succ": [
+        -0.04838709677419355,
+        0.0
+      ],
+      "mean_dist_diff": -0.0032796827202799393,
+      "bootstrap_95_ci_dist": [
+        -0.014142086164011294,
+        0.007293161011028
+      ],
+      "mcnemar_p_value": 1.0
+    }
+  }
+}

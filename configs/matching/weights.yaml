@@ -1,0 +1,45 @@
+# State Matching Distance Weights & Normalization Scales
+
+weights:
+  joint_positions: 0.15
+  joint_velocities: 0.10
+  end_effector_position: 0.20
+  end_effector_orientation: 0.10
+  object_position: 0.20
+  object_orientation: 0.10
+  object_velocity: 0.05
+  contact_graph: 0.05
+  gripper_aperture: 0.05
+
+tolerance_tiers:
+  strict:
+    composite_epsilon: 0.010
+    max_ee_position_m: 0.002
+    max_ee_orientation_rad: 0.03
+    max_obj_position_m: 0.002
+    max_obj_orientation_rad: 0.03
+    max_joint_velocity_rad_s: 0.02
+    require_exact_contact: true
+  moderate:
+    composite_epsilon: 0.030
+    max_ee_position_m: 0.005
+    max_ee_orientation_rad: 0.08
+    max_obj_position_m: 0.005
+    max_obj_orientation_rad: 0.08
+    max_joint_velocity_rad_s: 0.05
+    require_exact_contact: true
+  loose:
+    composite_epsilon: 0.075
+    max_ee_position_m: 0.015
+    max_ee_orientation_rad: 0.20
+    max_obj_position_m: 0.015
+    max_obj_orientation_rad: 0.20
+    max_joint_velocity_rad_s: 0.15
+    require_exact_contact: false
+
+hard_constraints:
+  require_identical_goal: true
+  require_identical_horizon: true
+  require_contact_indicator_match: true
+  require_workspace_bounds: true
+

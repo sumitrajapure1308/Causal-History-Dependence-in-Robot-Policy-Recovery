@@ -1,0 +1,45 @@
+{
+  "title": "History Dependence Metrics (H_R)",
+  "per_policy": {
+    "reactive_mlp": {
+      "H_R_B1": 0.0,
+      "H_R_abs_B1": 0.0,
+      "H_R_B2": 0.0,
+      "H_R_abs_B2": 0.0,
+      "H_R_B3": 0.0,
+      "H_R_abs_B3": 0.0,
+      "H_R_B4": 0.0,
+      "H_R_abs_B4": 0.0
+    },
+    "history_gru": {
+      "H_R_B1": 0.0,
+      "H_R_abs_B1": 0.0,
+      "H_R_B2": 0.0,
+      "H_R_abs_B2": 0.0,
+      "H_R_B3": 0.0,
+      "H_R_abs_B3": 0.0,
+      "H_R_B4": 0.0,
+      "H_R_abs_B4": 0.0
+    },
+    "recovery_augmented_mlp": {
+      "H_R_B1": 0.0,
+      "H_R_abs_B1": 0.0,
+      "H_R_B2": 0.0,
+      "H_R_abs_B2": 0.0,
+      "H_R_B3": 0.0,
+      "H_R_abs_B3": 0.0,
+      "H_R_B4": 0.0,
+      "H_R_abs_B4": 0.0
+    },
+    "recovery_augmented_gru": {
+      "H_R_B1": 0.0,
+      "H_R_abs_B1": 0.0,
+      "H_R_B2": 0.0,
+      "H_R_abs_B2": 0.0,
+      "H_R_B3": 0.0,
+      "H_R_abs_B3": 0.0,
+      "H_R_B4": 0.0,
+      "H_R_abs_B4": 0.0
+    }
+  }
+}

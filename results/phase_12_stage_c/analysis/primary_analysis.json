@@ -1,0 +1,142 @@
+{
+  "status": "Confirmatory",
+  "inference_unit": "scenario (N=200)",
+  "policies": {
+    "history_gru": {
+      "valid_paired_scenarios": 200,
+      "missing_pairs": 0,
+      "b0_successes": 2,
+      "b4_successes": 2,
+      "b0_success_rate": 0.01,
+      "b4_success_rate": 0.01,
+      "discordant_scenarios": 0,
+      "b0_only_successes": 0,
+      "b4_only_successes": 0,
+      "concordant_scenarios": 200,
+      "discordance_rate": 0.0,
+      "discordance_95_clopper_pearson_ci": [
+        0.0,
+        0.018275340355148804
+      ],
+      "discordance_95_wilson_ci": [
+        0.0,
+        0.018845251197524133
+      ],
+      "paired_success_rate_difference": 0.0,
+      "mean_signed_difference": 0.0,
+      "abs_mean_signed_difference": 0.0,
+      "median_difference": 0.0,
+      "difference_95_bootstrap_ci": [
+        0.0,
+        0.0
+      ],
+      "mcnemar_exact_p_raw": 1.0,
+      "odds_ratio": 1.0,
+      "effect_size_risk_difference": 0.0,
+      "direction_of_effect": "identical",
+      "mcnemar_p_holm_bonferroni": 1.0
+    },
+    "reactive_mlp": {
+      "valid_paired_scenarios": 200,
+      "missing_pairs": 0,
+      "b0_successes": 2,
+      "b4_successes": 2,
+      "b0_success_rate": 0.01,
+      "b4_success_rate": 0.01,
+      "discordant_scenarios": 0,
+      "b0_only_successes": 0,
+      "b4_only_successes": 0,
+      "concordant_scenarios": 200,
+      "discordance_rate": 0.0,
+      "discordance_95_clopper_pearson_ci": [
+        0.0,
+        0.018275340355148804
+      ],
+      "discordance_95_wilson_ci": [
+        0.0,
+        0.018845251197524133
+      ],
+      "paired_success_rate_difference": 0.0,
+      "mean_signed_difference": 0.0,
+      "abs_mean_signed_difference": 0.0,
+      "median_difference": 0.0,
+      "difference_95_bootstrap_ci": [
+        0.0,
+        0.0
+      ],
+      "mcnemar_exact_p_raw": 1.0,
+      "odds_ratio": 1.0,
+      "effect_size_risk_difference": 0.0,
+      "direction_of_effect": "identical",
+      "mcnemar_p_holm_bonferroni": 1.0
+    },
+    "recovery_augmented_gru": {
+      "valid_paired_scenarios": 200,
+      "missing_pairs": 0,
+      "b0_successes": 2,
+      "b4_successes": 3,
+      "b0_success_rate": 0.012000000000000002,
+      "b4_success_rate": 0.013000000000000001,
+      "discordant_scenarios": 1,
+      "b0_only_successes": 0,
+      "b4_only_successes": 1,
+      "concordant_scenarios": 199,
+      "discordance_rate": 0.005,
+      "discordance_95_clopper_pearson_ci": [
+        0.00012658102800940386,
+        0.027541898457558396
+      ],
+      "discordance_95_wilson_ci": [
+        0.0008831712299473046,
+        0.027773627455601586
+      ],
+      "paired_success_rate_difference": -0.0009999999999999996,
+      "mean_signed_difference": -0.0009999999999999996,
+      "abs_mean_signed_difference": 0.0009999999999999996,
+      "median_difference": 0.0,
+      "difference_95_bootstrap_ci": [
+        -0.006,
+        0.003000000000000001
+      ],
+      "mcnemar_exact_p_raw": 1.0,
+      "odds_ratio": 0.0,
+      "effect_size_risk_difference": -0.0009999999999999996,
+      "direction_of_effect": "B4_superior",
+      "mcnemar_p_holm_bonferroni": 1.0
+    },
+    "recovery_augmented_mlp": {
+      "valid_paired_scenarios": 200,
+      "missing_pairs": 0,
+      "b0_successes": 9,
+      "b4_successes": 3,
+      "b0_success_rate": 0.047,
+      "b4_success_rate": 0.015,
+      "discordant_scenarios": 5,
+      "b0_only_successes": 5,
+      "b4_only_successes": 0,
+      "concordant_scenarios": 195,
+      "discordance_rate": 0.025,
+      "discordance_95_clopper_pearson_ci": [
+        0.00816616619071024,
+        0.05737435112726702
+      ],
+      "discordance_95_wilson_ci": [
+        0.010724737152151116,
+        0.057178251485496816
+      ],
+      "paired_success_rate_difference": 0.032,
+      "mean_signed_difference": 0.032,
+      "abs_mean_signed_difference": 0.032,
+      "median_difference": 0.0,
+      "difference_95_bootstrap_ci": [
+        0.013000000000000001,
+        0.054000000000000006
+      ],
+      "mcnemar_exact_p_raw": 0.0625,
+      "odds_ratio": Infinity,
+      "effect_size_risk_difference": 0.032,
+      "direction_of_effect": "B0_superior",
+      "mcnemar_p_holm_bonferroni": 0.25
+    }
+  }
+}

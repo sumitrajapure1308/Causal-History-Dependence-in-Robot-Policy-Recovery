@@ -1,0 +1,6 @@
+{
+  "stage": "Stage_A_Smoke",
+  "jsonl_bytes": 494152,
+  "bytes_per_rollout": 484.4627450980392,
+  "projected_20k_jsonl_mb": 9.240393545113358
+}

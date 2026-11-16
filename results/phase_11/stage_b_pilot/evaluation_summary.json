@@ -1,0 +1,273 @@
+{
+  "total_rollouts": 3720,
+  "policies": {
+    "reactive_mlp": {
+      "B0": {
+        "success_count": 2,
+        "total_scenarios": 62,
+        "success_rate": 0.03225806451612903,
+        "wilson_95_ci": [
+          0.00889139213369812,
+          0.11020446634544055
+        ],
+        "mean_final_distance": 0.24905945670989244,
+        "mean_recovery_time": 60.5,
+        "mean_control_effort": 1.155613856627174e-05,
+        "physical_recovery_rate": 0.06451612903225806
+      },
+      "B1": {
+        "success_count": 0,
+        "total_scenarios": 62,
+        "success_rate": 0.0,
+        "wilson_95_ci": [
+          0.0,
+          0.05834384871907926
+        ],
+        "mean_final_distance": 0.25463194948713924,
+        "mean_recovery_time": 61.225806451612904,
+        "mean_control_effort": 1.1556138536933201e-05,
+        "physical_recovery_rate": 0.03225806451612903
+      },
+      "B2": {
+        "success_count": 0,
+        "total_scenarios": 62,
+        "success_rate": 0.0,
+        "wilson_95_ci": [
+          0.0,
+          0.05834384871907926
+        ],
+        "mean_final_distance": 0.2534021375450803,
+        "mean_recovery_time": 61.096774193548384,
+        "mean_control_effort": 1.155613856627174e-05,
+        "physical_recovery_rate": 0.03225806451612903
+      },
+      "B3": {
+        "success_count": 0,
+        "total_scenarios": 62,
+        "success_rate": 0.0,
+        "wilson_95_ci": [
+          0.0,
+          0.05834384871907926
+        ],
+        "mean_final_distance": 0.25197033995976137,
+        "mean_recovery_time": 61.064516129032256,
+        "mean_control_effort": 1.155613856627174e-05,
+        "physical_recovery_rate": 0.03225806451612903
+      },
+      "B4": {
+        "success_count": 0,
+        "total_scenarios": 62,
+        "success_rate": 0.0,
+        "wilson_95_ci": [
+          0.0,
+          0.05834384871907926
+        ],
+        "mean_final_distance": 0.2523855239514173,
+        "mean_recovery_time": 61.04838709677419,
+        "mean_control_effort": 1.155613856627174e-05,
+        "physical_recovery_rate": 0.03225806451612903
+      }
+    },
+    "history_gru": {
+      "B0": {
+        "success_count": 0,
+        "total_scenarios": 62,
+        "success_rate": 0.0,
+        "wilson_95_ci": [
+          0.0,
+          0.05834384871907926
+        ],
+        "mean_final_distance": 0.24493004425040207,
+        "mean_recovery_time": 66.66129032258064,
+        "mean_control_effort": 1.1579392952215482e-05,
+        "physical_recovery_rate": 0.03225806451612903
+      },
+      "B1": {
+        "success_count": 0,
+        "total_scenarios": 62,
+        "success_rate": 0.0,
+        "wilson_95_ci": [
+          0.0,
+          0.05834384871907926
+        ],
+        "mean_final_distance": 0.24490776041158913,
+        "mean_recovery_time": 66.66129032258064,
+        "mean_control_effort": 1.1579392952215482e-05,
+        "physical_recovery_rate": 0.03225806451612903
+      },
+      "B2": {
+        "success_count": 0,
+        "total_scenarios": 62,
+        "success_rate": 0.0,
+        "wilson_95_ci": [
+          0.0,
+          0.05834384871907926
+        ],
+        "mean_final_distance": 0.24495413407906555,
+        "mean_recovery_time": 66.66129032258064,
+        "mean_control_effort": 1.1579392952215482e-05,
+        "physical_recovery_rate": 0.03225806451612903
+      },
+      "B3": {
+        "success_count": 0,
+        "total_scenarios": 62,
+        "success_rate": 0.0,
+        "wilson_95_ci": [
+          0.0,
+          0.05834384871907926
+        ],
+        "mean_final_distance": 0.24490775959984135,
+        "mean_recovery_time": 66.66129032258064,
+        "mean_control_effort": 1.1579392952215482e-05,
+        "physical_recovery_rate": 0.03225806451612903
+      },
+      "B4": {
+        "success_count": 0,
+        "total_scenarios": 62,
+        "success_rate": 0.0,
+        "wilson_95_ci": [
+          0.0,
+          0.05834384871907926
+        ],
+        "mean_final_distance": 0.24491094123441387,
+        "mean_recovery_time": 66.66129032258064,
+        "mean_control_effort": 1.1579392952215482e-05,
+        "physical_recovery_rate": 0.03225806451612903
+      }
+    },
+    "recovery_augmented_mlp": {
+      "B0": {
+        "success_count": 1,
+        "total_scenarios": 62,
+        "success_rate": 0.016129032258064516,
+        "wilson_95_ci": [
+          0.0028528752977762598,
+          0.08586697830133269
+        ],
+        "mean_final_distance": 0.2646298997243218,
+        "mean_recovery_time": 63.274193548387096,
+        "mean_control_effort": 1.211134949405659e-05,
+        "physical_recovery_rate": 0.016129032258064516
+      },
+      "B1": {
+        "success_count": 0,
+        "total_scenarios": 62,
+        "success_rate": 0.0,
+        "wilson_95_ci": [
+          0.0,
+          0.05834384871907926
+        ],
+        "mean_final_distance": 0.26884819088555506,
+        "mean_recovery_time": 62.435483870967744,
+        "mean_control_effort": 1.1415373592171818e-05,
+        "physical_recovery_rate": 0.0
+      },
+      "B2": {
+        "success_count": 1,
+        "total_scenarios": 62,
+        "success_rate": 0.016129032258064516,
+        "wilson_95_ci": [
+          0.0028528752977762598,
+          0.08586697830133269
+        ],
+        "mean_final_distance": 0.2644388275948445,
+        "mean_recovery_time": 60.53225806451613,
+        "mean_control_effort": 1.1076765326100529e-05,
+        "physical_recovery_rate": 0.016129032258064516
+      },
+      "B3": {
+        "success_count": 0,
+        "total_scenarios": 62,
+        "success_rate": 0.0,
+        "wilson_95_ci": [
+          0.0,
+          0.05834384871907926
+        ],
+        "mean_final_distance": 0.2667497937239364,
+        "mean_recovery_time": 60.403225806451616,
+        "mean_control_effort": 1.12876576813212e-05,
+        "physical_recovery_rate": 0.0
+      },
+      "B4": {
+        "success_count": 0,
+        "total_scenarios": 62,
+        "success_rate": 0.0,
+        "wilson_95_ci": [
+          0.0,
+          0.05834384871907926
+        ],
+        "mean_final_distance": 0.2640608521049401,
+        "mean_recovery_time": 61.854838709677416,
+        "mean_control_effort": 1.1132767014949482e-05,
+        "physical_recovery_rate": 0.0
+      }
+    },
+    "recovery_augmented_gru": {
+      "B0": {
+        "success_count": 0,
+        "total_scenarios": 62,
+        "success_rate": 0.0,
+        "wilson_95_ci": [
+          0.0,
+          0.05834384871907926
+        ],
+        "mean_final_distance": 0.2640876147998529,
+        "mean_recovery_time": 62.29032258064516,
+        "mean_control_effort": 2.294000636714871e-05,
+        "physical_recovery_rate": 0.016129032258064516
+      },
+      "B1": {
+        "success_count": 1,
+        "total_scenarios": 62,
+        "success_rate": 0.016129032258064516,
+        "wilson_95_ci": [
+          0.0028528752977762598,
+          0.08586697830133269
+        ],
+        "mean_final_distance": 0.2650415339958503,
+        "mean_recovery_time": 60.79032258064516,
+        "mean_control_effort": 2.3617430953538955e-05,
+        "physical_recovery_rate": 0.03225806451612903
+      },
+      "B2": {
+        "success_count": 1,
+        "total_scenarios": 62,
+        "success_rate": 0.016129032258064516,
+        "wilson_95_ci": [
+          0.0028528752977762598,
+          0.08586697830133269
+        ],
+        "mean_final_distance": 0.2663786860511436,
+        "mean_recovery_time": 58.95161290322581,
+        "mean_control_effort": 2.276537261716458e-05,
+        "physical_recovery_rate": 0.03225806451612903
+      },
+      "B3": {
+        "success_count": 1,
+        "total_scenarios": 62,
+        "success_rate": 0.016129032258064516,
+        "wilson_95_ci": [
+          0.0028528752977762598,
+          0.08586697830133269
+        ],
+        "mean_final_distance": 0.26620380165746627,
+        "mean_recovery_time": 58.58064516129032,
+        "mean_control_effort": 2.4493433087510283e-05,
+        "physical_recovery_rate": 0.03225806451612903
+      },
+      "B4": {
+        "success_count": 1,
+        "total_scenarios": 62,
+        "success_rate": 0.016129032258064516,
+        "wilson_95_ci": [
+          0.0028528752977762598,
+          0.08586697830133269
+        ],
+        "mean_final_distance": 0.2673672975201327,
+        "mean_recovery_time": 58.693548387096776,
+        "mean_control_effort": 2.394363161417254e-05,
+        "physical_recovery_rate": 0.03225806451612903
+      }
+    }
+  }
+}

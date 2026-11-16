@@ -1,0 +1,23 @@
+{
+  "policies_ordered": [
+    "reactive_mlp",
+    "history_gru",
+    "recovery_augmented_mlp",
+    "recovery_augmented_gru"
+  ],
+  "b0_scores": [
+    0.058823529411764705,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "b4_scores": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "kendall_tau": 1.0,
+  "ranking_reversals": 0,
+  "top_1_agreement": true
+}

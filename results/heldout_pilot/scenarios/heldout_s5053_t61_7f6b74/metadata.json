@@ -1,0 +1,51 @@
+{
+  "scenario_uid": "heldout_s5053_t61_7f6b74",
+  "policy_id": "history_gru",
+  "checkpoint_id": "history_gru_best.pt",
+  "training_seed": 42,
+  "scenario_generation_seed": 5053,
+  "severity_tier": "large",
+  "perturb_step": 25,
+  "offset_y": 0.02,
+  "direction": 1.0,
+  "impulse_duration": 1,
+  "deviation_step": 61,
+  "deviation_type": "off_center_rotational_slip",
+  "deviation_yaw_deg": 28.281201308897366,
+  "deviation_drift_m": 0.029968418977606548,
+  "remaining_horizon": 88,
+  "goal_state": [
+    0.22,
+    0.04,
+    0.025
+  ],
+  "oracle_recoverable": true,
+  "split": "held_out_test",
+  "state_matching_error": 0.0,
+  "snapshot_hash": "12453ec24f68cfeea4b7dd3b964d03b13235b775d3542be975d1cac262b03e96",
+  "prefix_hash": "055710e9b4c904cf5c1e77a2353a113a2ee7490080cf2ab7558dcddc1e3cc7b4",
+  "checkpoint_hash": "5fcf94e2410efca8a8c70f47ea6bec7c8f2efd6bf10b665aa1c7d531a15fd6a0",
+  "validation_report": {
+    "all_passed": true,
+    "passed_rules_count": 15,
+    "total_rules_count": 15,
+    "rules": {
+      "1_source_failure_plausible": true,
+      "2_oracle_recoverable": true,
+      "3_physical_state_valid": true,
+      "4_object_workspace_bounds": true,
+      "5_manipulator_limits": true,
+      "6_contact_state_consistent": true,
+      "7_goal_state_preserved": true,
+      "8_horizon_preserved": true,
+      "9_state_matching_tolerance": true,
+      "10_hidden_state_isolation": true,
+      "11_obs_history_masking": true,
+      "12_action_history_masking": true,
+      "13_contact_history_integrity": true,
+      "14_random_state_synchronized": true,
+      "15_zero_future_leakage": true
+    },
+    "failed_reasons": []
+  }
+}

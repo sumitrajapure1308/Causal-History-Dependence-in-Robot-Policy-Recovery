@@ -1,0 +1,61 @@
+{
+  "scenario_uid": "scen_history_gru_s133_t46_466bf1",
+  "policy_id": "history_gru",
+  "seed": 133,
+  "severity_tier": "medium",
+  "deviation_step": 46,
+  "remaining_horizon": 103,
+  "goal_state": [
+    0.25,
+    -0.01,
+    0.025
+  ],
+  "deviation_yaw_deg": 43.01478633503624,
+  "deviation_drift_m": 0.05575001417511699,
+  "is_recoverable": true,
+  "oracle_eval": {
+    "admitted": true,
+    "checks": {
+      "physical_deviation": true,
+      "objective_detectability": true,
+      "kinematic_reachability": true,
+      "horizon_sufficiency": true,
+      "no_catastrophe": true,
+      "valid_contact_manifold": true,
+      "safe_robot_config": true,
+      "oracle_recovery": true
+    },
+    "execution": {
+      "steps_executed": 46,
+      "success": true,
+      "dwell_count": 5,
+      "final_dist_to_goal": 0.05126434262117617,
+      "reason": "dwell_satisfied"
+    }
+  },
+  "snapshot_dict": {
+    "qpos": [
+      0.06392687843164471,
+      0.010481478053886233,
+      -0.000389846119483757,
+      0.09212062939106444,
+      -0.025864105806109136,
+      0.02509173184973351,
+      0.9872090818548224,
+      -0.00022599678538892892,
+      0.0014715990535430162,
+      -0.1594240007810517
+    ],
+    "qvel": [
+      0.6018463885801324,
+      -0.0419764882500569,
+      0.1548703913146375,
+      0.3624953656861854,
+      -0.1082659556892737,
+      0.06717998698655939,
+      -0.5932037742213886,
+      2.2393612368314706,
+      -2.1355240003143177
+    ],
+    "act": null,
+    "qacc_warmstart": 

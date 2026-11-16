@@ -1,0 +1,24 @@
+# Recovery-Augmented Behavioral Cloning Training Configuration
+dataset:
+  train_episodes: 50
+  val_episodes: 10
+  seed_start_train: 3000
+  seed_start_val: 3050
+  max_horizon: 100
+  history_window: 10
+  dataset_output_path: "data/processed/recovery_training_dataset.npz"
+  manifest_output_path: "data/processed/dataset_manifest.json"
+
+training:
+  seeds:
+    - 42
+    - 123
+    - 456
+  epochs: 35
+  batch_size: 32
+  learning_rate: 0.001
+  weight_decay: 1.0e-5
+  early_stopping_patience: 10
+  min_val_improvement: 1.0e-5
+  output_dir: "results/recovery_training"
+

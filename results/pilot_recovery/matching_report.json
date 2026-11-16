@@ -1,0 +1,456 @@
+{
+  "timestamp_iso": "2026-11-09T11:12:43Z",
+  "total_pairs_tested": 45,
+  "tier_distribution": {
+    "strict": 0,
+    "moderate": 0,
+    "loose": 0,
+    "rejected": 45
+  },
+  "mean_composite_distance": 0.8672478332627456,
+  "pairs": [
+    {
+      "pair_id": "pair_0_1",
+      "tier": "rejected",
+      "composite_distance": 1.4110580102500607,
+      "passed_hard": false,
+      "reasons": [
+        "horizon_mismatch",
+        "contact_count_mismatch"
+      ]
+    },
+    {
+      "pair_id": "pair_0_2",
+      "tier": "rejected",
+      "composite_distance": 1.1522275377792317,
+      "passed_hard": false,
+      "reasons": [
+        "horizon_mismatch",
+        "contact_count_mismatch"
+      ]
+    },
+    {
+      "pair_id": "pair_0_3",
+      "tier": "rejected",
+      "composite_distance": 1.1458752328784936,
+      "passed_hard": false,
+      "reasons": [
+        "horizon_mismatch",
+        "contact_count_mismatch"
+      ]
+    },
+    {
+      "pair_id": "pair_0_4",
+      "tier": "rejected",
+      "composite_distance": 0.9489943538174217,
+      "passed_hard": false,
+      "reasons": [
+        "horizon_mismatch",
+        "contact_count_mismatch"
+      ]
+    },
+    {
+      "pair_id": "pair_0_5",
+      "tier": "rejected",
+      "composite_distance": 1.1265563470214595,
+      "passed_hard": false,
+      "reasons": [
+        "horizon_mismatch",
+        "contact_count_mismatch"
+      ]
+    },
+    {
+      "pair_id": "pair_0_6",
+      "tier": "rejected",
+      "composite_distance": 1.2345745158988946,
+      "passed_hard": false,
+      "reasons": [
+        "horizon_mismatch",
+        "contact_count_mismatch"
+      ]
+    },
+    {
+      "pair_id": "pair_0_7",
+      "tier": "rejected",
+      "composite_distance": 1.0413522813607028,
+      "passed_hard": false,
+      "reasons": [
+        "horizon_mismatch",
+        "contact_count_mismatch"
+      ]
+    },
+    {
+      "pair_id": "pair_0_8",
+      "tier": "rejected",
+      "composite_distance": 1.0563120518924172,
+      "passed_hard": false,
+      "reasons": [
+        "horizon_mismatch",
+        "contact_count_mismatch"
+      ]
+    },
+    {
+      "pair_id": "pair_0_9",
+      "tier": "rejected",
+      "composite_distance": 0.8256820172093439,
+      "passed_hard": false,
+      "reasons": [
+        "horizon_mismatch",
+        "contact_count_mismatch"
+      ]
+    },
+    {
+      "pair_id": "pair_1_2",
+      "tier": "rejected",
+      "composite_distance": 0.9426580020354246,
+      "passed_hard": false,
+      "reasons": [
+        "horizon_mismatch",
+        "contact_count_mismatch"
+      ]
+    },
+    {
+      "pair_id": "pair_1_3",
+      "tier": "rejected",
+      "composite_distance": 0.8530524730693461,
+      "passed_hard": false,
+      "reasons": [
+        "horizon_mismatch",
+        "contact_count_mismatch"
+      ]
+    },
+    {
+      "pair_id": "pair_1_4",
+      "tier": "rejected",
+      "composite_distance": 1.2852578228764937,
+      "passed_hard": false,
+      "reasons": [
+        "horizon_mismatch",
+        "contact_count_mismatch"
+      ]
+    },
+    {
+      "pair_id": "pair_1_5",
+      "tier": "rejected",
+      "composite_distance": 1.5255904312908166,
+      "passed_hard": false,
+      "reasons": [
+        "horizon_mismatch",
+        "contact_count_mismatch"
+      ]
+    },
+    {
+      "pair_id": "pair_1_6",
+      "tier": "rejected",
+      "composite_distance": 0.5833539513811279,
+      "passed_hard": false,
+      "reasons": [
+        "horizon_mismatch"
+      ]
+    },
+    {
+      "pair_id": "pair_1_7",
+      "tier": "rejected",
+      "composite_distance": 0.5440198076338167,
+      "passed_hard": false,
+      "reasons": [
+        "horizon_mismatch",
+        "contact_count_mismatch"
+      ]
+    },
+    {
+      "pair_id": "pair_1_8",
+      "tier": "rejected",
+      "composite_distance": 0.8865929962397747,
+      "passed_hard": false,
+      "reasons": [
+        "horizon_mismatch",
+        "contact_count_mismatch"
+      ]
+    },
+    {
+      "pair_id": "pair_1_9",
+      "tier": "rejected",
+      "composite_distance": 0.9259158313020596,
+      "passed_hard": false,
+      "reasons": [
+        "horizon_mismatch",
+        "contact_count_mismatch"
+      ]
+    },
+    {
+      "pair_id": "pair_2_3",
+      "tier": "rejected",
+      "composite_distance": 0.15262618963394273,
+      "passed_hard": false,
+      "reasons": [
+        "horizon_mismatch"
+      ]
+    },
+    {
+      "pair_id": "pair_2_4",
+      "tier": "rejected",
+      "composite_distance": 0.687092938534528,
+      "passed_hard": false,
+      "reasons": [
+        "horizon_mismatch",
+        "contact_count_mismatch"
+      ]
+    },
+    {
+      "pair_id": "pair_2_5",
+      "tier": "rejected",
+      "composite_distance": 0.6986472280421039,
+      "passed_hard": false,
+      "reasons": [
+        "horizon_mismatch"
+      ]
+    },
+    {
+      "pair_id": "pair_2_6",
+      "tier": "rejected",
+      "composite_distance": 0.6031077522502037,
+      "passed_hard": false,
+      "reasons": [
+        "horizon_mismatch",
+        "contact_count_mismatch"
+      ]
+    },
+    {
+      "pair_id": "pair_2_7",
+      "tier": "rejected",
+      "composite_distance": 1.1686668971360188,
+      "passed_hard": false,
+      "reasons": [
+        "horizon_mismatch",
+        "contact_count_mismatch"
+      ]
+    },
+    {
+      "pair_id": "pair_2_8",
+      "tier": "rejected",
+      "composite_distance": 0.1752685925168024,
+      "passed_hard": false,
+      "reasons": [
+        "horizon_mismatch"
+      ]
+    },
+    {
+      "pair_id": "pair_2_9",
+      "tier": "rejected",
+      "composite_distance": 0.6059724252335054,
+      "passed_hard": false,
+      "reasons": [
+        "horizon_mismatch",
+        "contact_count_mismatch"
+      ]
+    },
+    {
+      "pair_id": "pair_3_4",
+      "tier": "rejected",
+      "composite_distance": 0.6658105490686009,
+      "passed_hard": false,
+      "reasons": [
+        "horizon_mismatch",
+        "contact_count_mismatch"
+      ]
+    },
+    {
+      "pair_id": "pair_3_5",
+      "tier": "rejected",
+      "composite_distance": 0.7184598633302498,
+      "passed_hard": false,
+      "reasons": [
+        "horizon_mismatch"
+      ]
+    },
+    {
+      "pair_id": "pair_3_6",
+      "tier": "rejected",
+      "composite_distance": 0.6258865270986969,
+      "passed_hard": false,
+      "reasons": [
+        "horizon_mismatch",
+        "contact_count_mismatch"
+      ]
+    },
+    {
+      "pair_id": "pair_3_7",
+      "tier": "rejected",
+      "composite_distance": 1.103864134660664,
+      "passed_hard": false,
+      "reasons": [
+        "horizon_mismatch",
+        "contact_count_mismatch"
+      ]
+    },
+    {
+      "pair_id": "pair_3_8",
+      "tier": "rejected",
+      "composite_distance": 0.0961277650014737,
+      "passed_hard": false,
+      "reasons": [
+        "horizon_mismatch"
+      ]
+    },
+    {
+      "pair_id": "pair_3_9",
+      "tier": "rejected",
+      "composite_distance": 0.5294442844451968,
+      "passed_hard": false,
+      "reasons": [
+        "horizon_mismatch",
+        "contact_count_mismatch"
+      ]
+    },
+    {
+      "pair_id": "pair_4_5",
+      "tier": "rejected",
+      "composite_distance": 0.38707984443598575,
+      "passed_hard": false,
+      "reasons": [
+        "horizon_mismatch",
+        "contact_count_mismatch"
+      ]
+    },
+    {
+      "pair_id": "pair_4_6",
+      "tier": "rejected",
+      "composite_distance": 1.044787912181655,
+      "passed_hard": false,
+      "reasons": [
+        "horizon_mismatch",
+        "contact_count_mismatch"
+      ]
+    },
+    {
+      "pair_id": "pair_4_7",
+      "tier": "rejected",
+      "composite_distance": 1.474866640559366,
+      "passed_hard": false,
+      "reasons": [
+        "horizon_mismatch",
+        "contact_count_mismatch"
+      ]
+    },
+    {
+      "pair_id": "pair_4_8",
+      "tier": "rejected",
+      "composite_distance": 0.5992217935479481,
+      "passed_hard": false,
+      "reasons": [
+        "horizon_mismatch",
+        "contact_count_mismatch"
+      ]
+    },
+    {
+      "pair_id": "pair_4_9",
+      "tier": "rejected",
+      "composite_distance": 0.6833923945116004,
+      "passed_hard": false,
+      "reasons": [
+        "horizon_mismatch",
+        "contact_count_mismatch"
+      ]
+    },
+    {
+      "pair_id": "pair_5_6",
+      "tier": "rejected",
+      "composite_distance": 1.1802062198322303,
+      "passed_hard": false,
+      "reasons": [
+        "horizon_mismatch",
+        "contact_count_mismatch"
+      ]
+    },
+    {
+      "pair_id": "pair_5_7",
+      "tier": "rejected",
+      "composite_distance": 1.7024364870519193,
+      "passed_hard": false,
+      "reasons": [
+        "horizon_mismatch",
+        "contact_count_mismatch"
+      ]
+    },
+    {
+      "pair_id": "pair_5_8",
+      "tier": "rejected",
+      "composite_distance": 0.6597858304277696,
+      "passed_hard": false,
+      "reasons": [
+        "horizon_mismatch"
+      ]
+    },
+    {
+      "pair_id": "pair_5_9",
+      "tier": "rejected",
+      "composite_distance": 0.9033621448101842,
+      "passed_hard": false,
+      "reasons": [
+        "horizon_mismatch",
+        "contact_count_mismatch"
+      ]
+    },
+    {
+      "pair_id": "pair_6_7",
+      "tier": "rejected",
+      "composite_distance": 0.7712056019819381,
+      "passed_hard": false,
+      "reasons": [
+        "horizon_mismatch",
+        "contact_count_mismatch"
+      ]
+    },
+    {
+      "pair_id": "pair_6_8",
+      "tier": "rejected",
+      "composite_distance": 0.6720372663125281,
+      "passed_hard": false,
+      "reasons": [
+        "horizon_mismatch",
+        "contact_count_mismatch"
+      ]
+    },
+    {
+      "pair_id": "pair_6_9",
+      "tier": "rejected",
+      "composite_distance": 0.8450462354026987,
+      "passed_hard": false,
+      "reasons": [
+        "horizon_mismatch",
+        "contact_count_mismatch"
+      ]
+    },
+    {
+      "pair_id": "pair_7_8",
+      "tier": "rejected",
+      "composite_distance": 1.1105316098826759,
+      "passed_hard": false,
+      "reasons": [
+        "horizon_mismatch",
+        "contact_count_mismatch"
+      ]
+    },
+    {
+      "pair_id": "pair_7_9",
+      "tier": "rejected",
+      "composite_distance": 1.1906650571298742,
+      "passed_hard": false,
+      "reasons": [
+        "horizon_mismatch",
+        "contact_count_mismatch"
+      ]
+    },
+    {
+      "pair_id": "pair_8_9",
+      "tier": "rejected",
+      "composite_distance": 0.48147864786629346,
+      "passed_hard": false,
+      "reasons": [
+        "horizon_mismatch",
+        "contact_count_mismatch"
+      ]
+    }
+  ]
+}

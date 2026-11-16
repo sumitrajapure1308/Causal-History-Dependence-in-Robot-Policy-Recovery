@@ -1,0 +1,266 @@
+{
+  "scenario_uid": "scen_history_gru_s252_t69_019ca8",
+  "policy_id": "history_gru",
+  "seed": 252,
+  "severity_tier": "small",
+  "deviation_step": 69,
+  "remaining_horizon": 80,
+  "goal_state": [
+    0.25,
+    0.01,
+    0.025
+  ],
+  "deviation_yaw_deg": 52.09955494712152,
+  "deviation_drift_m": 0.06638149780362326,
+  "is_recoverable": true,
+  "oracle_eval": {
+    "admitted": true,
+    "checks": {
+      "physical_deviation": true,
+      "objective_detectability": true,
+      "kinematic_reachability": true,
+      "horizon_sufficiency": true,
+      "no_catastrophe": true,
+      "valid_contact_manifold": true,
+      "safe_robot_config": true,
+      "oracle_recovery": true
+    },
+    "execution": {
+      "steps_executed": 24,
+      "success": true,
+      "dwell_count": 15,
+      "final_dist_to_goal": 0.0495132766960848,
+      "reason": "dwell_satisfied"
+    }
+  },
+  "snapshot_dict": {
+    "qpos": [
+      0.1389630912325885,
+      0.005585831454794379,
+      -0.0007549919996210309,
+      0.17635673036520844,
+      -0.011915191213248676,
+      0.025250657254539097,
+      0.9902355788174048,
+      0.004834490898798132,
+      0.003998161330099775,
+      -0.13926284805320313
+    ],
+    "qvel": [
+      0.7308707580945281,
+      -0.028053314257798008,
+      -0.07515881061495219,
+      0.5616499117389565,
+      -0.13176447280391715,
+      0.019828328341351283,
+      3.2463378569240766,
+      2.0442206721267464,
+      0.034814457464361626
+    ],
+    "act": null,
+    "qacc_warmstart": [
+      2.7290046344055905,
+      0.10537452541786779,
+      -4.152383802024165,
+      -9.097117314911053,
+      0.0013177106102801872,
+      8.372312276739816,
+      955.7899616280322,
+      -429.9384787777815,
+      444.9766011445122
+    ],
+    "qfrc_applied": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "xfrc_applied": [
+      [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    ],
+    "ctrl": [
+      0.15122533503919838,
+      0.0051706734811887145,
+      6.3242841772521914e-40
+    ],
+    "time": 0.3500000000000002,
+    "step_count": 70,
+    "remaining_horizon": 80,
+    "max_horizon": 150,
+    "task_goal": [
+      0.25,
+      0.01,
+      0.025
+    ],
+    "object_pos": [
+      0.17635673036520844,
+      -0.011915191213248676,
+      0.025250657254539097
+    ],
+    "object_rot": [
+      0.9902355788174048,
+      0.004834490898798132,
+      0.003998161330099775,
+      -0.13926284805320313
+    ],
+    "end_effector_pos": [
+      0.1389630912325885,
+      0.005585831454794379,
+      0.025245008000378967
+    ],
+    "active_contacts_count": 1,
+    "metadata": {
+      "env_id": "planned_custom_push_target_env",
+      "current_seed": 252,
+      "dwell_count": 0,
+      "timestep": 0.005
+    }
+  },
+  "conditions": {
+    "B0": {
+      "condition": "B0",
+      "state_matching_error": 0.0,
+      "remaining_horizon": 80,
+      "goal_state": [
+        0.25,
+        0.01,
+        0.025
+      ],
+      "hidden_norm": 0.0,
+      "obs_status": "preserved",
+      "action_status": "preserved",
+      "hidden_status": "preserved"
+    },
+    "B1": {
+      "condition": "B1",
+      "state_matching_error": 0.0,
+      "remaining_horizon": 80,
+      "goal_state": [
+        0.25,
+        0.01,
+        0.025
+      ],
+      "hidden_norm": 0.0,
+      "obs_status": "preserved",
+      "action_status": "ablated",
+      "hidden_status": "preserved"
+    },
+    "B2": {
+      "condition": "B2",
+      "state_matching_error": 0.0,
+      "remaining_horizon": 80,
+      "goal_state": [
+        0.25,
+        0.01,
+        0.025
+      ],
+      "hidden_norm": 0.0,
+      "obs_status": "ablated",
+      "action_status": "preserved",
+      "hidden_status": "preserved"
+    },
+    "B3": {
+      "condition": "B3",
+      "state_matching_error": 0.0,
+      "remaining_horizon": 80,
+      "goal_state": [
+        0.25,
+        0.01,
+        0.025
+      ],
+      "hidden_norm": 0.0,
+      "obs_status": "preserved",
+      "action_status": "preserved",
+      "hidden_status": "reset"
+    },
+    "B4": {
+      "condition": "B4",
+      "state_matching_error": 0.0,
+      "remaining_horizon": 80,
+      "goal_state": [
+        0.25,
+        0.01,
+        0.025
+      ],
+      "hidden_norm": 0.0,
+      "obs_status": "ablated",
+      "action_status": "ablated",
+      "hidden_status": "reset"
+    }
+  },
+  "validation_report": {
+    "all_passed": true,
+    "passed_rules_count": 15,
+    "total_rules_count": 15,
+    "rules": {
+      "1_source_failure_plausible": true,
+      "2_oracle_recoverable": true,
+      "3_physical_state_valid": true,
+      "4_object_workspace_bounds": true,
+      "5_manipulator_limits": true,
+      "6_contact_state_consistent": true,
+      "7_goal_state_preserved": true,
+      "8_horizon_preserved": true,
+      "9_state_matching_tolerance": true,
+      "10_hidden_state_isolation": true,
+      "11_obs_history_masking": true,
+      "12_action_history_masking": true,
+      "13_contact_history_integrity": true,
+      "14_random_state_synchronized": true,
+      "15_zero_future_leakage": true
+    },
+    "failed_reasons": []
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "phase": "phase_17_final_go_no_go_gate",
+  "description": "Cryptographic SHA-256 provenance manifest for Phase 17 submission-readiness hardening and final go/no-go gate",
+  "git_status": "No git repository found; cryptographic file hash manifest used as source-file provenance ledger",
+  "total_files_hashed": 19,
+  "file_hashes": {
+    "docs\\submission\\final_go_no_go_decision.md": "7258c8a271a82a75aea58774fbe9f579dddc529ceb0c2c621dc4ada85a6d2080",
+    "docs\\submission\\final_submission_checklist.md": "5b5c6e2405324ccf35313c3400ada20a3a7045b4df94d0d04a957ebbf6960c05",
+    "docs\\audit\\final_benchmark_design_audit.md": "26d99e8be60f508d8dfc2a1b269192f353ce5bc9ccd12586a8f596641d4c1e3a",
+    "docs\\audit\\final_claim_audit.md": "ad7f77df43e84697c6605afc3f4df83bd394134c89ea259aad4556b834686178",
+    "docs\\audit\\final_go_no_go_audit.md": "21ca7773115ce8bcd97c6b537b3140202eea29c3e87732a0af4238795970593e",
+    "docs\\audit\\final_manuscript_audit.md": "ff61e48b747537d761ab5bd9d80a75af9ccca1580d1d26466ac97985fef6062d",
+    "docs\\audit\\final_reference_audit.md": "6874628902516ea1e8117ab735523e981958b7b6384cec5a10fc5f08267982cc",
+    "docs\\audit\\final_release_audit.md": "b06d431f329c2bf2180bb6f08a052edbc967c55a8514e67cdc0590ae7fb30c2a",
+    "docs\\audit\\final_reproducibility_audit.md": "615080cbecb765455dff97961dbe00d4e355ddf2ae32081ca8cbd97cea40afef",
+    "docs\\audit\\policy_capability_final_audit.md": "17066674fb177f4e78e30ef60da9dc7ff1b6d7431e69263bc073dceaedbffa6a",
+    "docs\\audit\\novelty_overlap_audit.md": "a337fef0dc760eca36146cef35cd9f2d7159b8d5cb79b7c5edba08872e35d704",
+    "docs\\audit\\statistical_power_audit.md": "73c383af6ccb06709b879a0776396f570e2ab79d509f0cb928d760ff17775bf7",
+    "docs\\audit\\cross_simulator_readiness_audit.md": "ffbc41ae2cfd5dd6fdb179fa83899cfedc19cdeffa5490bf2cbae6056c31d7fc",
+    "docs\\audit\\real_robot_readiness_audit.md": "c26fc72debfe0c98ec26fd015a38df05eeb410b928d5f69af133e0c21fd05cd8",
+    "docs\\audit\\submission_package_audit.md": "8532f900c9b958e357e07978035f78f6b56ff4d1b9e150d6797c4d8415a9bf92",
+    "docs\\reports\\phase_17_final_go_no_go_report.md": "dfb3ef3434bdb2efead0a338fb655c8f25939e4443e496d723f651d92f17a546",
+    "notebooks\\64_final_go_no_go_audit.ipynb": "f6ff8cb729004526a80ed4212f7271c812e4092c622d43dfb9e85f5f78e2c057",
+    "PROJECT_STATUS.md": "23cae653f6a24870b309760f1a8bbebed89557dfecdf93aa3b1f44f5beaf0f93",
+    "docs\\decision_log.md": "e4dbab6fd425cc9193676a6e5ac7fb212da762c1e58d3cc58d507ede658ade58"
+  }
+}

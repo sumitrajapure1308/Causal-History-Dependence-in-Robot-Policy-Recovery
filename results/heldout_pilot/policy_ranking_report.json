@@ -1,0 +1,81 @@
+{
+  "rankings": {
+    "B0": {
+      "ranked_policies": [
+        "reactive_mlp",
+        "history_gru",
+        "recovery_augmented_mlp",
+        "recovery_augmented_gru"
+      ],
+      "scores": {
+        "reactive_mlp": 0.044444444444444446,
+        "history_gru": 0.044444444444444446,
+        "recovery_augmented_mlp": 0.022222222222222223,
+        "recovery_augmented_gru": 0.0
+      }
+    },
+    "B1": {
+      "ranked_policies": [
+        "reactive_mlp",
+        "history_gru",
+        "recovery_augmented_mlp",
+        "recovery_augmented_gru"
+      ],
+      "scores": {
+        "reactive_mlp": 0.044444444444444446,
+        "history_gru": 0.044444444444444446,
+        "recovery_augmented_mlp": 0.022222222222222223,
+        "recovery_augmented_gru": 0.0
+      }
+    },
+    "B2": {
+      "ranked_policies": [
+        "reactive_mlp",
+        "history_gru",
+        "recovery_augmented_mlp",
+        "recovery_augmented_gru"
+      ],
+      "scores": {
+        "reactive_mlp": 0.044444444444444446,
+        "history_gru": 0.044444444444444446,
+        "recovery_augmented_mlp": 0.022222222222222223,
+        "recovery_augmented_gru": 0.0
+      }
+    },
+    "B3": {
+      "ranked_policies": [
+        "reactive_mlp",
+        "history_gru",
+        "recovery_augmented_mlp",
+        "recovery_augmented_gru"
+      ],
+      "scores": {
+        "reactive_mlp": 0.044444444444444446,
+        "history_gru": 0.044444444444444446,
+        "recovery_augmented_mlp": 0.022222222222222223,
+        "recovery_augmented_gru": 0.0
+      }
+    },
+    "B4": {
+      "ranked_policies": [
+        "reactive_mlp",
+        "history_gru",
+        "recovery_augmented_mlp",
+        "recovery_augmented_gru"
+      ],
+      "scores": {
+        "reactive_mlp": 0.044444444444444446,
+        "history_gru": 0.044444444444444446,
+        "recovery_augmented_mlp": 0.022222222222222223,
+        "recovery_augmented_gru": 0.0
+      }
+    }
+  },
+  "b0_vs_b4_correlation": {
+    "kendall_tau": 1.0,
+    "kendall_tau_p": 0.05578260870684413,
+    "spearman_rho": 1.0,
+    "spearman_rho_p": 0.0,
+    "top_1_agreement": true
+  }
+}

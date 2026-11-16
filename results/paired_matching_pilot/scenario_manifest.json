@@ -1,0 +1,67 @@
+{
+  "metadata": {
+    "title": "Paired Scenario Manifest",
+    "phase": 5,
+    "policy": "history_gru",
+    "total_candidate_episodes": 150,
+    "total_admitted_scenarios": 38,
+    "matching_yield": 0.2533,
+    "conditions_per_scenario": [
+      "B0",
+      "B1",
+      "B2",
+      "B3",
+      "B4"
+    ]
+  },
+  "severity_distribution": {
+    "small": 12,
+    "medium": 20,
+    "large": 6
+  },
+  "seed_distribution": {
+    "42": 11,
+    "500": 13,
+    "2000": 14
+  },
+  "scenario_uids": [
+    "scen_history_gru_s49_t53_a2060d",
+    "scen_history_gru_s91_t58_aaa2eb",
+    "scen_history_gru_s98_t44_7ab7a5",
+    "scen_history_gru_s112_t49_ff2be3",
+    "scen_history_gru_s133_t40_aec8cd",
+    "scen_history_gru_s147_t38_093d6c",
+    "scen_history_gru_s196_t52_41373d",
+    "scen_history_gru_s217_t41_5bfdbf",
+    "scen_history_gru_s231_t52_974c53",
+    "scen_history_gru_s238_t78_e2f899",
+    "scen_history_gru_s252_t69_019ca8",
+    "scen_history_gru_s287_t60_1fd1a1",
+    "scen_history_gru_s301_t65_98b140",
+    "scen_history_gru_s308_t68_fead8b",
+    "scen_history_gru_s385_t50_4ccf26",
+    "scen_history_gru_s528_t62_0de71c",
+    "scen_history_gru_s570_t40_3d7ffb",
+    "scen_history_gru_s591_t38_ca1850",
+    "scen_history_gru_s626_t46_7f48c2",
+    "scen_history_gru_s633_t43_4dd0e4",
+    "scen_history_gru_s773_t40_1299cf",
+    "scen_history_gru_s787_t57_d08f87",
+    "scen_history_gru_s801_t56_ae1e3e",
+    "scen_history_gru_s843_t40_f44552",
+    "scen_history_gru_s2007_t55_0e43ec",
+    "scen_history_gru_s2021_t37_5b3e3d",
+    "scen_history_gru_s2028_t53_1919df",
+    "scen_history_gru_s2042_t46_f049e3",
+    "scen_history_gru_s2056_t44_74fb29",
+    "scen_history_gru_s2063_t40_6de7de",
+    "scen_history_gru_s2070_t37_29f99c",
+    "scen_history_gru_s2105_t65_1ad9f5",
+    "scen_history_gru_s2133_t74_efc3f5",
+    "scen_history_gru_s2147_t39_b9c93c",
+    "scen_history_gru_s2231_t70_f1f301",
+    "scen_history_gru_s2266_t48_84c6a2",
+    "scen_history_gru_s2273_t35_c1a23f",
+    "scen_history_gru_s2343_t39_d9b91c"
+  ]
+}

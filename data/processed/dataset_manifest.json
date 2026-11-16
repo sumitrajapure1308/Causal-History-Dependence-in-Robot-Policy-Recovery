@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "title": "Recovery-Augmented Demonstration Dataset",
+    "phase": 7,
+    "status": "Verified",
+    "sha256": "810fce135f034752a92d34aac98f319d2257ca7120ccb9bbac6726383f79d5e5",
+    "train_episodes": 50,
+    "val_episodes": 10,
+    "train_samples": 5500,
+    "val_samples": 1100,
+    "aug_obs_dim": 24,
+    "token_dim": 28,
+    "history_window": 10
+  },
+  "composition": {
+    "train": {
+      "nominal_episodes": 25,
+      "recovery_episodes": 25,
+      "success_rate": 0.64
+    },
+    "validation": {
+      "nominal_episodes": 5,
+      "recovery_episodes": 5,
+      "success_rate": 0.6
+    }
+  },
+  "anti_leakage_audit": {
+    "training_seeds": "3000 to 3049",
+    "validation_seeds": "3050 to 3059",
+    "evaluation_seeds": [
+      42,
+      500,
+      2000
+    ],
+    "overlap_with_eval_seeds": false,
+    "overlap_with_benchmark_scenarios": false
+  }
+}

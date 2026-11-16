@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "title": "Recovery-Augmented Training Run Manifest",
+    "phase": 7,
+    "status": "Verified",
+    "timestamp": "2026-11-09 18:13:25",
+    "dataset_sha256": "810fce135f034752a92d34aac98f319d2257ca7120ccb9bbac6726383f79d5e5",
+    "training_seeds": [
+      42,
+      123,
+      456
+    ],
+    "policies": [
+      "recovery_augmented_mlp",
+      "recovery_augmented_gru"
+    ],
+    "epochs": 35,
+    "batch_size": 32,
+    "learning_rate": 0.001
+  },
+  "summary": {
+    "recovery_augmented_mlp": {
+      "mean_val_loss": 4.194284134736596e-06,
+      "best_val_loss": 3.5980678018989106e-06
+    },
+    "recovery_augmented_gru": {
+      "mean_val_loss": 4.676070675540835e-06,
+      "best_val_loss": 3.9173743143042625e-06
+    }
+  }
+}

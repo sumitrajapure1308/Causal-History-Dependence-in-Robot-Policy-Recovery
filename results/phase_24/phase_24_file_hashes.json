@@ -1,0 +1,317 @@
+{
+  "timestamp": "2026-11-10T08:30:03.904578+00:00",
+  "phase": "Phase 24 \u2014 Final Submission Action Preparation",
+  "file_count": 62,
+  "manifest": [
+    {
+      "file": "PROJECT_STATUS.md",
+      "size_bytes": 40187,
+      "sha256": "73c163a88c5426914b180a0f0cca28b3b8cf68285d2d41c39f73bc868f5eb383"
+    },
+    {
+      "file": "docs/decision_log.md",
+      "size_bytes": 56861,
+      "sha256": "f8dd45603b13274e0b651db8cfa54b0ff3f7d54caa450e56b5741843caeba676"
+    },
+    {
+      "file": "docs/manuscript/draft/manuscript.md",
+      "size_bytes": 42952,
+      "sha256": "233c4fa5b843863ba3146c2c4daaaca1456174c5cf94b1eb09887436ec93583e"
+    },
+    {
+      "file": "docs/manuscript/references/references.bib",
+      "size_bytes": 5014,
+      "sha256": "827cc28d57a27cd1829f058c6bf2f8c73c7621626fce61c7d9dab077c7fa1488"
+    },
+    {
+      "file": "docs/manuscript/supplementary_materials.md",
+      "size_bytes": 16409,
+      "sha256": "ab2e32058dbb300fcd5511873f5c5f0a454ac354f565af74288506f7893f4fd3"
+    },
+    {
+      "file": "docs/reports/phase_24_submission_action_report.md",
+      "size_bytes": 8226,
+      "sha256": "2162c45930b01cbe5f10aec57220a8db56fd7f61c35098e5fa2a40168f59a321"
+    },
+    {
+      "file": "docs/submission/action/final_submission_decision.md",
+      "size_bytes": 4563,
+      "sha256": "2eb71a15a1fc0916235b1f4977f885625dee9080d1baefe5713bb71b57104152"
+    },
+    {
+      "file": "docs/submission/action/submission_action_plan.md",
+      "size_bytes": 9836,
+      "sha256": "187239f02e7e654bd3c8782e8e7e99024dcbf7561e6611d1fcb0bfc927e68179"
+    },
+    {
+      "file": "docs/submission/action/submission_checklist.md",
+      "size_bytes": 6409,
+      "sha256": "407e76989673827f82ec5ad13851c80c01610e1b7a2dd546d317cf2da1a09a28"
+    },
+    {
+      "file": "docs/submission/action/submission_package_manifest.md",
+      "size_bytes": 7035,
+      "sha256": "6cfa73c079172f3fc2a9948f1841bddfd9f49c71d12c52f273d32adb3512ec8f"
+    },
+    {
+      "file": "docs/submission/action/submission_risk_plan.md",
+      "size_bytes": 5898,
+      "sha256": "6dae6852a71146a9b43be7b7659822c85c117bc8e7187cffd5946e22bd01e4e8"
+    },
+    {
+      "file": "docs/submission/action/submission_timeline.md",
+      "size_bytes": 6690,
+      "sha256": "b23933ec54969cdeba6a243c45689d625b70c2fe494b558b96a1d00603352cd1"
+    },
+    {
+      "file": "docs/submission/execution/final/anonymous_repository_staging.md",
+      "size_bytes": 4189,
+      "sha256": "28768a606da1c6335bcdd4b1aae1ae71ac236d2f6c4dc0af1643eea632ae470c"
+    },
+    {
+      "file": "docs/submission/execution/final/openreview_upload_plan.md",
+      "size_bytes": 6908,
+      "sha256": "d48dd10d2ef88276aa6669590ef65c6dc4b17153fa22eb55e1f716af3ecfc0f2"
+    },
+    {
+      "file": "docs/submission/execution/final/post_submission_monitoring_plan.md",
+      "size_bytes": 4082,
+      "sha256": "b8feb07c9ab76c870d1bbd9c5eda3b596b400efee24264af2c1b1201ffb3cd57"
+    },
+    {
+      "file": "docs/submission/execution/final/zenodo_doi_reservation.md",
+      "size_bytes": 5817,
+      "sha256": "132b26c6026297d4775cdd797c127f9523d5dc909bfea3287827f2cdce9d917f"
+    },
+    {
+      "file": "docs/submission/execution/final_submission_execution_decision.md",
+      "size_bytes": 4148,
+      "sha256": "3ddb49f2680e14dec5f9b4d452629fffe1e732fd9a8ddb5252295a6c6db07372"
+    },
+    {
+      "file": "docs/submission/execution/submission_execution_checklist.md",
+      "size_bytes": 7868,
+      "sha256": "2de4ad4086845152c256e5bd02aa3714cbdfed64eb0519a87b32ce6bc6ae5d19"
+    },
+    {
+      "file": "docs/submission/execution/submission_execution_manifest.md",
+      "size_bytes": 9703,
+      "sha256": "1f3dc783f0f85c24e1cd9701f3733cf517b778a4897b240aadb100308274dc86"
+    },
+    {
+      "file": "docs/submission/execution/submission_execution_package.md",
+      "size_bytes": 7517,
+      "sha256": "c98e146e9a3fba6154cb8036ace50ad632011524a7b18e2eb9ed889dd37e21aa"
+    },
+    {
+      "file": "docs/submission/execution/submission_execution_risk_plan.md",
+      "size_bytes": 5812,
+      "sha256": "bb22e93487bedbfce261e2830de57365f40cb5b7f40c234ff0586a3f6386c22d"
+    },
+    {
+      "file": "docs/submission/execution/submission_execution_timeline.md",
+      "size_bytes": 4500,
+      "sha256": "627172e4fa0289672256599f9da00cb701b62559fa601cb453d7952597a8f714"
+    },
+    {
+      "file": "docs/submission/final_decision/final_submission_checklist.md",
+      "size_bytes": 7153,
+      "sha256": "3d14b0a10041b2017ced6b9552ef3b3faaa04c140a3d253e36835e4f0180ad86"
+    },
+    {
+      "file": "docs/submission/final_decision/final_submission_decision.md",
+      "size_bytes": 4749,
+      "sha256": "9148bc530828db7c52f259862517d67b69eddfb14df853510049c7bb5ae3e61b"
+    },
+    {
+      "file": "docs/submission/final_decision/final_submission_manifest.md",
+      "size_bytes": 6424,
+      "sha256": "47536ff91088219f8ecca682bc0ff50e997ca95f49390b1026a11b5c6d71bb1f"
+    },
+    {
+      "file": "docs/submission/final_decision/final_submission_risk_plan.md",
+      "size_bytes": 5218,
+      "sha256": "7159807cccb7a22e493fbe26328153b991e3e9dff6b1cec4ff9759286d6ba56c"
+    },
+    {
+      "file": "docs/submission/final_decision/final_submission_timeline.md",
+      "size_bytes": 4674,
+      "sha256": "05c5cd8f43457a744d2b779e1d0c998e612b67bc555110887a888aeddb8b8d2a"
+    },
+    {
+      "file": "docs/submission/final_decision/journal_readiness_gate.md",
+      "size_bytes": 10569,
+      "sha256": "72e926ae5730b313f3912b8bedf2d5c0bb39c258641dba07e2f02c4aaba46298"
+    },
+    {
+      "file": "docs/submission/post_submission/camera_ready_plan.md",
+      "size_bytes": 4084,
+      "sha256": "9a9bf477634760edd159d38d35c695ecf7d0e8117023385cec704e22ad386602"
+    },
+    {
+      "file": "docs/submission/post_submission/post_submission_checklist.md",
+      "size_bytes": 6562,
+      "sha256": "053841a64287e07d07cc4e67cf33ef9cb65cf9a656870b4fb1acaa862caa3a4e"
+    },
+    {
+      "file": "docs/submission/post_submission/post_submission_manifest.md",
+      "size_bytes": 6129,
+      "sha256": "4238311e79d2ed09cef1199ba21bbacb4fbabbe8060ce61a94ee0b0834bdff9b"
+    },
+    {
+      "file": "docs/submission/post_submission/post_submission_readiness_package.md",
+      "size_bytes": 4753,
+      "sha256": "02cb6a5dff01b5f4d31695f199ba4f1eb23d63b4e0850eca0b815d18664119e4"
+    },
+    {
+      "file": "docs/submission/post_submission/post_submission_risk_plan.md",
+      "size_bytes": 5158,
+      "sha256": "f130e116aa9db03e8c199ca847c5500e0acfb860765bb4999915b110191c3c85"
+    },
+    {
+      "file": "docs/submission/post_submission/post_submission_timeline.md",
+      "size_bytes": 4296,
+      "sha256": "8eb8feea2a78159aa33336f36aa95bec42a7197562af9f75354d9922f1aa57a5"
+    },
+    {
+      "file": "docs/submission/post_submission/rebuttal_plan.md",
+      "size_bytes": 4087,
+      "sha256": "f4fdd71a0b46ed5da6293a6ccae589b2fac244e1bce2b65fd031b6c6655bde8c"
+    },
+    {
+      "file": "docs/submission/post_submission/reviewer_response_plan.md",
+      "size_bytes": 8432,
+      "sha256": "259ecfac93fc28fb45cf9acd766725a369d35d9d489c3e8b35033a80fb6689bf"
+    },
+    {
+      "file": "notebooks/69_post_submission_readiness_audit.ipynb",
+      "size_bytes": 18995,
+      "sha256": "953b19c28084f21c15090819ca39b606df7f1a5d997153956309f6e2b174d9d6"
+    },
+    {
+      "file": "notebooks/70_final_submission_decision_gate.ipynb",
+      "size_bytes": 14208,
+      "sha256": "f01cebbc2b1d5f5085883d9222c760cedd80f5c5694fc94c44d352e3e9a618c0"
+    },
+    {
+      "file": "notebooks/71_final_submission_action_plan_audit.ipynb",
+      "size_bytes": 14722,
+      "sha256": "f359d5079a9b23770b89604de7530d62524f0ba3439f3a3568c7cc6727f2ce8f"
+    },
+    {
+      "file": "release/CHECKPOINTS.md",
+      "size_bytes": 894,
+      "sha256": "f769d85ab2c655f39cf14560b24bbcf0896ebd1a6b3e841a5c5d7d34454b918c"
+    },
+    {
+      "file": "release/CODE.md",
+      "size_bytes": 1690,
+      "sha256": "75cedea13efcb52f02e06b1c24e27ec7e10e0b34bc52a95c966612d906aabcc1"
+    },
+    {
+      "file": "release/DATA.md",
+      "size_bytes": 1102,
+      "sha256": "27092d33597d9a59dc1942165d0b15c02f917c96b65317bfc0054be0381c7293"
+    },
+    {
+      "file": "release/Dockerfile",
+      "size_bytes": 1079,
+      "sha256": "589156440ff649cb33c1cac4348c67d96f39f03df1c9557e6cbfe19b47f8ed6f"
+    },
+    {
+      "file": "release/FIGURES.md",
+      "size_bytes": 1111,
+      "sha256": "5e24311cb77b3b23ee83de2d699684d4df1e6967000482f5af3113a80e59521b"
+    },
+    {
+      "file": "release/INSTALL.md",
+      "size_bytes": 938,
+      "sha256": "5cc0c30fdb77f3ab9e60994bad568980a8097c98a29ed206d22ac3f19f5e0bf4"
+    },
+    {
+      "file": "release/NOTEBOOKS.md",
+      "size_bytes": 848,
+      "sha256": "3e4311f88cf49f01dd2d9b88d29b5591c46b2fc40901db679e1d8b083134cd92"
+    },
+    {
+      "file": "release/README.md",
+      "size_bytes": 3879,
+      "sha256": "2e97cfbb998e831c7875d578cf5934b60c558f4de3c38fd2e236a57a4a57200a"
+    },
+    {
+      "file": "release/REPRODUCE.md",
+      "size_bytes": 1566,
+      "sha256": "a73b1099210a67b2bcc47bbf13b1ef07293677bbc48190ccc8e61bd352a2e69b"
+    },
+    {
+      "file": "release/TABLES.md",
+      "size_bytes": 700,
+      "sha256": "a4f2d373fd73e7632148ad053549a1a20fb1d288914c9394f779640f91e654e0"
+    },
+    {
+      "file": "release/docker-compose.yml",
+      "size_bytes": 368,
+      "sha256": "d8db555a1c87a73eb5fb69d7642a138029c6c03b1b9d5e5306a0902e2de56a33"
+    },
+    {
+      "file": "release/environment.yml",
+      "size_bytes": 381,
+      "sha256": "dd7ee46c3ca368df043409e1b1077db2cef908946135afb2ad0f4f2cb1be0b48"
+    },
+    {
+      "file": "release/manifest.json",
+      "size_bytes": 2678,
+      "sha256": "baf5a7839b25139c3e0ceecbfe0593beb5e9fb246f8c3e4026021b8962ad8f17"
+    },
+    {
+      "file": "release/requirements.txt",
+      "size_bytes": 171,
+      "sha256": "0efa7c2beaf1fa9579420703f4b838c7acc919c0b38b8728c35974c1670bc4cc"
+    },
+    {
+      "file": "release/run_all.py",
+      "size_bytes": 672,
+      "sha256": "81ea452e0a3f16c7944ffdec9dea73d88c444863c1466163c322b2d4ac56093d"
+    },
+    {
+      "file": "release/smoke_test.py",
+      "size_bytes": 8471,
+      "sha256": "36d6d44f3896e7d8fc3a141ce79c61048cd69b519f92324b24ce9e28191e9ccb"
+    },
+    {
+      "file": "results/phase_12_stage_c/evaluation_summary.json",
+      "size_bytes": 14596,
+      "sha256": "982b796c3735c9d12bb698851b080e5252960e5197703da9c760d9ad57bfc343"
+    },
+    {
+      "file": "results/phase_12_stage_c/paired_comparisons.json",
+      "size_bytes": 23272,
+      "sha256": "2642472dc83248249f300ab37ff53a7cc9fce16e6074b1cba53248f0c734a25d"
+    },
+    {
+      "file": "results/phase_12_stage_c/scenario_manifest.json",
+      "size_bytes": 71225,
+      "sha256": "8a04c47eed1b818f9c823dbb1454bae183c4bf78be8caaab8eea3eff8bd5b259"
+    },
+    {
+      "file": "results/phase_13/paper_tables.json",
+      "size_bytes": 10872,
+      "sha256": "9dd7bbffb81bc7106a7fb2391c971316f94f27988a3265971cd1f4a2f1b604a6"
+    },
+    {
+      "file": "results/phase_24/inspected_manifest_hashes.json",
+      "size_bytes": 3819,
+      "sha256": "ed23286c553a2b19a0b847b95d4da72e833f56b7d90f2cfee1d80df995794949"
+    },
+    {
+      "file": "scripts/build_phase_24_notebook.py",
+      "size_bytes": 8662,
+      "sha256": "af395a9ba57beb55a4017fdf21470d495a647fcf0a784cbd65902b792c6c6914"
+    },
+    {
+      "file": "scripts/inspect_manifest.py",
+      "size_bytes": 1747,
+      "sha256": "d54a1ff599d3a1a6c9dd900789a79f01d13834556ceffe97a2108b1fa0827c91"
+    }
+  ]
+}

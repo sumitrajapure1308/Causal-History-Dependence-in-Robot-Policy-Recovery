@@ -1,0 +1,14 @@
+version: '3.8'
+
+services:
+  reproducibility-benchmark:
+    build:
+      context: ..
+      dockerfile: release/Dockerfile
+    container_name: causal_history_recovery_reproduce
+    volumes:
+      - ../results:/workspace/results
+      - ../figures:/workspace/figures
+    command: python scripts/run_smoke_test.py
+    environment:
+      - PYTHONUNBUFFERED=1

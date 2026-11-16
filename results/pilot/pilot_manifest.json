@@ -1,0 +1,21 @@
+{
+  "manifest_type": "diagnostic_smoke_test_manifest",
+  "verification_status": "validated_diagnostic_smoke_test",
+  "official_experimental_result": false,
+  "disclaimer": "DIAGNOSTIC SMOKE TEST ONLY. STRICTLY NOT AN OFFICIAL EXPERIMENT OR BENCHMARK RESULT.",
+  "environment": "planned_custom_push_target_env",
+  "base_seed": 42,
+  "episodes_planned": 10,
+  "episodes_executed": 10,
+  "total_runtime_seconds": 0.6874063014984131,
+  "timestamp_iso": "2026-11-09T09:59:58Z",
+  "output_files": [
+    "results/pilot/pilot_manifest.json",
+    "results/pilot/pilot_metrics.json"
+  ],
+  "configuration": {
+    "task_yaml": "configs/tasks/push_target.yaml",
+    "determinism_yaml": "configs/matching/determinism.yaml",
+    "max_horizon": 150
+  }
+}

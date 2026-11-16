@@ -1,0 +1,14 @@
+{
+  "scenario_uid": "cell2_t1_loss_11012_05",
+  "seed": 11012,
+  "task_id": "task1_cube",
+  "failure_mode": "contact_loss",
+  "remaining_horizon": 147,
+  "goal_state": [
+    0.25,
+    0.0,
+    0.025
+  ],
+  "oracle_verified": true,
+  "air_gap": 0.02
+}

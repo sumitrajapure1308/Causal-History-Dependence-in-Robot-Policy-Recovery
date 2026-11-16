@@ -1,0 +1,92 @@
+{
+  "status_label": "Exploratory sensitivity analysis \u2014 not confirmatory evidence.",
+  "dimensions": {
+    "task": {
+      "task1_cube": {
+        "rollouts": 10000,
+        "success_rate": 0.0206,
+        "mean_distance_error": 0.24729030838969712,
+        "physical_recovery_rate": 0.4205
+      },
+      "task2_puck": {
+        "rollouts": 10000,
+        "success_rate": 0.0081,
+        "mean_distance_error": 0.3571067178155679,
+        "physical_recovery_rate": 0.6913
+      }
+    },
+    "failure_type": {
+      "contact_loss": {
+        "rollouts": 10000,
+        "success_rate": 0.0105,
+        "mean_distance_error": 0.24664374881866816,
+        "physical_recovery_rate": 0.3379
+      },
+      "rotational_slip": {
+        "rollouts": 10000,
+        "success_rate": 0.0182,
+        "mean_distance_error": 0.3577532773865968,
+        "physical_recovery_rate": 0.7739
+      }
+    },
+    "failure_severity": {
+      "Small": {
+        "scenarios_count": 139,
+        "rollouts": 13900,
+        "success_rate": 0.01870503597122302,
+        "mean_distance_error": 0.2852929446163855
+      },
+      "Medium": {
+        "scenarios_count": 21,
+        "rollouts": 2100,
+        "success_rate": 0.011904761904761904,
+        "mean_distance_error": 0.334168234392353
+      },
+      "Large": {
+        "scenarios_count": 40,
+        "rollouts": 4000,
+        "success_rate": 0.0005,
+        "mean_distance_error": 0.34416125991523766
+      }
+    },
+    "evaluation_seed": {
+      "15001": {
+        "rollouts": 4000,
+        "success_rate": 0.0155,
+        "mean_distance_error": 0.3017988292507803
+      },
+      "15002": {
+        "rollouts": 4000,
+        "success_rate": 0.014,
+        "mean_distance_error": 0.3022605740889142
+      },
+      "15003": {
+        "rollouts": 4000,
+        "success_rate": 0.014,
+        "mean_distance_error": 0.3023516359651976
+      },
+      "15004": {
+        "rollouts": 4000,
+        "success_rate": 0.01425,
+        "mean_distance_error": 0.3022261738162929
+      },
+      "15005": {
+        "rollouts": 4000,
+        "success_rate": 0.014,
+        "mean_distance_error": 0.3023553523919775
+      }
+    },
+    "recovery_horizon": {
+      "short_horizon": {
+        "rollouts": 10000,
+        "success_rate": 0.0182,
+        "mean_distance_error": 0.3577532773865968
+      },
+      "long_horizon": {
+        "rollouts": 10000,
+        "success_rate": 0.0105,
+        "mean_distance_error": 0.24664374881866816
+      }
+    }
+  }
+}

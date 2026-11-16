@@ -1,0 +1,28 @@
+{
+  "manifest_type": "pilot_recovery_rollout_manifest",
+  "verification_status": "validated_pilot_rollout",
+  "official_experimental_result": false,
+  "disclaimer": "PHASE 3 PILOT ROLLOUT ONLY. STRICTLY NOT AN OFFICIAL EXPERIMENTAL BENCHMARK RESULT.",
+  "environment": "planned_custom_push_target_env",
+  "base_seed": 42,
+  "episodes_per_policy": 20,
+  "total_episodes_executed": 80,
+  "total_runtime_seconds": 21.97721767425537,
+  "timestamp_iso": "2026-11-09T11:12:43Z",
+  "output_files": [
+    "results/pilot_recovery/rollout_manifest.json",
+    "results/pilot_recovery/rollout_metrics.json",
+    "results/pilot_recovery/matching_report.json",
+    "results/pilot_recovery/condition_report.json",
+    "results/pilot_recovery/episodes/"
+  ],
+  "policies_tested": [
+    "reactive_mlp",
+    "history_gru"
+  ],
+  "conditions_tested": [
+    "B0",
+    "B2",
+    "B4"
+  ]
+}

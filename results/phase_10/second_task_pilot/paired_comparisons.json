@@ -1,0 +1,250 @@
+{
+  "reactive_mlp": {
+    "B0_vs_B1": {
+      "num_scenarios": 20,
+      "discordant_scenarios": 0,
+      "paired_success_rate_diff": 0.0,
+      "bootstrap_95_ci_succ": [
+        0.0,
+        0.0
+      ],
+      "mean_dist_diff": 0.0,
+      "bootstrap_95_ci_dist": [
+        0.0,
+        0.0
+      ],
+      "mcnemar_p_value": 1.0
+    },
+    "B0_vs_B2": {
+      "num_scenarios": 20,
+      "discordant_scenarios": 0,
+      "paired_success_rate_diff": 0.0,
+      "bootstrap_95_ci_succ": [
+        0.0,
+        0.0
+      ],
+      "mean_dist_diff": 0.0,
+      "bootstrap_95_ci_dist": [
+        0.0,
+        0.0
+      ],
+      "mcnemar_p_value": 1.0
+    },
+    "B0_vs_B3": {
+      "num_scenarios": 20,
+      "discordant_scenarios": 0,
+      "paired_success_rate_diff": 0.0,
+      "bootstrap_95_ci_succ": [
+        0.0,
+        0.0
+      ],
+      "mean_dist_diff": 0.0,
+      "bootstrap_95_ci_dist": [
+        0.0,
+        0.0
+      ],
+      "mcnemar_p_value": 1.0
+    },
+    "B0_vs_B4": {
+      "num_scenarios": 20,
+      "discordant_scenarios": 0,
+      "paired_success_rate_diff": 0.0,
+      "bootstrap_95_ci_succ": [
+        0.0,
+        0.0
+      ],
+      "mean_dist_diff": 0.0,
+      "bootstrap_95_ci_dist": [
+        0.0,
+        0.0
+      ],
+      "mcnemar_p_value": 1.0
+    }
+  },
+  "history_gru": {
+    "B0_vs_B1": {
+      "num_scenarios": 20,
+      "discordant_scenarios": 0,
+      "paired_success_rate_diff": 0.0,
+      "bootstrap_95_ci_succ": [
+        0.0,
+        0.0
+      ],
+      "mean_dist_diff": 0.0,
+      "bootstrap_95_ci_dist": [
+        0.0,
+        0.0
+      ],
+      "mcnemar_p_value": 1.0
+    },
+    "B0_vs_B2": {
+      "num_scenarios": 20,
+      "discordant_scenarios": 0,
+      "paired_success_rate_diff": 0.0,
+      "bootstrap_95_ci_succ": [
+        0.0,
+        0.0
+      ],
+      "mean_dist_diff": 0.0,
+      "bootstrap_95_ci_dist": [
+        0.0,
+        0.0
+      ],
+      "mcnemar_p_value": 1.0
+    },
+    "B0_vs_B3": {
+      "num_scenarios": 20,
+      "discordant_scenarios": 0,
+      "paired_success_rate_diff": 0.0,
+      "bootstrap_95_ci_succ": [
+        0.0,
+        0.0
+      ],
+      "mean_dist_diff": 0.0,
+      "bootstrap_95_ci_dist": [
+        0.0,
+        0.0
+      ],
+      "mcnemar_p_value": 1.0
+    },
+    "B0_vs_B4": {
+      "num_scenarios": 20,
+      "discordant_scenarios": 0,
+      "paired_success_rate_diff": 0.0,
+      "bootstrap_95_ci_succ": [
+        0.0,
+        0.0
+      ],
+      "mean_dist_diff": 0.0,
+      "bootstrap_95_ci_dist": [
+        0.0,
+        0.0
+      ],
+      "mcnemar_p_value": 1.0
+    }
+  },
+  "recovery_augmented_mlp": {
+    "B0_vs_B1": {
+      "num_scenarios": 20,
+      "discordant_scenarios": 0,
+      "paired_success_rate_diff": 0.0,
+      "bootstrap_95_ci_succ": [
+        0.0,
+        0.0
+      ],
+      "mean_dist_diff": 0.0,
+      "bootstrap_95_ci_dist": [
+        0.0,
+        0.0
+      ],
+      "mcnemar_p_value": 1.0
+    },
+    "B0_vs_B2": {
+      "num_scenarios": 20,
+      "discordant_scenarios": 0,
+      "paired_success_rate_diff": 0.0,
+      "bootstrap_95_ci_succ": [
+        0.0,
+        0.0
+      ],
+      "mean_dist_diff": 0.0,
+      "bootstrap_95_ci_dist": [
+        0.0,
+        0.0
+      ],
+      "mcnemar_p_value": 1.0
+    },
+    "B0_vs_B3": {
+      "num_scenarios": 20,
+      "discordant_scenarios": 0,
+      "paired_success_rate_diff": 0.0,
+      "bootstrap_95_ci_succ": [
+        0.0,
+        0.0
+      ],
+      "mean_dist_diff": 0.0,
+      "bootstrap_95_ci_dist": [
+        0.0,
+        0.0
+      ],
+      "mcnemar_p_value": 1.0
+    },
+    "B0_vs_B4": {
+      "num_scenarios": 20,
+      "discordant_scenarios": 0,
+      "paired_success_rate_diff": 0.0,
+      "bootstrap_95_ci_succ": [
+        0.0,
+        0.0
+      ],
+      "mean_dist_diff": 0.0,
+      "bootstrap_95_ci_dist": [
+        0.0,
+        0.0
+      ],
+      "mcnemar_p_value": 1.0
+    }
+  },
+  "recovery_augmented_gru": {
+    "B0_vs_B1": {
+      "num_scenarios": 20,
+      "discordant_scenarios": 0,
+      "paired_success_rate_diff": 0.0,
+      "bootstrap_95_ci_succ": [
+        0.0,
+        0.0
+      ],
+      "mean_dist_diff": 0.0010243143165940313,
+      "bootstrap_95_ci_dist": [
+        -0.00014012235550442672,
+        0.0025790132076877275
+      ],
+      "mcnemar_p_value": 1.0
+    },
+    "B0_vs_B2": {
+      "num_scenarios": 20,
+      "discordant_scenarios": 0,
+      "paired_success_rate_diff": 0.0,
+      "bootstrap_95_ci_succ": [
+        0.0,
+        0.0
+      ],
+      "mean_dist_diff": 0.0,
+      "bootstrap_95_ci_dist": [
+        0.0,
+        0.0
+      ],
+      "mcnemar_p_value": 1.0
+    },
+    "B0_vs_B3": {
+      "num_scenarios": 20,
+      "discordant_scenarios": 0,
+      "paired_success_rate_diff": 0.0,
+      "bootstrap_95_ci_succ": [
+        0.0,
+        0.0
+      ],
+      "mean_dist_diff": -0.002976079568711991,
+      "bootstrap_95_ci_dist": [
+        -0.011010073394616399,
+        0.005279981148553641
+      ],
+      "mcnemar_p_value": 1.0
+    },
+    "B0_vs_B4": {
+      "num_scenarios": 20,
+      "discordant_scenarios": 0,
+      "paired_success_rate_diff": 0.0,
+      "bootstrap_95_ci_succ": [
+        0.0,
+        0.0
+      ],
+      "mean_dist_diff": -0.002990134757204177,
+      "bootstrap_95_ci_dist": [
+        -0.010781148764298705,
+        0.005103404096216187
+      ],
+      "mcnemar_p_value": 1.0
+    }
+  }
+}

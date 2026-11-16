@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "title": "Matching Yield and Failure Diversity Report",
+    "phase": 5,
+    "policy": "history_gru"
+  },
+  "summary": {
+    "total_episodes": 150,
+    "detected_failures": 140,
+    "oracle_recoverable_failures": 38,
+    "valid_paired_scenarios": 38,
+    "overall_matching_yield": 0.2533,
+    "oracle_admission_yield": 0.2714
+  },
+  "distributions": {
+    "severity_breakdown": {
+      "small": 12,
+      "medium": 20,
+      "large": 6
+    },
+    "seed_breakdown": {
+      "42": 11,
+      "500": 13,
+      "2000": 14
+    },
+    "mean_remaining_horizon": 98.44736842105263,
+    "mean_peak_yaw_deg": 40.19161863190552,
+    "mean_lateral_drift_m": 0.045304949445533406
+  }
+}

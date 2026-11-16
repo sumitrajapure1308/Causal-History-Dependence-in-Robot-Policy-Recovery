@@ -1,0 +1,12 @@
+{
+  "total_admitted": 200,
+  "oracle_admitted_rate": 1.0,
+  "exact_matching_verified": true,
+  "matching_tolerance_max_error": 0.0,
+  "by_cell": {
+    "cell1_task1_slip": 50,
+    "cell2_task1_loss": 50,
+    "cell3_task2_slip": 50,
+    "cell4_task2_loss": 50
+  }
+}

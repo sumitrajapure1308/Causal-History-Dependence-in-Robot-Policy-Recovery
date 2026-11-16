@@ -1,0 +1,15 @@
+{
+  "scenario_uid": "task2_loss_9055_016",
+  "seed": 9055,
+  "perturb_step": 35,
+  "decel_magnitude": -0.017,
+  "remaining_horizon": 147,
+  "goal_state": [
+    0.2,
+    0.08,
+    0.02
+  ],
+  "failure_type": "contact_loss",
+  "task_id": "second_push_task_env",
+  "oracle_verified": true
+}

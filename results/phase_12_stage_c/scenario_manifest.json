@@ -1,0 +1,2905 @@
+{
+  "total_scenarios": 200,
+  "scenarios": [
+    {
+      "scenario_uid": "cell1_t1_slip_10001_00",
+      "seed": 10001,
+      "task_id": "task1_cube",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 97,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 33.49069609587923,
+      "lateral_drift_m": 0.08667288514054522
+    },
+    {
+      "scenario_uid": "cell1_t1_slip_10007_01",
+      "seed": 10007,
+      "task_id": "task1_cube",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 102,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 13.334993445323075,
+      "lateral_drift_m": 0.020631245870542457
+    },
+    {
+      "scenario_uid": "cell1_t1_slip_10010_02",
+      "seed": 10010,
+      "task_id": "task1_cube",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 112,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 21.267962937640842,
+      "lateral_drift_m": 0.032419250919380305
+    },
+    {
+      "scenario_uid": "cell1_t1_slip_10015_03",
+      "seed": 10015,
+      "task_id": "task1_cube",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 104,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 58.27347174905121,
+      "lateral_drift_m": 0.0827496453843489
+    },
+    {
+      "scenario_uid": "cell1_t1_slip_10018_04",
+      "seed": 10018,
+      "task_id": "task1_cube",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 102,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 35.98501263184548,
+      "lateral_drift_m": 0.07669954855799307
+    },
+    {
+      "scenario_uid": "cell1_t1_slip_10020_05",
+      "seed": 10020,
+      "task_id": "task1_cube",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 98,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 42.300760896669374,
+      "lateral_drift_m": 0.05637550896891078
+    },
+    {
+      "scenario_uid": "cell1_t1_slip_10021_06",
+      "seed": 10021,
+      "task_id": "task1_cube",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 99,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 40.082911671042154,
+      "lateral_drift_m": 0.08217440306906136
+    },
+    {
+      "scenario_uid": "cell1_t1_slip_10022_07",
+      "seed": 10022,
+      "task_id": "task1_cube",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 97,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 48.65206301441778,
+      "lateral_drift_m": 0.04770876366049487
+    },
+    {
+      "scenario_uid": "cell1_t1_slip_10026_08",
+      "seed": 10026,
+      "task_id": "task1_cube",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 92,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 45.36910566513543,
+      "lateral_drift_m": 0.04963513227944848
+    },
+    {
+      "scenario_uid": "cell1_t1_slip_10034_09",
+      "seed": 10034,
+      "task_id": "task1_cube",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 90,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 46.33297837217531,
+      "lateral_drift_m": 0.05692391320813259
+    },
+    {
+      "scenario_uid": "cell1_t1_slip_10036_10",
+      "seed": 10036,
+      "task_id": "task1_cube",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 108,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 18.657102941990257,
+      "lateral_drift_m": 0.06342960848719892
+    },
+    {
+      "scenario_uid": "cell1_t1_slip_10038_11",
+      "seed": 10038,
+      "task_id": "task1_cube",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 105,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 51.33209365799687,
+      "lateral_drift_m": 0.04741665220694237
+    },
+    {
+      "scenario_uid": "cell1_t1_slip_10039_12",
+      "seed": 10039,
+      "task_id": "task1_cube",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 101,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 12.065114987806842,
+      "lateral_drift_m": 0.030732879029066674
+    },
+    {
+      "scenario_uid": "cell1_t1_slip_10045_13",
+      "seed": 10045,
+      "task_id": "task1_cube",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 73,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 15.872605622416343,
+      "lateral_drift_m": 0.03290881646503488
+    },
+    {
+      "scenario_uid": "cell1_t1_slip_10048_14",
+      "seed": 10048,
+      "task_id": "task1_cube",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 100,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 18.505421047491005,
+      "lateral_drift_m": 0.0633105792384248
+    },
+    {
+      "scenario_uid": "cell1_t1_slip_10059_15",
+      "seed": 10059,
+      "task_id": "task1_cube",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 89,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 58.02508854150062,
+      "lateral_drift_m": 0.08605385498836911
+    },
+    {
+      "scenario_uid": "cell1_t1_slip_10060_16",
+      "seed": 10060,
+      "task_id": "task1_cube",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 105,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 29.67314330865348,
+      "lateral_drift_m": 0.06091391114915933
+    },
+    {
+      "scenario_uid": "cell1_t1_slip_10061_17",
+      "seed": 10061,
+      "task_id": "task1_cube",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 93,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 26.156871599009307,
+      "lateral_drift_m": 0.03465929578846553
+    },
+    {
+      "scenario_uid": "cell1_t1_slip_10064_18",
+      "seed": 10064,
+      "task_id": "task1_cube",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 105,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 20.447361372424364,
+      "lateral_drift_m": 0.06894597781760003
+    },
+    {
+      "scenario_uid": "cell1_t1_slip_10065_19",
+      "seed": 10065,
+      "task_id": "task1_cube",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 100,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 51.15551508838638,
+      "lateral_drift_m": 0.08187019956586887
+    },
+    {
+      "scenario_uid": "cell1_t1_slip_10067_20",
+      "seed": 10067,
+      "task_id": "task1_cube",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 77,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 19.85773026948976,
+      "lateral_drift_m": 0.034567710471854016
+    },
+    {
+      "scenario_uid": "cell1_t1_slip_10068_21",
+      "seed": 10068,
+      "task_id": "task1_cube",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 99,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 15.787742407571484,
+      "lateral_drift_m": 0.06019516630152821
+    },
+    {
+      "scenario_uid": "cell1_t1_slip_10070_22",
+      "seed": 10070,
+      "task_id": "task1_cube",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 95,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 9.139626042306816,
+      "lateral_drift_m": 0.07293529445700245
+    },
+    {
+      "scenario_uid": "cell1_t1_slip_10074_23",
+      "seed": 10074,
+      "task_id": "task1_cube",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 112,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 27.859604621742623,
+      "lateral_drift_m": 0.04859450557752911
+    },
+    {
+      "scenario_uid": "cell1_t1_slip_10086_24",
+      "seed": 10086,
+      "task_id": "task1_cube",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 114,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 23.80063848753773,
+      "lateral_drift_m": 0.03464050695575367
+    },
+    {
+      "scenario_uid": "cell1_t1_slip_10090_25",
+      "seed": 10090,
+      "task_id": "task1_cube",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 91,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 58.91459381702619,
+      "lateral_drift_m": 0.058819215343595466
+    },
+    {
+      "scenario_uid": "cell1_t1_slip_10093_26",
+      "seed": 10093,
+      "task_id": "task1_cube",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 103,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 21.284136764064247,
+      "lateral_drift_m": 0.02258532232444555
+    },
+    {
+      "scenario_uid": "cell1_t1_slip_10101_27",
+      "seed": 10101,
+      "task_id": "task1_cube",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 101,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 45.19410576352388,
+      "lateral_drift_m": 0.07701980985203538
+    },
+    {
+      "scenario_uid": "cell1_t1_slip_10108_28",
+      "seed": 10108,
+      "task_id": "task1_cube",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 105,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 61.59072619232302,
+      "lateral_drift_m": 0.05561747901639916
+    },
+    {
+      "scenario_uid": "cell1_t1_slip_10118_29",
+      "seed": 10118,
+      "task_id": "task1_cube",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 110,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 26.47679378138748,
+      "lateral_drift_m": 0.0449026903287138
+    },
+    {
+      "scenario_uid": "cell1_t1_slip_10125_30",
+      "seed": 10125,
+      "task_id": "task1_cube",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 103,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 20.040006475697663,
+      "lateral_drift_m": 0.041432883503917765
+    },
+    {
+      "scenario_uid": "cell1_t1_slip_10126_31",
+      "seed": 10126,
+      "task_id": "task1_cube",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 106,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 35.4686673965354,
+      "lateral_drift_m": 0.06505351924258776
+    },
+    {
+      "scenario_uid": "cell1_t1_slip_10134_32",
+      "seed": 10134,
+      "task_id": "task1_cube",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 111,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 32.8689852254616,
+      "lateral_drift_m": 0.05110075614030053
+    },
+    {
+      "scenario_uid": "cell1_t1_slip_10138_33",
+      "seed": 10138,
+      "task_id": "task1_cube",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 99,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 42.00462711770471,
+      "lateral_drift_m": 0.06050181076944101
+    },
+    {
+      "scenario_uid": "cell1_t1_slip_10139_34",
+      "seed": 10139,
+      "task_id": "task1_cube",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 116,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 28.92758163925906,
+      "lateral_drift_m": 0.035291822177401136
+    },
+    {
+      "scenario_uid": "cell1_t1_slip_10142_35",
+      "seed": 10142,
+      "task_id": "task1_cube",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 108,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 43.18133955044835,
+      "lateral_drift_m": 0.03905944005994261
+    },
+    {
+      "scenario_uid": "cell1_t1_slip_10144_36",
+      "seed": 10144,
+      "task_id": "task1_cube",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 97,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 43.98065661274188,
+      "lateral_drift_m": 0.06213899817373046
+    },
+    {
+      "scenario_uid": "cell1_t1_slip_10150_37",
+      "seed": 10150,
+      "task_id": "task1_cube",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 105,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 52.785641191622524,
+      "lateral_drift_m": 0.04916529443488642
+    },
+    {
+      "scenario_uid": "cell1_t1_slip_10157_38",
+      "seed": 10157,
+      "task_id": "task1_cube",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 97,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 64.54582809977165,
+      "lateral_drift_m": 0.0762505785286339
+    },
+    {
+      "scenario_uid": "cell1_t1_slip_10160_39",
+      "seed": 10160,
+      "task_id": "task1_cube",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 83,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 46.683805004816136,
+      "lateral_drift_m": 0.06432367159183446
+    },
+    {
+      "scenario_uid": "cell1_t1_slip_10170_40",
+      "seed": 10170,
+      "task_id": "task1_cube",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 103,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 63.551636828799836,
+      "lateral_drift_m": 0.04606206652189388
+    },
+    {
+      "scenario_uid": "cell1_t1_slip_10172_41",
+      "seed": 10172,
+      "task_id": "task1_cube",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 92,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 31.50149317172158,
+      "lateral_drift_m": 0.07429470469837951
+    },
+    {
+      "scenario_uid": "cell1_t1_slip_10173_42",
+      "seed": 10173,
+      "task_id": "task1_cube",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 110,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 37.39956116137527,
+      "lateral_drift_m": 0.07903756096253882
+    },
+    {
+      "scenario_uid": "cell1_t1_slip_10175_43",
+      "seed": 10175,
+      "task_id": "task1_cube",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 92,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 39.64227001178515,
+      "lateral_drift_m": 0.08385788964004699
+    },
+    {
+      "scenario_uid": "cell1_t1_slip_10188_44",
+      "seed": 10188,
+      "task_id": "task1_cube",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 103,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 43.20268023626244,
+      "lateral_drift_m": 0.07556701111043679
+    },
+    {
+      "scenario_uid": "cell1_t1_slip_10191_45",
+      "seed": 10191,
+      "task_id": "task1_cube",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 95,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 43.36827663411219,
+      "lateral_drift_m": 0.08368634388520142
+    },
+    {
+      "scenario_uid": "cell1_t1_slip_10210_46",
+      "seed": 10210,
+      "task_id": "task1_cube",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 107,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 53.92802611947032,
+      "lateral_drift_m": 0.043843703753978135
+    },
+    {
+      "scenario_uid": "cell1_t1_slip_10223_47",
+      "seed": 10223,
+      "task_id": "task1_cube",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 112,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 27.77537611534224,
+      "lateral_drift_m": 0.0329065568161377
+    },
+    {
+      "scenario_uid": "cell1_t1_slip_10235_48",
+      "seed": 10235,
+      "task_id": "task1_cube",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 98,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 19.14385705410315,
+      "lateral_drift_m": 0.03170888690130216
+    },
+    {
+      "scenario_uid": "cell1_t1_slip_10239_49",
+      "seed": 10239,
+      "task_id": "task1_cube",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 111,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 23.106071314641184,
+      "lateral_drift_m": 0.029226593941459933
+    },
+    {
+      "scenario_uid": "cell2_t1_loss_11003_00",
+      "seed": 11003,
+      "task_id": "task1_cube",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    },
+    {
+      "scenario_uid": "cell2_t1_loss_11004_01",
+      "seed": 11004,
+      "task_id": "task1_cube",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    },
+    {
+      "scenario_uid": "cell2_t1_loss_11008_02",
+      "seed": 11008,
+      "task_id": "task1_cube",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    },
+    {
+      "scenario_uid": "cell2_t1_loss_11010_03",
+      "seed": 11010,
+      "task_id": "task1_cube",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    },
+    {
+      "scenario_uid": "cell2_t1_loss_11011_04",
+      "seed": 11011,
+      "task_id": "task1_cube",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    },
+    {
+      "scenario_uid": "cell2_t1_loss_11012_05",
+      "seed": 11012,
+      "task_id": "task1_cube",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    },
+    {
+      "scenario_uid": "cell2_t1_loss_11014_06",
+      "seed": 11014,
+      "task_id": "task1_cube",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    },
+    {
+      "scenario_uid": "cell2_t1_loss_11015_07",
+      "seed": 11015,
+      "task_id": "task1_cube",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    },
+    {
+      "scenario_uid": "cell2_t1_loss_11016_08",
+      "seed": 11016,
+      "task_id": "task1_cube",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    },
+    {
+      "scenario_uid": "cell2_t1_loss_11018_09",
+      "seed": 11018,
+      "task_id": "task1_cube",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    },
+    {
+      "scenario_uid": "cell2_t1_loss_11019_10",
+      "seed": 11019,
+      "task_id": "task1_cube",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    },
+    {
+      "scenario_uid": "cell2_t1_loss_11020_11",
+      "seed": 11020,
+      "task_id": "task1_cube",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    },
+    {
+      "scenario_uid": "cell2_t1_loss_11021_12",
+      "seed": 11021,
+      "task_id": "task1_cube",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    },
+    {
+      "scenario_uid": "cell2_t1_loss_11023_13",
+      "seed": 11023,
+      "task_id": "task1_cube",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    },
+    {
+      "scenario_uid": "cell2_t1_loss_11025_14",
+      "seed": 11025,
+      "task_id": "task1_cube",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    },
+    {
+      "scenario_uid": "cell2_t1_loss_11026_15",
+      "seed": 11026,
+      "task_id": "task1_cube",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    },
+    {
+      "scenario_uid": "cell2_t1_loss_11027_16",
+      "seed": 11027,
+      "task_id": "task1_cube",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    },
+    {
+      "scenario_uid": "cell2_t1_loss_11028_17",
+      "seed": 11028,
+      "task_id": "task1_cube",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    },
+    {
+      "scenario_uid": "cell2_t1_loss_11029_18",
+      "seed": 11029,
+      "task_id": "task1_cube",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    },
+    {
+      "scenario_uid": "cell2_t1_loss_11031_19",
+      "seed": 11031,
+      "task_id": "task1_cube",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    },
+    {
+      "scenario_uid": "cell2_t1_loss_11032_20",
+      "seed": 11032,
+      "task_id": "task1_cube",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    },
+    {
+      "scenario_uid": "cell2_t1_loss_11034_21",
+      "seed": 11034,
+      "task_id": "task1_cube",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    },
+    {
+      "scenario_uid": "cell2_t1_loss_11037_22",
+      "seed": 11037,
+      "task_id": "task1_cube",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    },
+    {
+      "scenario_uid": "cell2_t1_loss_11038_23",
+      "seed": 11038,
+      "task_id": "task1_cube",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    },
+    {
+      "scenario_uid": "cell2_t1_loss_11039_24",
+      "seed": 11039,
+      "task_id": "task1_cube",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    },
+    {
+      "scenario_uid": "cell2_t1_loss_11040_25",
+      "seed": 11040,
+      "task_id": "task1_cube",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    },
+    {
+      "scenario_uid": "cell2_t1_loss_11041_26",
+      "seed": 11041,
+      "task_id": "task1_cube",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    },
+    {
+      "scenario_uid": "cell2_t1_loss_11043_27",
+      "seed": 11043,
+      "task_id": "task1_cube",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    },
+    {
+      "scenario_uid": "cell2_t1_loss_11044_28",
+      "seed": 11044,
+      "task_id": "task1_cube",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    },
+    {
+      "scenario_uid": "cell2_t1_loss_11046_29",
+      "seed": 11046,
+      "task_id": "task1_cube",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    },
+    {
+      "scenario_uid": "cell2_t1_loss_11048_30",
+      "seed": 11048,
+      "task_id": "task1_cube",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    },
+    {
+      "scenario_uid": "cell2_t1_loss_11051_31",
+      "seed": 11051,
+      "task_id": "task1_cube",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    },
+    {
+      "scenario_uid": "cell2_t1_loss_11052_32",
+      "seed": 11052,
+      "task_id": "task1_cube",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    },
+    {
+      "scenario_uid": "cell2_t1_loss_11053_33",
+      "seed": 11053,
+      "task_id": "task1_cube",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    },
+    {
+      "scenario_uid": "cell2_t1_loss_11056_34",
+      "seed": 11056,
+      "task_id": "task1_cube",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    },
+    {
+      "scenario_uid": "cell2_t1_loss_11057_35",
+      "seed": 11057,
+      "task_id": "task1_cube",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    },
+    {
+      "scenario_uid": "cell2_t1_loss_11058_36",
+      "seed": 11058,
+      "task_id": "task1_cube",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    },
+    {
+      "scenario_uid": "cell2_t1_loss_11060_37",
+      "seed": 11060,
+      "task_id": "task1_cube",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    },
+    {
+      "scenario_uid": "cell2_t1_loss_11062_38",
+      "seed": 11062,
+      "task_id": "task1_cube",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    },
+    {
+      "scenario_uid": "cell2_t1_loss_11064_39",
+      "seed": 11064,
+      "task_id": "task1_cube",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    },
+    {
+      "scenario_uid": "cell2_t1_loss_11066_40",
+      "seed": 11066,
+      "task_id": "task1_cube",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    },
+    {
+      "scenario_uid": "cell2_t1_loss_11067_41",
+      "seed": 11067,
+      "task_id": "task1_cube",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    },
+    {
+      "scenario_uid": "cell2_t1_loss_11069_42",
+      "seed": 11069,
+      "task_id": "task1_cube",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    },
+    {
+      "scenario_uid": "cell2_t1_loss_11070_43",
+      "seed": 11070,
+      "task_id": "task1_cube",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    },
+    {
+      "scenario_uid": "cell2_t1_loss_11072_44",
+      "seed": 11072,
+      "task_id": "task1_cube",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    },
+    {
+      "scenario_uid": "cell2_t1_loss_11073_45",
+      "seed": 11073,
+      "task_id": "task1_cube",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    },
+    {
+      "scenario_uid": "cell2_t1_loss_11074_46",
+      "seed": 11074,
+      "task_id": "task1_cube",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    },
+    {
+      "scenario_uid": "cell2_t1_loss_11075_47",
+      "seed": 11075,
+      "task_id": "task1_cube",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    },
+    {
+      "scenario_uid": "cell2_t1_loss_11076_48",
+      "seed": 11076,
+      "task_id": "task1_cube",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    },
+    {
+      "scenario_uid": "cell2_t1_loss_11079_49",
+      "seed": 11079,
+      "task_id": "task1_cube",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.25,
+        0.0,
+        0.025
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    },
+    {
+      "scenario_uid": "cell3_t2_slip_12002_00",
+      "seed": 12002,
+      "task_id": "task2_puck",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 134,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 37.04774688499025,
+      "lateral_drift_m": 0.020533453319981704
+    },
+    {
+      "scenario_uid": "cell3_t2_slip_12004_01",
+      "seed": 12004,
+      "task_id": "task2_puck",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 136,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 14.946740570799538,
+      "lateral_drift_m": 0.006241263662181884
+    },
+    {
+      "scenario_uid": "cell3_t2_slip_12008_02",
+      "seed": 12008,
+      "task_id": "task2_puck",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 134,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 41.995963811305096,
+      "lateral_drift_m": 0.023158408265116757
+    },
+    {
+      "scenario_uid": "cell3_t2_slip_12010_03",
+      "seed": 12010,
+      "task_id": "task2_puck",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 136,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 22.410235469268603,
+      "lateral_drift_m": 0.011967088062855267
+    },
+    {
+      "scenario_uid": "cell3_t2_slip_12012_04",
+      "seed": 12012,
+      "task_id": "task2_puck",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 138,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 13.229134003566646,
+      "lateral_drift_m": 0.002160147825292148
+    },
+    {
+      "scenario_uid": "cell3_t2_slip_12014_05",
+      "seed": 12014,
+      "task_id": "task2_puck",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 134,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 39.41851198522997,
+      "lateral_drift_m": 0.022914862189157614
+    },
+    {
+      "scenario_uid": "cell3_t2_slip_12016_06",
+      "seed": 12016,
+      "task_id": "task2_puck",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 136,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 25.543997428799212,
+      "lateral_drift_m": 0.01097140488712591
+    },
+    {
+      "scenario_uid": "cell3_t2_slip_12018_07",
+      "seed": 12018,
+      "task_id": "task2_puck",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 138,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 22.08935487590764,
+      "lateral_drift_m": 0.008931343307010012
+    },
+    {
+      "scenario_uid": "cell3_t2_slip_12020_08",
+      "seed": 12020,
+      "task_id": "task2_puck",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 134,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 33.87996382945826,
+      "lateral_drift_m": 0.018887403970349905
+    },
+    {
+      "scenario_uid": "cell3_t2_slip_12022_09",
+      "seed": 12022,
+      "task_id": "task2_puck",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 136,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 29.155553966941852,
+      "lateral_drift_m": 0.015802471345121253
+    },
+    {
+      "scenario_uid": "cell3_t2_slip_12024_10",
+      "seed": 12024,
+      "task_id": "task2_puck",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 138,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 22.281485035019934,
+      "lateral_drift_m": 0.005372011181213894
+    },
+    {
+      "scenario_uid": "cell3_t2_slip_12026_11",
+      "seed": 12026,
+      "task_id": "task2_puck",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 134,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 39.97826472710349,
+      "lateral_drift_m": 0.02372761257839424
+    },
+    {
+      "scenario_uid": "cell3_t2_slip_12028_12",
+      "seed": 12028,
+      "task_id": "task2_puck",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 136,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 27.944716035307273,
+      "lateral_drift_m": 0.012489964991880407
+    },
+    {
+      "scenario_uid": "cell3_t2_slip_12029_13",
+      "seed": 12029,
+      "task_id": "task2_puck",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 134,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 39.495534246542995,
+      "lateral_drift_m": 0.028358302439662295
+    },
+    {
+      "scenario_uid": "cell3_t2_slip_12030_14",
+      "seed": 12030,
+      "task_id": "task2_puck",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 138,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 20.50783467148776,
+      "lateral_drift_m": 0.0038173133412796522
+    },
+    {
+      "scenario_uid": "cell3_t2_slip_12032_15",
+      "seed": 12032,
+      "task_id": "task2_puck",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 134,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 42.7840950343987,
+      "lateral_drift_m": 0.023245504267030405
+    },
+    {
+      "scenario_uid": "cell3_t2_slip_12034_16",
+      "seed": 12034,
+      "task_id": "task2_puck",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 136,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 26.683469383599096,
+      "lateral_drift_m": 0.013157540042307273
+    },
+    {
+      "scenario_uid": "cell3_t2_slip_12036_17",
+      "seed": 12036,
+      "task_id": "task2_puck",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 138,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 13.200855375144243,
+      "lateral_drift_m": 0.0027847929000257786
+    },
+    {
+      "scenario_uid": "cell3_t2_slip_12038_18",
+      "seed": 12038,
+      "task_id": "task2_puck",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 134,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 44.22277015120716,
+      "lateral_drift_m": 0.022518122084809678
+    },
+    {
+      "scenario_uid": "cell3_t2_slip_12040_19",
+      "seed": 12040,
+      "task_id": "task2_puck",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 136,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 28.795967226782373,
+      "lateral_drift_m": 0.014582459448854852
+    },
+    {
+      "scenario_uid": "cell3_t2_slip_12042_20",
+      "seed": 12042,
+      "task_id": "task2_puck",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 138,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 10.232062697693962,
+      "lateral_drift_m": 0.0039000688687695663
+    },
+    {
+      "scenario_uid": "cell3_t2_slip_12044_21",
+      "seed": 12044,
+      "task_id": "task2_puck",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 134,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 36.60776579807835,
+      "lateral_drift_m": 0.019253688784699553
+    },
+    {
+      "scenario_uid": "cell3_t2_slip_12046_22",
+      "seed": 12046,
+      "task_id": "task2_puck",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 136,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 27.04429215858007,
+      "lateral_drift_m": 0.014652816550512234
+    },
+    {
+      "scenario_uid": "cell3_t2_slip_12048_23",
+      "seed": 12048,
+      "task_id": "task2_puck",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 138,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 10.755436821713799,
+      "lateral_drift_m": 0.004289154819288431
+    },
+    {
+      "scenario_uid": "cell3_t2_slip_12050_24",
+      "seed": 12050,
+      "task_id": "task2_puck",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 134,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 36.41137330564865,
+      "lateral_drift_m": 0.021050618753691373
+    },
+    {
+      "scenario_uid": "cell3_t2_slip_12052_25",
+      "seed": 12052,
+      "task_id": "task2_puck",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 136,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 22.958099908582277,
+      "lateral_drift_m": 0.01146115356577325
+    },
+    {
+      "scenario_uid": "cell3_t2_slip_12054_26",
+      "seed": 12054,
+      "task_id": "task2_puck",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 138,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 13.031949188034208,
+      "lateral_drift_m": 0.0030952097302702083
+    },
+    {
+      "scenario_uid": "cell3_t2_slip_12056_27",
+      "seed": 12056,
+      "task_id": "task2_puck",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 134,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 38.28291447559902,
+      "lateral_drift_m": 0.019055253903056655
+    },
+    {
+      "scenario_uid": "cell3_t2_slip_12058_28",
+      "seed": 12058,
+      "task_id": "task2_puck",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 136,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 22.56722030250302,
+      "lateral_drift_m": 0.011719646754629042
+    },
+    {
+      "scenario_uid": "cell3_t2_slip_12060_29",
+      "seed": 12060,
+      "task_id": "task2_puck",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 138,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 17.539025110850954,
+      "lateral_drift_m": 0.005352729740708566
+    },
+    {
+      "scenario_uid": "cell3_t2_slip_12062_30",
+      "seed": 12062,
+      "task_id": "task2_puck",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 134,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 36.999944739880874,
+      "lateral_drift_m": 0.020376324133517813
+    },
+    {
+      "scenario_uid": "cell3_t2_slip_12064_31",
+      "seed": 12064,
+      "task_id": "task2_puck",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 136,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 22.593139717863377,
+      "lateral_drift_m": 0.009545879777906248
+    },
+    {
+      "scenario_uid": "cell3_t2_slip_12066_32",
+      "seed": 12066,
+      "task_id": "task2_puck",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 138,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 19.103808388376994,
+      "lateral_drift_m": 0.0025709853342268524
+    },
+    {
+      "scenario_uid": "cell3_t2_slip_12068_33",
+      "seed": 12068,
+      "task_id": "task2_puck",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 134,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 42.1049742612292,
+      "lateral_drift_m": 0.024017469789208958
+    },
+    {
+      "scenario_uid": "cell3_t2_slip_12070_34",
+      "seed": 12070,
+      "task_id": "task2_puck",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 136,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 13.678288162528512,
+      "lateral_drift_m": 0.0056399845063645785
+    },
+    {
+      "scenario_uid": "cell3_t2_slip_12072_35",
+      "seed": 12072,
+      "task_id": "task2_puck",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 136,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 9.904175004192297,
+      "lateral_drift_m": 0.003835504276229187
+    },
+    {
+      "scenario_uid": "cell3_t2_slip_12074_36",
+      "seed": 12074,
+      "task_id": "task2_puck",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 134,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 36.43228979018779,
+      "lateral_drift_m": 0.0199003063615869
+    },
+    {
+      "scenario_uid": "cell3_t2_slip_12076_37",
+      "seed": 12076,
+      "task_id": "task2_puck",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 136,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 31.952948415524475,
+      "lateral_drift_m": 0.016543408166739174
+    },
+    {
+      "scenario_uid": "cell3_t2_slip_12078_38",
+      "seed": 12078,
+      "task_id": "task2_puck",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 138,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 22.03490408327975,
+      "lateral_drift_m": 0.008592872995143847
+    },
+    {
+      "scenario_uid": "cell3_t2_slip_12080_39",
+      "seed": 12080,
+      "task_id": "task2_puck",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 134,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 18.77130483457573,
+      "lateral_drift_m": 0.009557212843794611
+    },
+    {
+      "scenario_uid": "cell3_t2_slip_12082_40",
+      "seed": 12082,
+      "task_id": "task2_puck",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 136,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 29.714912629476927,
+      "lateral_drift_m": 0.015432872127908762
+    },
+    {
+      "scenario_uid": "cell3_t2_slip_12084_41",
+      "seed": 12084,
+      "task_id": "task2_puck",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 138,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 16.024678499297426,
+      "lateral_drift_m": 0.007363060302282534
+    },
+    {
+      "scenario_uid": "cell3_t2_slip_12086_42",
+      "seed": 12086,
+      "task_id": "task2_puck",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 134,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 34.444325238244396,
+      "lateral_drift_m": 0.019465474234199
+    },
+    {
+      "scenario_uid": "cell3_t2_slip_12088_43",
+      "seed": 12088,
+      "task_id": "task2_puck",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 136,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 29.246586418642508,
+      "lateral_drift_m": 0.012518282669448905
+    },
+    {
+      "scenario_uid": "cell3_t2_slip_12092_44",
+      "seed": 12092,
+      "task_id": "task2_puck",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 134,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 36.863923675461685,
+      "lateral_drift_m": 0.02119295390387859
+    },
+    {
+      "scenario_uid": "cell3_t2_slip_12094_45",
+      "seed": 12094,
+      "task_id": "task2_puck",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 136,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 24.890613685209654,
+      "lateral_drift_m": 0.012189718945479098
+    },
+    {
+      "scenario_uid": "cell3_t2_slip_12096_46",
+      "seed": 12096,
+      "task_id": "task2_puck",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 138,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 13.05988664755818,
+      "lateral_drift_m": 0.003174223497260812
+    },
+    {
+      "scenario_uid": "cell3_t2_slip_12098_47",
+      "seed": 12098,
+      "task_id": "task2_puck",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 134,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 33.38582663759145,
+      "lateral_drift_m": 0.017990346916713838
+    },
+    {
+      "scenario_uid": "cell3_t2_slip_12100_48",
+      "seed": 12100,
+      "task_id": "task2_puck",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 136,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 22.58112483296653,
+      "lateral_drift_m": 0.01197659136313097
+    },
+    {
+      "scenario_uid": "cell3_t2_slip_12102_49",
+      "seed": 12102,
+      "task_id": "task2_puck",
+      "failure_mode": "rotational_slip",
+      "remaining_horizon": 138,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "peak_yaw_deg": 19.825167849290608,
+      "lateral_drift_m": 0.002854931439175353
+    },
+    {
+      "scenario_uid": "cell4_t2_loss_13001_00",
+      "seed": 13001,
+      "task_id": "task2_puck",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    },
+    {
+      "scenario_uid": "cell4_t2_loss_13002_01",
+      "seed": 13002,
+      "task_id": "task2_puck",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    },
+    {
+      "scenario_uid": "cell4_t2_loss_13003_02",
+      "seed": 13003,
+      "task_id": "task2_puck",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    },
+    {
+      "scenario_uid": "cell4_t2_loss_13004_03",
+      "seed": 13004,
+      "task_id": "task2_puck",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    },
+    {
+      "scenario_uid": "cell4_t2_loss_13005_04",
+      "seed": 13005,
+      "task_id": "task2_puck",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    },
+    {
+      "scenario_uid": "cell4_t2_loss_13006_05",
+      "seed": 13006,
+      "task_id": "task2_puck",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    },
+    {
+      "scenario_uid": "cell4_t2_loss_13007_06",
+      "seed": 13007,
+      "task_id": "task2_puck",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    },
+    {
+      "scenario_uid": "cell4_t2_loss_13008_07",
+      "seed": 13008,
+      "task_id": "task2_puck",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    },
+    {
+      "scenario_uid": "cell4_t2_loss_13009_08",
+      "seed": 13009,
+      "task_id": "task2_puck",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    },
+    {
+      "scenario_uid": "cell4_t2_loss_13010_09",
+      "seed": 13010,
+      "task_id": "task2_puck",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    },
+    {
+      "scenario_uid": "cell4_t2_loss_13011_10",
+      "seed": 13011,
+      "task_id": "task2_puck",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    },
+    {
+      "scenario_uid": "cell4_t2_loss_13012_11",
+      "seed": 13012,
+      "task_id": "task2_puck",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    },
+    {
+      "scenario_uid": "cell4_t2_loss_13013_12",
+      "seed": 13013,
+      "task_id": "task2_puck",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    },
+    {
+      "scenario_uid": "cell4_t2_loss_13014_13",
+      "seed": 13014,
+      "task_id": "task2_puck",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    },
+    {
+      "scenario_uid": "cell4_t2_loss_13015_14",
+      "seed": 13015,
+      "task_id": "task2_puck",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    },
+    {
+      "scenario_uid": "cell4_t2_loss_13016_15",
+      "seed": 13016,
+      "task_id": "task2_puck",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    },
+    {
+      "scenario_uid": "cell4_t2_loss_13017_16",
+      "seed": 13017,
+      "task_id": "task2_puck",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    },
+    {
+      "scenario_uid": "cell4_t2_loss_13018_17",
+      "seed": 13018,
+      "task_id": "task2_puck",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    },
+    {
+      "scenario_uid": "cell4_t2_loss_13019_18",
+      "seed": 13019,
+      "task_id": "task2_puck",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    },
+    {
+      "scenario_uid": "cell4_t2_loss_13020_19",
+      "seed": 13020,
+      "task_id": "task2_puck",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    },
+    {
+      "scenario_uid": "cell4_t2_loss_13021_20",
+      "seed": 13021,
+      "task_id": "task2_puck",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    },
+    {
+      "scenario_uid": "cell4_t2_loss_13022_21",
+      "seed": 13022,
+      "task_id": "task2_puck",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    },
+    {
+      "scenario_uid": "cell4_t2_loss_13023_22",
+      "seed": 13023,
+      "task_id": "task2_puck",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    },
+    {
+      "scenario_uid": "cell4_t2_loss_13024_23",
+      "seed": 13024,
+      "task_id": "task2_puck",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    },
+    {
+      "scenario_uid": "cell4_t2_loss_13025_24",
+      "seed": 13025,
+      "task_id": "task2_puck",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    },
+    {
+      "scenario_uid": "cell4_t2_loss_13026_25",
+      "seed": 13026,
+      "task_id": "task2_puck",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    },
+    {
+      "scenario_uid": "cell4_t2_loss_13027_26",
+      "seed": 13027,
+      "task_id": "task2_puck",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    },
+    {
+      "scenario_uid": "cell4_t2_loss_13028_27",
+      "seed": 13028,
+      "task_id": "task2_puck",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    },
+    {
+      "scenario_uid": "cell4_t2_loss_13029_28",
+      "seed": 13029,
+      "task_id": "task2_puck",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    },
+    {
+      "scenario_uid": "cell4_t2_loss_13030_29",
+      "seed": 13030,
+      "task_id": "task2_puck",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    },
+    {
+      "scenario_uid": "cell4_t2_loss_13031_30",
+      "seed": 13031,
+      "task_id": "task2_puck",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    },
+    {
+      "scenario_uid": "cell4_t2_loss_13032_31",
+      "seed": 13032,
+      "task_id": "task2_puck",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    },
+    {
+      "scenario_uid": "cell4_t2_loss_13033_32",
+      "seed": 13033,
+      "task_id": "task2_puck",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    },
+    {
+      "scenario_uid": "cell4_t2_loss_13034_33",
+      "seed": 13034,
+      "task_id": "task2_puck",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    },
+    {
+      "scenario_uid": "cell4_t2_loss_13035_34",
+      "seed": 13035,
+      "task_id": "task2_puck",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    },
+    {
+      "scenario_uid": "cell4_t2_loss_13036_35",
+      "seed": 13036,
+      "task_id": "task2_puck",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    },
+    {
+      "scenario_uid": "cell4_t2_loss_13037_36",
+      "seed": 13037,
+      "task_id": "task2_puck",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    },
+    {
+      "scenario_uid": "cell4_t2_loss_13038_37",
+      "seed": 13038,
+      "task_id": "task2_puck",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    },
+    {
+      "scenario_uid": "cell4_t2_loss_13039_38",
+      "seed": 13039,
+      "task_id": "task2_puck",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    },
+    {
+      "scenario_uid": "cell4_t2_loss_13040_39",
+      "seed": 13040,
+      "task_id": "task2_puck",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    },
+    {
+      "scenario_uid": "cell4_t2_loss_13041_40",
+      "seed": 13041,
+      "task_id": "task2_puck",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    },
+    {
+      "scenario_uid": "cell4_t2_loss_13042_41",
+      "seed": 13042,
+      "task_id": "task2_puck",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    },
+    {
+      "scenario_uid": "cell4_t2_loss_13043_42",
+      "seed": 13043,
+      "task_id": "task2_puck",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    },
+    {
+      "scenario_uid": "cell4_t2_loss_13044_43",
+      "seed": 13044,
+      "task_id": "task2_puck",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    },
+    {
+      "scenario_uid": "cell4_t2_loss_13045_44",
+      "seed": 13045,
+      "task_id": "task2_puck",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    },
+    {
+      "scenario_uid": "cell4_t2_loss_13046_45",
+      "seed": 13046,
+      "task_id": "task2_puck",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    },
+    {
+      "scenario_uid": "cell4_t2_loss_13047_46",
+      "seed": 13047,
+      "task_id": "task2_puck",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    },
+    {
+      "scenario_uid": "cell4_t2_loss_13048_47",
+      "seed": 13048,
+      "task_id": "task2_puck",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    },
+    {
+      "scenario_uid": "cell4_t2_loss_13049_48",
+      "seed": 13049,
+      "task_id": "task2_puck",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    },
+    {
+      "scenario_uid": "cell4_t2_loss_13050_49",
+      "seed": 13050,
+      "task_id": "task2_puck",
+      "failure_mode": "contact_loss",
+      "remaining_horizon": 147,
+      "goal_state": [
+        0.2,
+        0.08,
+        0.02
+      ],
+      "oracle_verified": true,
+      "air_gap": 0.02
+    }
+  ]
+}

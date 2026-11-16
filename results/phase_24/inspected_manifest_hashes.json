@@ -1,0 +1,112 @@
+[
+  {
+    "path": "docs/manuscript/draft/manuscript.md",
+    "size": 42952,
+    "sha256": "233c4fa5b843863ba3146c2c4daaaca1456174c5cf94b1eb09887436ec93583e"
+  },
+  {
+    "path": "docs/manuscript/supplementary_materials.md",
+    "size": 16409,
+    "sha256": "ab2e32058dbb300fcd5511873f5c5f0a454ac354f565af74288506f7893f4fd3"
+  },
+  {
+    "path": "docs/manuscript/references/references.bib",
+    "size": 5014,
+    "sha256": "827cc28d57a27cd1829f058c6bf2f8c73c7621626fce61c7d9dab077c7fa1488"
+  },
+  {
+    "path": "results/phase_12_stage_c/scenario_manifest.json",
+    "size": 71225,
+    "sha256": "8a04c47eed1b818f9c823dbb1454bae183c4bf78be8caaab8eea3eff8bd5b259"
+  },
+  {
+    "path": "results/phase_12_stage_c/evaluation_summary.json",
+    "size": 14596,
+    "sha256": "982b796c3735c9d12bb698851b080e5252960e5197703da9c760d9ad57bfc343"
+  },
+  {
+    "path": "results/phase_12_stage_c/paired_comparisons.json",
+    "size": 23272,
+    "sha256": "2642472dc83248249f300ab37ff53a7cc9fce16e6074b1cba53248f0c734a25d"
+  },
+  {
+    "path": "results/phase_13/paper_tables.json",
+    "size": 10872,
+    "sha256": "9dd7bbffb81bc7106a7fb2391c971316f94f27988a3265971cd1f4a2f1b604a6"
+  },
+  {
+    "path": "figures/benchmark/paper/fig_paper_01_method_pipeline.pdf",
+    "size": 18182,
+    "sha256": "e6816f4079f54c698fc7b3b03202bfb506c985311d6ea4a67f3f30f8a0f680e4"
+  },
+  {
+    "path": "figures/benchmark/paper/fig_paper_03_state_matching.pdf",
+    "size": 25359,
+    "sha256": "fe2c169eae67c41102e2e0880932561a6ede1fec5e419e79c9ce64de84930150"
+  },
+  {
+    "path": "figures/benchmark/paper/fig_paper_05_recovery_success_by_policy.pdf",
+    "size": 19143,
+    "sha256": "0a2606e4372827302744633c170106cb64655ade3087c16020d2f81ebb804252"
+  },
+  {
+    "path": "figures/benchmark/paper/fig_paper_07_recovery_success_by_failure_type.pdf",
+    "size": 18637,
+    "sha256": "121dcab6f44fc07aba4d9b3190328d83aa83c021b109e1ced37c83cfeecd4d2c"
+  },
+  {
+    "path": "models/checkpoints/reactive_mlp_best.pt",
+    "size": 81869,
+    "sha256": "f99beb840b878d347772a9423037c47f366fa659d482b5765bc7566b9cdba542"
+  },
+  {
+    "path": "models/checkpoints/history_gru_best.pt",
+    "size": 272843,
+    "sha256": "5fcf94e2410efca8a8c70f47ea6bec7c8f2efd6bf10b665aa1c7d531a15fd6a0"
+  },
+  {
+    "path": "models/checkpoints/recovery_augmented_mlp_best.pt",
+    "size": 87461,
+    "sha256": "1aba926f4ad7bbd1d147034419afb74956501f0b1fa44dfd9bafe3089c60cd8b"
+  },
+  {
+    "path": "models/checkpoints/recovery_augmented_gru_best.pt",
+    "size": 282037,
+    "sha256": "7888cc1fc63b7d2d47b51d68989636b2108b51d7919ccd83f12511f4a7fd48ee"
+  },
+  {
+    "path": "release/smoke_test.py",
+    "size": 8471,
+    "sha256": "36d6d44f3896e7d8fc3a141ce79c61048cd69b519f92324b24ce9e28191e9ccb"
+  },
+  {
+    "path": "release/Dockerfile",
+    "size": 1079,
+    "sha256": "589156440ff649cb33c1cac4348c67d96f39f03df1c9557e6cbfe19b47f8ed6f"
+  },
+  {
+    "path": "release/environment.yml",
+    "size": 381,
+    "sha256": "dd7ee46c3ca368df043409e1b1077db2cef908946135afb2ad0f4f2cb1be0b48"
+  },
+  {
+    "path": "release/run_all.py",
+    "size": 672,
+    "sha256": "81ea452e0a3f16c7944ffdec9dea73d88c444863c1466163c322b2d4ac56093d"
+  },
+  {
+    "path": "results/phase_21/anonymous_release_staging.zip",
+    "size": 16393,
+    "sha256": "a318dd7de1d4d8d4b1383f696a3e710f8174d08e40f6cf0e2d8ccb27fafcc637"
+  },
+  {
+    "path": "docs/submission/final_decision/final_submission_decision.md",
+    "size": 4749,
+    "sha256": "9148bc530828db7c52f259862517d67b69eddfb14df853510049c7bb5ae3e61b"
+  },
+  {
+    "path": "docs/submission/final_decision/journal_readiness_gate.md",
+    "size": 10569,
+    "sha256": "72e926ae5730b313f3912b8bedf2d5c0bb39c258641dba07e2f02c4aaba46298"
+  }
+]

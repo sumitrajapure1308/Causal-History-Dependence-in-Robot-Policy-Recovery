@@ -1,0 +1,572 @@
+{
+  "timestamp": "2026-11-10T13:00:02.309531+00:00",
+  "phase": "Phase 28 \u2014 Live OpenReview Upload",
+  "file_count": 113,
+  "manifest": [
+    {
+      "file": "PROJECT_STATUS.md",
+      "size_bytes": 48367,
+      "sha256": "8548207e27125e1f3cf986541fc579e402d8962534d71088840b02440db8d85a"
+    },
+    {
+      "file": "docs/audit/anonymization_scrub_audit.md",
+      "size_bytes": 6406,
+      "sha256": "88ce321850b2c8bbfa0dd59a411fe661223e05e55b34d3df4697f7229f729950"
+    },
+    {
+      "file": "docs/audit/benchmark_result_robustness_audit.md",
+      "size_bytes": 5188,
+      "sha256": "fd408c4ee8eae9b31fe9f48e2ea257f337f3171bae3a56e3779815c4c07ffe3c"
+    },
+    {
+      "file": "docs/audit/binary_outcome_sensitivity_audit.md",
+      "size_bytes": 6693,
+      "sha256": "1c02fe30b577dc5305a476da49ef32be73132c37e9fe77ace1545afa345bae63"
+    },
+    {
+      "file": "docs/audit/claim_evidence_mapping_audit.md",
+      "size_bytes": 7404,
+      "sha256": "e96e53c6fc993a252bdcb41bfd578fc02da2b1c86970c161b047e3036bf19535"
+    },
+    {
+      "file": "docs/audit/condition_balance_audit.md",
+      "size_bytes": 7930,
+      "sha256": "0bb21bead0b652edc6fe27f25269c16a0f1ffd5a6091bb6c91758983db33692f"
+    },
+    {
+      "file": "docs/audit/cross_simulator_readiness_audit.md",
+      "size_bytes": 5521,
+      "sha256": "ffbc41ae2cfd5dd6fdb179fa83899cfedc19cdeffa5490bf2cbae6056c31d7fc"
+    },
+    {
+      "file": "docs/audit/environment_status.md",
+      "size_bytes": 5577,
+      "sha256": "03e96bb09a2dec704694b73fa22fe8961d81df261b578b522df3f40a280fe95f"
+    },
+    {
+      "file": "docs/audit/failure_generation_audit.md",
+      "size_bytes": 7096,
+      "sha256": "db1708886218deb5cdde4190f6bb1084f8cb1306bb1d42389f9984d3d8487def"
+    },
+    {
+      "file": "docs/audit/figure_table_audit.md",
+      "size_bytes": 8320,
+      "sha256": "33a70f68edd5ec03115886247a47886bbfd50a38efc4b0e8c311df499cb0ed00"
+    },
+    {
+      "file": "docs/audit/final_benchmark_design_audit.md",
+      "size_bytes": 7036,
+      "sha256": "26d99e8be60f508d8dfc2a1b269192f353ce5bc9ccd12586a8f596641d4c1e3a"
+    },
+    {
+      "file": "docs/audit/final_claim_audit.md",
+      "size_bytes": 7762,
+      "sha256": "ad7f77df43e84697c6605afc3f4df83bd394134c89ea259aad4556b834686178"
+    },
+    {
+      "file": "docs/audit/final_go_no_go_audit.md",
+      "size_bytes": 14434,
+      "sha256": "21ca7773115ce8bcd97c6b537b3140202eea29c3e87732a0af4238795970593e"
+    },
+    {
+      "file": "docs/audit/final_live_anonymization_check.md",
+      "size_bytes": 6331,
+      "sha256": "2bca84fc4f8c9f94dcf8cb37ba34de1d7a6d22461bf16133d505ae4587c20461"
+    },
+    {
+      "file": "docs/audit/final_live_pre_upload_check.md",
+      "size_bytes": 7540,
+      "sha256": "105d66a184b1152c506283b124d7e00fb2319bd27c5f47be3dd7b79377b2f307"
+    },
+    {
+      "file": "docs/audit/final_manuscript_audit.md",
+      "size_bytes": 9432,
+      "sha256": "ff61e48b747537d761ab5bd9d80a75af9ccca1580d1d26466ac97985fef6062d"
+    },
+    {
+      "file": "docs/audit/final_openreview_anonymization_check.md",
+      "size_bytes": 6442,
+      "sha256": "50aeeb8a920ee77e1a40a3b26b1bef729043542700382c80780c57dfe8c3d76a"
+    },
+    {
+      "file": "docs/audit/final_openreview_pre_upload_check.md",
+      "size_bytes": 8017,
+      "sha256": "abdff4602a31a76e2967d3276bb6a429b328745f088b7f39b3693e513fe961c7"
+    },
+    {
+      "file": "docs/audit/final_portal_anonymization_check.md",
+      "size_bytes": 6363,
+      "sha256": "dfe7e3465d2c428db6ab3734fa0498b3ebd3a0be06b1d2c3e013e2941f9f62ea"
+    },
+    {
+      "file": "docs/audit/final_portal_pre_upload_check.md",
+      "size_bytes": 7598,
+      "sha256": "16129c5f540d6b141e00fd9755fbedda8241744af55421dd4a05b0a5db2227f8"
+    },
+    {
+      "file": "docs/audit/final_pre_upload_gate.md",
+      "size_bytes": 7562,
+      "sha256": "415c2bd9bd1293f73e12d62e5cbd96b3d1c30911f6fbdb766123c4a3e808380d"
+    },
+    {
+      "file": "docs/audit/final_reference_audit.md",
+      "size_bytes": 7487,
+      "sha256": "6874628902516ea1e8117ab735523e981958b7b6384cec5a10fc5f08267982cc"
+    },
+    {
+      "file": "docs/audit/final_release_audit.md",
+      "size_bytes": 4746,
+      "sha256": "b06d431f329c2bf2180bb6f08a052edbc967c55a8514e67cdc0590ae7fb30c2a"
+    },
+    {
+      "file": "docs/audit/final_reproducibility_audit.md",
+      "size_bytes": 3756,
+      "sha256": "615080cbecb765455dff97961dbe00d4e355ddf2ae32081ca8cbd97cea40afef"
+    },
+    {
+      "file": "docs/audit/gru_checkpoint_forensics.md",
+      "size_bytes": 7590,
+      "sha256": "568e5f4a7b08ca2b774876f7beb26f9fea7ed6569740aa408b3177b899e5ae93"
+    },
+    {
+      "file": "docs/audit/leakage_and_confound_audit.md",
+      "size_bytes": 6679,
+      "sha256": "28793261fe22e613e8e0d44a39380f01ecd868290a4ffd30038a68081e881131"
+    },
+    {
+      "file": "docs/audit/manuscript_consistency_audit.md",
+      "size_bytes": 9968,
+      "sha256": "93a0cc65c62f5561c7fc5d0d55d61c0116eecfa61c682538c70e6001cb2d92c8"
+    },
+    {
+      "file": "docs/audit/methodology_summary.md",
+      "size_bytes": 18342,
+      "sha256": "0b2ebcc047331685e9f62761335ec443b18346037ef386e5ee31874164666c69"
+    },
+    {
+      "file": "docs/audit/metric_construct_validity.md",
+      "size_bytes": 5648,
+      "sha256": "bbb4b790663edc43a1a82dad1d0171ba1e1616c794b3577d8a3d210e1dd1057f"
+    },
+    {
+      "file": "docs/audit/novelty_overlap_audit.md",
+      "size_bytes": 9844,
+      "sha256": "a337fef0dc760eca36146cef35cd9f2d7159b8d5cb79b7c5edba08872e35d704"
+    },
+    {
+      "file": "docs/audit/phase_0_correction_report.md",
+      "size_bytes": 7856,
+      "sha256": "d0f89d1bbc42c8f58e480bc7e2739406d41e331bb747a70c3942f40836b04375"
+    },
+    {
+      "file": "docs/audit/phase_12_analysis_readiness_audit.md",
+      "size_bytes": 3984,
+      "sha256": "41f4d0fe5b660368e41a3bc8e17261c38e169e950e065b173b811684a20366c3"
+    },
+    {
+      "file": "docs/audit/phase_12_condition_integrity_audit.md",
+      "size_bytes": 1297,
+      "sha256": "735e0fe7f6ec674fa73274f0d7af592fd4b91ecda2ac755c43b9973918e6bf92"
+    },
+    {
+      "file": "docs/audit/phase_12_continuous_null_result_audit.md",
+      "size_bytes": 5137,
+      "sha256": "706b2c7e05c704f2573bc91f0ddc724447775703c6e1b4e7273488fdb95020f9"
+    },
+    {
+      "file": "docs/audit/phase_12_data_integrity_audit.md",
+      "size_bytes": 765,
+      "sha256": "174fb2439c247203b7f4fbe81bca9f48a4cfcaf74fff7af8f04e8333e19ddfeb"
+    },
+    {
+      "file": "docs/audit/phase_12_execution_completeness_audit.md",
+      "size_bytes": 1265,
+      "sha256": "c4ae1ae8e4f33f64dee5efb887a253c13f5ec7705adb1a047b39f92b5cd760b6"
+    },
+    {
+      "file": "docs/audit/phase_12_primary_null_result_audit.md",
+      "size_bytes": 6496,
+      "sha256": "ee79aaec93778ec726449f52edc2d9acbcd3920235ed73f404af484a9db5dccb"
+    },
+    {
+      "file": "docs/audit/phase_12_reproducibility_audit.md",
+      "size_bytes": 1365,
+      "sha256": "18b5adb36aeadad96036a189f76349715dc69307677d93499c4e180fc84a2d62"
+    },
+    {
+      "file": "docs/audit/phase_12_scenario_integrity_audit.md",
+      "size_bytes": 875,
+      "sha256": "0a17c1c572ab58390597901fbd590f936e60fa4cd4ea5b6855442710e80609b4"
+    },
+    {
+      "file": "docs/audit/phase_3_pilot_data_audit.md",
+      "size_bytes": 6851,
+      "sha256": "07256a4e224a9f39ca32341c7f82d54ca708270b673ec247703e4d7cbd96e6b7"
+    },
+    {
+      "file": "docs/audit/phase_5_go_no_go_criteria.md",
+      "size_bytes": 5564,
+      "sha256": "8f8b4592511285b1dfc4e682fd25e6ac7e00d0079b8116ba5f70ba485eaecc59"
+    },
+    {
+      "file": "docs/audit/phase_6_negative_result_audit.md",
+      "size_bytes": 8236,
+      "sha256": "155be1bb14f0da416152e1d3fd6a96e7848fea78af63d61fcd77fb742fe5dd14"
+    },
+    {
+      "file": "docs/audit/phase_7_result_reconciliation.md",
+      "size_bytes": 9571,
+      "sha256": "e9a88757747a2917d20b06f36faf3e2f1197d38f700b922e578b8c58c1f9b33b"
+    },
+    {
+      "file": "docs/audit/phase_9_null_result_audit.md",
+      "size_bytes": 10319,
+      "sha256": "3b0da9f27d938f8a714ed2b7eda88428415a5aba78f20876a8c35cc8e04f3932"
+    },
+    {
+      "file": "docs/audit/policy_capability_final_audit.md",
+      "size_bytes": 7540,
+      "sha256": "17066674fb177f4e78e30ef60da9dc7ff1b6d7431e69263bc073dceaedbffa6a"
+    },
+    {
+      "file": "docs/audit/policy_capability_limitation_audit.md",
+      "size_bytes": 6257,
+      "sha256": "c80ea82b7bb23aaeeb3ddbe3a90473e5a7182e31df0e7f85b2b3fc2725559528"
+    },
+    {
+      "file": "docs/audit/policy_quality_audit.md",
+      "size_bytes": 8291,
+      "sha256": "e01f67ebb5ccc5a82f56d8bb7f5cb620c4bae1582c1bf5ddec106ca7f978a890"
+    },
+    {
+      "file": "docs/audit/policy_recovery_capability_audit.md",
+      "size_bytes": 7415,
+      "sha256": "8349cc060903b6718246a08ab98740e3205fdda8c4d4c8a3850205f9579c0aca"
+    },
+    {
+      "file": "docs/audit/real_robot_readiness_audit.md",
+      "size_bytes": 7242,
+      "sha256": "c26fc72debfe0c98ec26fd015a38df05eeb410b928d5f69af133e0c21fd05cd8"
+    },
+    {
+      "file": "docs/audit/recovery_dataset_lineage_audit.md",
+      "size_bytes": 4962,
+      "sha256": "8ea6af61f895bc99eb606d4474370623a46e26be14858bc53dc1b2d2b600bf2e"
+    },
+    {
+      "file": "docs/audit/reference_audit.md",
+      "size_bytes": 6415,
+      "sha256": "ae3661636dd925fae70df10f0682e7773ff87bf0cddc5900648b2270edc27e47"
+    },
+    {
+      "file": "docs/audit/repository_integrity_audit.md",
+      "size_bytes": 7322,
+      "sha256": "230c07c071a44b294f857f5147ad4414f705b1a00c953e0d8dbdb1fb8767b0b1"
+    },
+    {
+      "file": "docs/audit/state_matching_yield_audit.md",
+      "size_bytes": 5663,
+      "sha256": "e19068dae9f1c61737523c013ba6f6d8eb721b3bc2414d7a092facf20a6283cc"
+    },
+    {
+      "file": "docs/audit/statistical_power_audit.md",
+      "size_bytes": 8060,
+      "sha256": "73c383af6ccb06709b879a0776396f570e2ab79d509f0cb928d760ff17775bf7"
+    },
+    {
+      "file": "docs/audit/submission_package_audit.md",
+      "size_bytes": 7147,
+      "sha256": "8532f900c9b958e357e07978035f78f6b56ff4d1b9e150d6797c4d8415a9bf92"
+    },
+    {
+      "file": "docs/decision_log.md",
+      "size_bytes": 67398,
+      "sha256": "064d9bc6857ae4e24582b614e7638cda40d895f2ccb6ee0513262e0c157b4991"
+    },
+    {
+      "file": "docs/manuscript/draft/manuscript.md",
+      "size_bytes": 42952,
+      "sha256": "233c4fa5b843863ba3146c2c4daaaca1456174c5cf94b1eb09887436ec93583e"
+    },
+    {
+      "file": "docs/manuscript/references/references.bib",
+      "size_bytes": 5014,
+      "sha256": "827cc28d57a27cd1829f058c6bf2f8c73c7621626fce61c7d9dab077c7fa1488"
+    },
+    {
+      "file": "docs/manuscript/supplementary_materials.md",
+      "size_bytes": 16409,
+      "sha256": "ab2e32058dbb300fcd5511873f5c5f0a454ac354f565af74288506f7893f4fd3"
+    },
+    {
+      "file": "docs/reports/phase_26_live_submission_report.md",
+      "size_bytes": 7500,
+      "sha256": "81cb2cfb59591bc08ba07cb42c74f2a6686f7df3ca2b7cc1bdd9b5b2eb98d4ff"
+    },
+    {
+      "file": "docs/reports/phase_27_live_portal_submission_report.md",
+      "size_bytes": 7718,
+      "sha256": "c5d91e7707876f85d3883d38d6ff8fe564c3f9b27dcb709eb31a4bac4327d7b7"
+    },
+    {
+      "file": "docs/reports/phase_28_live_openreview_upload_report.md",
+      "size_bytes": 10456,
+      "sha256": "df150cd69b426c6bbf30c9c395f12785cc57d3e05b0fc5f2ac3af45754682830"
+    },
+    {
+      "file": "docs/submission/action/final_submission_decision.md",
+      "size_bytes": 4563,
+      "sha256": "2eb71a15a1fc0916235b1f4977f885625dee9080d1baefe5713bb71b57104152"
+    },
+    {
+      "file": "docs/submission/action/submission_action_plan.md",
+      "size_bytes": 9836,
+      "sha256": "187239f02e7e654bd3c8782e8e7e99024dcbf7561e6611d1fcb0bfc927e68179"
+    },
+    {
+      "file": "docs/submission/action/submission_checklist.md",
+      "size_bytes": 6409,
+      "sha256": "407e76989673827f82ec5ad13851c80c01610e1b7a2dd546d317cf2da1a09a28"
+    },
+    {
+      "file": "docs/submission/action/submission_package_manifest.md",
+      "size_bytes": 7035,
+      "sha256": "6cfa73c079172f3fc2a9948f1841bddfd9f49c71d12c52f273d32adb3512ec8f"
+    },
+    {
+      "file": "docs/submission/action/submission_risk_plan.md",
+      "size_bytes": 5898,
+      "sha256": "6dae6852a71146a9b43be7b7659822c85c117bc8e7187cffd5946e22bd01e4e8"
+    },
+    {
+      "file": "docs/submission/action/submission_timeline.md",
+      "size_bytes": 6690,
+      "sha256": "b23933ec54969cdeba6a243c45689d625b70c2fe494b558b96a1d00603352cd1"
+    },
+    {
+      "file": "docs/submission/execution/final/anonymous_repository_staging.md",
+      "size_bytes": 4519,
+      "sha256": "7a7ff80207e5368bf262afb1b0265779d91d36ec71c9a6c17286cf5d7c9f5793"
+    },
+    {
+      "file": "docs/submission/execution/final/openreview_upload_plan.md",
+      "size_bytes": 7225,
+      "sha256": "07e983207c3ffcea65bda46c8bb5584d02d31e3b0df89dda083ea6874d5ebe65"
+    },
+    {
+      "file": "docs/submission/execution/final/post_submission_monitoring_plan.md",
+      "size_bytes": 4314,
+      "sha256": "0ec3afe24d8b62cda655403286c222acab73e871f9ba77e7e6c68eac2c58aa51"
+    },
+    {
+      "file": "docs/submission/execution/final/zenodo_doi_reservation.md",
+      "size_bytes": 6098,
+      "sha256": "fb36ed1953e4dbda7950a7fb4776330240d0c12071c222fe789f6d19ed4d9273"
+    },
+    {
+      "file": "docs/submission/execution/live/live_submission_checklist.md",
+      "size_bytes": 6344,
+      "sha256": "6e376d553276f269b3a25f4120f99e20f0d74fe7c925274cd59851f1cc437005"
+    },
+    {
+      "file": "docs/submission/execution/live/live_submission_manifest.md",
+      "size_bytes": 6419,
+      "sha256": "a64c0cf4d7a437f1161e93bee46dc8961513d7664741532c60b3e48f0310d641"
+    },
+    {
+      "file": "docs/submission/execution/live/portal/openreview/openreview_submission_checklist.md",
+      "size_bytes": 6464,
+      "sha256": "c721e51a1c8a6a9f6840da4f76407a7a029c3732410cff430ba3e8ad82d79448"
+    },
+    {
+      "file": "docs/submission/execution/live/portal/openreview/openreview_submission_manifest.md",
+      "size_bytes": 6575,
+      "sha256": "430281233d2afbc59fa456bfd87ab4f996c3a1802ff4f1bdfb2ccca68c61d0ec"
+    },
+    {
+      "file": "docs/submission/execution/live/portal/openreview/post_submission_monitoring_plan.md",
+      "size_bytes": 4491,
+      "sha256": "e32d8adb4c5b4ddad5922dfc0d2562f6673fcff707112413ac2fd808d355b233"
+    },
+    {
+      "file": "docs/submission/execution/live/portal/portal_submission_checklist.md",
+      "size_bytes": 6363,
+      "sha256": "0b26dc3d3455f1c4f1d050718b1e8ecf288b9732582f7932c1c600632e3d0238"
+    },
+    {
+      "file": "docs/submission/execution/live/portal/portal_submission_manifest.md",
+      "size_bytes": 6455,
+      "sha256": "751ceae54b5398c8c871c73ec434c1e97f73f4ab6382f39ab6646a5945efc436"
+    },
+    {
+      "file": "docs/submission/execution/live/portal/post_submission_monitoring_plan.md",
+      "size_bytes": 4323,
+      "sha256": "4824dc1096f3974b257d1b8cbf3f429359c91d0caf1b7cddc216dfc97e31453f"
+    },
+    {
+      "file": "docs/submission/execution/live/post_submission_monitoring_plan.md",
+      "size_bytes": 4296,
+      "sha256": "08218718d7ca333ee2520617a18533b587242332a92759154caed527a8e83259"
+    },
+    {
+      "file": "docs/submission/final_decision/final_submission_checklist.md",
+      "size_bytes": 7153,
+      "sha256": "3d14b0a10041b2017ced6b9552ef3b3faaa04c140a3d253e36835e4f0180ad86"
+    },
+    {
+      "file": "docs/submission/final_decision/final_submission_decision.md",
+      "size_bytes": 4749,
+      "sha256": "9148bc530828db7c52f259862517d67b69eddfb14df853510049c7bb5ae3e61b"
+    },
+    {
+      "file": "docs/submission/final_decision/final_submission_manifest.md",
+      "size_bytes": 6424,
+      "sha256": "47536ff91088219f8ecca682bc0ff50e997ca95f49390b1026a11b5c6d71bb1f"
+    },
+    {
+      "file": "docs/submission/final_decision/final_submission_risk_plan.md",
+      "size_bytes": 5218,
+      "sha256": "7159807cccb7a22e493fbe26328153b991e3e9dff6b1cec4ff9759286d6ba56c"
+    },
+    {
+      "file": "docs/submission/final_decision/final_submission_timeline.md",
+      "size_bytes": 4674,
+      "sha256": "05c5cd8f43457a744d2b779e1d0c998e612b67bc555110887a888aeddb8b8d2a"
+    },
+    {
+      "file": "docs/submission/final_decision/journal_readiness_gate.md",
+      "size_bytes": 10569,
+      "sha256": "72e926ae5730b313f3912b8bedf2d5c0bb39c258641dba07e2f02c4aaba46298"
+    },
+    {
+      "file": "notebooks/73_live_submission_execution_audit.ipynb",
+      "size_bytes": 13753,
+      "sha256": "c524effaaae43f5393733beaad5ce62099ce6c6637d3175759c1a5546ce8ee07"
+    },
+    {
+      "file": "notebooks/74_live_portal_submission_audit.ipynb",
+      "size_bytes": 13843,
+      "sha256": "9e4489f1aad15648464999aa6a244a9757a8503878aba1d9512c5360227388d1"
+    },
+    {
+      "file": "notebooks/75_live_openreview_upload_audit.ipynb",
+      "size_bytes": 14117,
+      "sha256": "82154afa49c3009c28e044afcbf7468e5d0db847f059c1af35e5afe2be575d3c"
+    },
+    {
+      "file": "release/CHECKPOINTS.md",
+      "size_bytes": 894,
+      "sha256": "f769d85ab2c655f39cf14560b24bbcf0896ebd1a6b3e841a5c5d7d34454b918c"
+    },
+    {
+      "file": "release/CODE.md",
+      "size_bytes": 1690,
+      "sha256": "75cedea13efcb52f02e06b1c24e27ec7e10e0b34bc52a95c966612d906aabcc1"
+    },
+    {
+      "file": "release/DATA.md",
+      "size_bytes": 1102,
+      "sha256": "27092d33597d9a59dc1942165d0b15c02f917c96b65317bfc0054be0381c7293"
+    },
+    {
+      "file": "release/Dockerfile",
+      "size_bytes": 1079,
+      "sha256": "589156440ff649cb33c1cac4348c67d96f39f03df1c9557e6cbfe19b47f8ed6f"
+    },
+    {
+      "file": "release/FIGURES.md",
+      "size_bytes": 1111,
+      "sha256": "5e24311cb77b3b23ee83de2d699684d4df1e6967000482f5af3113a80e59521b"
+    },
+    {
+      "file": "release/INSTALL.md",
+      "size_bytes": 938,
+      "sha256": "5cc0c30fdb77f3ab9e60994bad568980a8097c98a29ed206d22ac3f19f5e0bf4"
+    },
+    {
+      "file": "release/NOTEBOOKS.md",
+      "size_bytes": 848,
+      "sha256": "3e4311f88cf49f01dd2d9b88d29b5591c46b2fc40901db679e1d8b083134cd92"
+    },
+    {
+      "file": "release/README.md",
+      "size_bytes": 3879,
+      "sha256": "2e97cfbb998e831c7875d578cf5934b60c558f4de3c38fd2e236a57a4a57200a"
+    },
+    {
+      "file": "release/REPRODUCE.md",
+      "size_bytes": 1566,
+      "sha256": "a73b1099210a67b2bcc47bbf13b1ef07293677bbc48190ccc8e61bd352a2e69b"
+    },
+    {
+      "file": "release/TABLES.md",
+      "size_bytes": 700,
+      "sha256": "a4f2d373fd73e7632148ad053549a1a20fb1d288914c9394f779640f91e654e0"
+    },
+    {
+      "file": "release/docker-compose.yml",
+      "size_bytes": 368,
+      "sha256": "d8db555a1c87a73eb5fb69d7642a138029c6c03b1b9d5e5306a0902e2de56a33"
+    },
+    {
+      "file": "release/environment.yml",
+      "size_bytes": 381,
+      "sha256": "dd7ee46c3ca368df043409e1b1077db2cef908946135afb2ad0f4f2cb1be0b48"
+    },
+    {
+      "file": "release/manifest.json",
+      "size_bytes": 2678,
+      "sha256": "baf5a7839b25139c3e0ceecbfe0593beb5e9fb246f8c3e4026021b8962ad8f17"
+    },
+    {
+      "file": "release/requirements.txt",
+      "size_bytes": 171,
+      "sha256": "0efa7c2beaf1fa9579420703f4b838c7acc919c0b38b8728c35974c1670bc4cc"
+    },
+    {
+      "file": "release/run_all.py",
+      "size_bytes": 672,
+      "sha256": "81ea452e0a3f16c7944ffdec9dea73d88c444863c1466163c322b2d4ac56093d"
+    },
+    {
+      "file": "release/smoke_test.py",
+      "size_bytes": 8471,
+      "sha256": "36d6d44f3896e7d8fc3a141ce79c61048cd69b519f92324b24ce9e28191e9ccb"
+    },
+    {
+      "file": "results/phase_12_stage_c/evaluation_summary.json",
+      "size_bytes": 14596,
+      "sha256": "982b796c3735c9d12bb698851b080e5252960e5197703da9c760d9ad57bfc343"
+    },
+    {
+      "file": "results/phase_12_stage_c/paired_comparisons.json",
+      "size_bytes": 23272,
+      "sha256": "2642472dc83248249f300ab37ff53a7cc9fce16e6074b1cba53248f0c734a25d"
+    },
+    {
+      "file": "results/phase_12_stage_c/scenario_manifest.json",
+      "size_bytes": 71225,
+      "sha256": "8a04c47eed1b818f9c823dbb1454bae183c4bf78be8caaab8eea3eff8bd5b259"
+    },
+    {
+      "file": "results/phase_13/paper_tables.json",
+      "size_bytes": 10872,
+      "sha256": "9dd7bbffb81bc7106a7fb2391c971316f94f27988a3265971cd1f4a2f1b604a6"
+    },
+    {
+      "file": "results/phase_21/anonymous_release_staging.zip",
+      "size_bytes": 16393,
+      "sha256": "a318dd7de1d4d8d4b1383f696a3e710f8174d08e40f6cf0e2d8ccb27fafcc637"
+    },
+    {
+      "file": "scripts/build_phase_27_notebook.py",
+      "size_bytes": 8235,
+      "sha256": "108c75dd4233e6304bc2a334c8a602ba8f912c25f850adf8801639fecb04b1b9"
+    },
+    {
+      "file": "scripts/build_phase_28_notebook.py",
+      "size_bytes": 8471,
+      "sha256": "98de450044c90037cba5b3292fc9ca8a8545d73d4c322277f899cf1565de0b2d"
+    }
+  ]
+}

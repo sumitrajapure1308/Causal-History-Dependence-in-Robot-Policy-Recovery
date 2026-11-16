@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this benchmark, code, or data, please cite it as below."
+title: "Matched-State Causal-History Evaluation of Robot Policy Recovery under Execution-Induced Failures"
+authors:
+  - family-names: "Research Contributors"
+    given-names: "Causal-History Recovery"
+version: 1.0.0-rc1
+date-released: 2026-11-10
+url: "https://github.com/causal-history-recovery/causal-history-recovery"
+license: MIT
+keywords:
+  - "robot learning"
+  - "policy recovery"
+  - "causal history"
+  - "counterfactual evaluation"
+  - "matched state"
+  - "contact manipulation"
+preferred-citation:
+  type: article
+  title: "Matched-State Causal-History Evaluation of Robot Policy Recovery under Execution-Induced Failures"
+  authors:
+    - family-names: "Research Contributors"
+      given-names: "Causal-History Recovery"
+  journal: "Robotics Science and Systems (Archival Draft)"
+  year: 2026

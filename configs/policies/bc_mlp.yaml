@@ -1,0 +1,13 @@
+policy_type: "bc_reactive_mlp"
+observation_dim: 24
+action_dim: 4
+hidden_dims: [128, 128, 128]
+activation: "relu"
+learning_rate: 0.001
+weight_decay: 0.00001
+batch_size: 64
+epochs: 100
+observation_history_k: 1
+dropout: 0.0
+loss: "mse"
+

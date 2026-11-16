@@ -1,0 +1,25 @@
+suite_name: "causal_history_evaluation_suite"
+version: "1.0.0"
+
+conditions:
+  condition_a_natural:
+    enabled: true
+    description: "Closed-loop policy-induced execution failure"
+  condition_b_prefix_replay:
+    enabled: true
+    description: "Action prefix replay preserving causal history"
+  condition_c_matched_injection:
+    enabled: true
+    description: "Direct physical state injection without prefix"
+  condition_d_history_ablation:
+    enabled: true
+    history_windows: [1, 2, 5, 10]
+
+evaluation_settings:
+  episodes_per_condition: 100
+  confidence_interval_level: 0.95
+  bootstrap_resamples: 2000
+  multiple_comparison_correction: "holm"
+  record_video_frequency: 10
+  save_hdf5_rollouts: false
+

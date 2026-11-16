@@ -1,0 +1,247 @@
+{
+  "timestamp": "2026-11-09T19:19:01",
+  "total_rollouts": 2700,
+  "total_scenarios": 45,
+  "conditions": [
+    "B0",
+    "B1",
+    "B2",
+    "B3",
+    "B4"
+  ],
+  "eval_seeds": [
+    7001,
+    7002,
+    7003
+  ],
+  "policy_results": {
+    "reactive_mlp": {
+      "B0": {
+        "success_count": 2,
+        "total_scenarios": 45,
+        "success_rate": 0.044444444444444446,
+        "wilson_95_ci": [
+          0.01227415521383654,
+          0.14827481073774942
+        ],
+        "mean_final_distance": 1.0114673834049108,
+        "mean_recovery_time": 96.04444444444445
+      },
+      "B1": {
+        "success_count": 2,
+        "total_scenarios": 45,
+        "success_rate": 0.044444444444444446,
+        "wilson_95_ci": [
+          0.01227415521383654,
+          0.14827481073774942
+        ],
+        "mean_final_distance": 1.0337112335882261,
+        "mean_recovery_time": 96.04444444444445
+      },
+      "B2": {
+        "success_count": 2,
+        "total_scenarios": 45,
+        "success_rate": 0.044444444444444446,
+        "wilson_95_ci": [
+          0.01227415521383654,
+          0.14827481073774942
+        ],
+        "mean_final_distance": 1.0319498180333193,
+        "mean_recovery_time": 96.04444444444445
+      },
+      "B3": {
+        "success_count": 2,
+        "total_scenarios": 45,
+        "success_rate": 0.044444444444444446,
+        "wilson_95_ci": [
+          0.01227415521383654,
+          0.14827481073774942
+        ],
+        "mean_final_distance": 1.0226007742132242,
+        "mean_recovery_time": 96.04444444444445
+      },
+      "B4": {
+        "success_count": 2,
+        "total_scenarios": 45,
+        "success_rate": 0.044444444444444446,
+        "wilson_95_ci": [
+          0.01227415521383654,
+          0.14827481073774942
+        ],
+        "mean_final_distance": 1.0282713556616567,
+        "mean_recovery_time": 96.04444444444445
+      }
+    },
+    "history_gru": {
+      "B0": {
+        "success_count": 2,
+        "total_scenarios": 45,
+        "success_rate": 0.044444444444444446,
+        "wilson_95_ci": [
+          0.01227415521383654,
+          0.14827481073774942
+        ],
+        "mean_final_distance": 0.996459516464335,
+        "mean_recovery_time": 96.04444444444445
+      },
+      "B1": {
+        "success_count": 2,
+        "total_scenarios": 45,
+        "success_rate": 0.044444444444444446,
+        "wilson_95_ci": [
+          0.01227415521383654,
+          0.14827481073774942
+        ],
+        "mean_final_distance": 0.9964595164643352,
+        "mean_recovery_time": 96.04444444444445
+      },
+      "B2": {
+        "success_count": 2,
+        "total_scenarios": 45,
+        "success_rate": 0.044444444444444446,
+        "wilson_95_ci": [
+          0.01227415521383654,
+          0.14827481073774942
+        ],
+        "mean_final_distance": 0.9964595164643346,
+        "mean_recovery_time": 96.04444444444445
+      },
+      "B3": {
+        "success_count": 2,
+        "total_scenarios": 45,
+        "success_rate": 0.044444444444444446,
+        "wilson_95_ci": [
+          0.01227415521383654,
+          0.14827481073774942
+        ],
+        "mean_final_distance": 0.9964595164643346,
+        "mean_recovery_time": 96.04444444444445
+      },
+      "B4": {
+        "success_count": 2,
+        "total_scenarios": 45,
+        "success_rate": 0.044444444444444446,
+        "wilson_95_ci": [
+          0.01227415521383654,
+          0.14827481073774942
+        ],
+        "mean_final_distance": 0.9964595164643346,
+        "mean_recovery_time": 96.04444444444445
+      }
+    },
+    "recovery_augmented_mlp": {
+      "B0": {
+        "success_count": 1,
+        "total_scenarios": 45,
+        "success_rate": 0.022222222222222223,
+        "wilson_95_ci": [
+          0.003933610096936525,
+          0.11566652492545854
+        ],
+        "mean_final_distance": 2.0582193449785793,
+        "mean_recovery_time": 97.5037037037037
+      },
+      "B1": {
+        "success_count": 1,
+        "total_scenarios": 45,
+        "success_rate": 0.022222222222222223,
+        "wilson_95_ci": [
+          0.003933610096936525,
+          0.11566652492545854
+        ],
+        "mean_final_distance": 1.8005154036190678,
+        "mean_recovery_time": 98.25185185185187
+      },
+      "B2": {
+        "success_count": 1,
+        "total_scenarios": 45,
+        "success_rate": 0.022222222222222223,
+        "wilson_95_ci": [
+          0.003933610096936525,
+          0.11566652492545854
+        ],
+        "mean_final_distance": 1.7460912587299462,
+        "mean_recovery_time": 97.62962962962962
+      },
+      "B3": {
+        "success_count": 1,
+        "total_scenarios": 45,
+        "success_rate": 0.022222222222222223,
+        "wilson_95_ci": [
+          0.003933610096936525,
+          0.11566652492545854
+        ],
+        "mean_final_distance": 1.672725274180678,
+        "mean_recovery_time": 98.28148148148146
+      },
+      "B4": {
+        "success_count": 1,
+        "total_scenarios": 45,
+        "success_rate": 0.022222222222222223,
+        "wilson_95_ci": [
+          0.003933610096936525,
+          0.11566652492545854
+        ],
+        "mean_final_distance": 1.707315752019612,
+        "mean_recovery_time": 97.66666666666667
+      }
+    },
+    "recovery_augmented_gru": {
+      "B0": {
+        "success_count": 0,
+        "total_scenarios": 45,
+        "success_rate": 0.0,
+        "wilson_95_ci": [
+          0.0,
+          0.07865130409320413
+        ],
+        "mean_final_distance": 1.6188234944105016,
+        "mean_recovery_time": 99.2
+      },
+      "B1": {
+        "success_count": 0,
+        "total_scenarios": 45,
+        "success_rate": 0.0,
+        "wilson_95_ci": [
+          0.0,
+          0.07865130409320413
+        ],
+        "mean_final_distance": 1.719499007479919,
+        "mean_recovery_time": 99.2
+      },
+      "B2": {
+        "success_count": 0,
+        "total_scenarios": 45,
+        "success_rate": 0.0,
+        "wilson_95_ci": [
+          0.0,
+          0.07865130409320413
+        ],
+        "mean_final_distance": 1.7977475566795378,
+        "mean_recovery_time": 99.2
+      },
+      "B3": {
+        "success_count": 0,
+        "total_scenarios": 45,
+        "success_rate": 0.0,
+        "wilson_95_ci": [
+          0.0,
+          0.07865130409320413
+        ],
+        "mean_final_distance": 1.8678765974365736,
+        "mean_recovery_time": 99.2
+      },
+      "B4": {
+        "success_count": 0,
+        "total_scenarios": 45,
+        "success_rate": 0.0,
+        "wilson_95_ci": [
+          0.0,
+          0.07865130409320413
+        ],
+        "mean_final_distance": 1.8476627709876863,
+        "mean_recovery_time": 99.2
+      }
+    }
+  }
+}

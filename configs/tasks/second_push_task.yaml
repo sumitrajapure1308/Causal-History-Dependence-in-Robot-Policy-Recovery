@@ -1,0 +1,38 @@
+task_name: "second_push_task_env"
+task_type: "puck_diagonal_pushing"
+simulator: "mujoco"
+model_file: "src/causal_history_recovery/environments/assets/second_push_target.xml"
+timestep: 0.005
+episode_horizon: 150
+control_frequency_hz: 200
+
+workspace_bounds:
+  x: [-0.45, 0.45]
+  y: [-0.45, 0.45]
+  z: [0.0, 0.25]
+
+target_zone:
+  center: [0.20, 0.08, 0.020]
+  radius: 0.065
+  min_dwell_steps: 5
+  max_yaw_tolerance_rad: 0.50
+
+object:
+  type: "cylinder"
+  radius: 0.035
+  half_height: 0.020
+  mass: 0.15
+  friction: [0.35, 0.005, 0.0001]
+
+push_dynamics:
+  direction: "diagonal_offset"
+  target_angle_deg: 21.8
+  contact_geometry: "cylinder_on_cylinder"
+  curvature_effect: true
+
+deviation_thresholds:
+  slip_angle_threshold_deg: 15.0
+  slip_angle_threshold_rad: 0.2618
+  lateral_drift_threshold_m: 0.020
+  min_contact_force_n: 0.05
+

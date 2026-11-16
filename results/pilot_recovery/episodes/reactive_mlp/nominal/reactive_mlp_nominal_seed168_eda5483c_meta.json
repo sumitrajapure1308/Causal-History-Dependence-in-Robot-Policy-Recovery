@@ -1,0 +1,160 @@
+{
+  "run_id": "eda5483c",
+  "policy_id": "reactive_mlp",
+  "task_id": "planned_custom_push_target_env",
+  "condition": "nominal",
+  "seed": 168,
+  "checkpoint_path": "D:\\PROJECT\\CASUAL HISTORY IN ROBOT POLICY RECOVERY\\causal-history-recovery\\models\\checkpoints\\reactive_mlp_best.pt",
+  "env_config_hash": "2030b3c8bffc55e0",
+  "policy_config_hash": "e421b0bf85dd0d0f",
+  "episode_length": 150,
+  "final_task_success": false,
+  "dwell_count": 0,
+  "remaining_horizon": 0,
+  "deviation_time": null,
+  "deviation_type": null,
+  "deviation_magnitude": null,
+  "recoverability_label": null,
+  "recovery_outcome": null,
+  "initial_state": {
+    "seed": 168
+  },
+  "final_state": {
+    "qpos": [
+      0.41728436305876876,
+      -0.014029611240560761,
+      -0.0004035420810047604,
+      0.2654835239213028,
+      0.04612225829383836,
+      0.024981113301779677,
+      0.853632339244843,
+      2.886031432300787e-06,
+      1.3133911140939308e-05,
+      0.5208760209632898
+    ],
+    "qvel": [
+      0.7018269255437086,
+      -0.019105722844002797,
+      -0.052986999979189764,
+      -2.1257172717569298e-05,
+      -7.275371448312401e-06,
+      5.850809578212829e-05,
+      -0.0006454638029167889,
+      -0.0006700281228041163,
+      2.809437486096338e-10
+    ],
+    "act": null,
+    "qacc_warmstart": [
+      4.819157372787031,
+      1.3391003687419911e-05,
+      -8.397644134908756,
+      0.0007372008522842481,
+      0.00024651373325946597,
+      -0.001887195767508868,
+      0.025240003432029093,
+      0.025740284903925836,
+      -5.476780286312945e-08
+    ],
+    "qfrc_applied": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "xfrc_applied": [
+      [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    ],
+    "ctrl": [
+      0.4297134504467249,
+      -0.014328931138152257,
+      -5.277338619530628e-15
+    ],
+    "time": 0.7500000000000006,
+    "step_count": 150,
+    "remaining_horizon": 0,
+    "max_horizon": 150,
+    "task_goal": [
+      0.25,
+      0.0,
+      0.025
+    ],
+    "object_pos": [
+      0.2654835239213028,
+      0.04612225829383836,
+      0.024981113301779677
+    ],
+    "object_rot": [
+      0.853632339244843,
+      2.886031432300787e-06,
+      1.3133911140939308e-05,
+      0.5208760209632898
+    ],
+    "end_effector_pos": [
+      0.41728436305876876,
+      -0.014029611240560761,
+      0.025596457918995237
+    ],
+    "active_contacts_count": 4,
+    "metadata": {
+      "env_id": "planned_custom_push_target_env",
+      "current_seed": 168,
+      "dwell_count": 0,
+      "timestep": 0.005
+    }
+  },
+  "timestamp_iso": "2026-11-09T11:12:26Z",
+  "trajectory_npz_path": "reactive_mlp\\nominal\\reactive_mlp_nominal_seed168_eda5483c_trajectory.npz",
+  "extra_metadata": {}
+}

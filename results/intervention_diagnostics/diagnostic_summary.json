@@ -1,0 +1,72 @@
+{
+  "audit_timestamp": "2026-11-09T18:49:14",
+  "scenarios_evaluated": 20,
+  "total_rollouts": 160,
+  "execution_time_sec": 46.92,
+  "policy_summaries": {
+    "recovery_augmented_gru_seed42": {
+      "num_scenarios": 20,
+      "mean_h_norm_b0": 0.7662929520010948,
+      "mean_first_act_diff": 0.0013666787208857264,
+      "mean_action_traj_mae": 0.00014421257280844391,
+      "mean_pos_drift_m": 0.006917268450563821,
+      "mean_final_dist_diff_m": 0.006432494733962605,
+      "success_b0": 2,
+      "success_rate_b0": 0.1,
+      "success_b4": 2,
+      "success_rate_b4": 0.1,
+      "signed_succ_diff": 0.0,
+      "abs_mean_succ_diff": 0.0,
+      "discordant_scenarios": 0,
+      "discordance_rate": 0.0
+    },
+    "recovery_augmented_gru_seed123": {
+      "num_scenarios": 20,
+      "mean_h_norm_b0": 0.9895272940397263,
+      "mean_first_act_diff": 0.0026292269588133127,
+      "mean_action_traj_mae": 0.00013597905087784842,
+      "mean_pos_drift_m": 0.0008499652968527437,
+      "mean_final_dist_diff_m": 0.0006570137038835966,
+      "success_b0": 4,
+      "success_rate_b0": 0.2,
+      "success_b4": 4,
+      "success_rate_b4": 0.2,
+      "signed_succ_diff": 0.0,
+      "abs_mean_succ_diff": 0.0,
+      "discordant_scenarios": 0,
+      "discordance_rate": 0.0
+    },
+    "recovery_augmented_gru_seed456": {
+      "num_scenarios": 20,
+      "mean_h_norm_b0": 0.8783675014972687,
+      "mean_first_act_diff": 0.0032324911478397353,
+      "mean_action_traj_mae": 0.0004833454028986319,
+      "mean_pos_drift_m": 0.01843759536736806,
+      "mean_final_dist_diff_m": 0.020666418855849595,
+      "success_b0": 3,
+      "success_rate_b0": 0.15,
+      "success_b4": 5,
+      "success_rate_b4": 0.25,
+      "signed_succ_diff": -0.1,
+      "abs_mean_succ_diff": 0.1,
+      "discordant_scenarios": 2,
+      "discordance_rate": 0.1
+    },
+    "recovery_augmented_mlp_seed42": {
+      "num_scenarios": 20,
+      "mean_h_norm_b0": 0.0,
+      "mean_first_act_diff": 0.0,
+      "mean_action_traj_mae": 0.0,
+      "mean_pos_drift_m": 0.0,
+      "mean_final_dist_diff_m": 0.0,
+      "success_b0": 5,
+      "success_rate_b0": 0.25,
+      "success_b4": 5,
+      "success_rate_b4": 0.25,
+      "signed_succ_diff": 0.0,
+      "abs_mean_succ_diff": 0.0,
+      "discordant_scenarios": 0,
+      "discordance_rate": 0.0
+    }
+  }
+}

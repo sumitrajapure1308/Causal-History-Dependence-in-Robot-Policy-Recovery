@@ -1,0 +1,92 @@
+{
+  "manifest_type": "diagnostic_figure_manifest",
+  "verification_status": "validated_diagnostic_figures",
+  "disclaimer": "DIAGNOSTIC VISUALIZATIONS ONLY. NOT FINAL PUBLICATION BENCHMARK FIGURES.",
+  "dpi": 600,
+  "figures": [
+    {
+      "figure_id": "fig01_training_loss_curves",
+      "title": "Training Loss Curves",
+      "description": "Training and validation loss curves for Reactive MLP and History GRU",
+      "input_data_path": "results\\training_logs\\reactive_mlp_training_log.json",
+      "input_data_sha256": "7c2829f28db5b3a0",
+      "output_png_600dpi": "figures\\paper\\fig01_training_loss_curves.png",
+      "output_pdf_vector": "figures\\paper\\fig01_training_loss_curves.pdf",
+      "creation_script": "scripts/make_figures.py",
+      "seed": 42,
+      "creation_timestamp_iso": "2026-11-09T11:14:44Z"
+    },
+    {
+      "figure_id": "fig02_nominal_success_rate",
+      "title": "Nominal Success Rate",
+      "description": "Nominal policy task completion success rates under seed 42",
+      "input_data_path": "results\\pilot_recovery\\rollout_metrics.json",
+      "input_data_sha256": "d3cb92a62d2975b1",
+      "output_png_600dpi": "figures\\paper\\fig02_nominal_success_rate.png",
+      "output_pdf_vector": "figures\\paper\\fig02_nominal_success_rate.pdf",
+      "creation_script": "scripts/make_figures.py",
+      "seed": 42,
+      "creation_timestamp_iso": "2026-11-09T11:14:44Z"
+    },
+    {
+      "figure_id": "fig03_failure_yaw_distribution",
+      "title": "Failure Yaw Distribution",
+      "description": "Peak yaw deflection distribution showing rotational slip",
+      "input_data_path": "results\\pilot_recovery\\rollout_metrics.json",
+      "input_data_sha256": "d3cb92a62d2975b1",
+      "output_png_600dpi": "figures\\paper\\fig03_failure_yaw_distribution.png",
+      "output_pdf_vector": "figures\\paper\\fig03_failure_yaw_distribution.pdf",
+      "creation_script": "scripts/make_figures.py",
+      "seed": 42,
+      "creation_timestamp_iso": "2026-11-09T11:14:44Z"
+    },
+    {
+      "figure_id": "fig04_lateral_drift_distribution",
+      "title": "Lateral Drift Distribution",
+      "description": "Lateral trajectory displacement drift under off-center push",
+      "input_data_path": "results\\pilot_recovery\\rollout_metrics.json",
+      "input_data_sha256": "d3cb92a62d2975b1",
+      "output_png_600dpi": "figures\\paper\\fig04_lateral_drift_distribution.png",
+      "output_pdf_vector": "figures\\paper\\fig04_lateral_drift_distribution.pdf",
+      "creation_script": "scripts/make_figures.py",
+      "seed": 42,
+      "creation_timestamp_iso": "2026-11-09T11:14:44Z"
+    },
+    {
+      "figure_id": "fig05_state_matching_error_distribution",
+      "title": "State Matching Error Distribution",
+      "description": "Composite state distance distribution across candidate snapshot pairs",
+      "input_data_path": "results\\pilot_recovery\\matching_report.json",
+      "input_data_sha256": "f602fc4cd92d3ff4",
+      "output_png_600dpi": "figures\\paper\\fig05_state_matching_error_distribution.png",
+      "output_pdf_vector": "figures\\paper\\fig05_state_matching_error_distribution.pdf",
+      "creation_script": "scripts/make_figures.py",
+      "seed": 42,
+      "creation_timestamp_iso": "2026-11-09T11:14:44Z"
+    },
+    {
+      "figure_id": "fig06_recovery_condition_preview",
+      "title": "Recovery Condition Preview",
+      "description": "Recovery success rates across matched conditions B0, B2, and B4",
+      "input_data_path": "results\\pilot_recovery\\rollout_metrics.json",
+      "input_data_sha256": "d3cb92a62d2975b1",
+      "output_png_600dpi": "figures\\paper\\fig06_recovery_condition_preview.png",
+      "output_pdf_vector": "figures\\paper\\fig06_recovery_condition_preview.pdf",
+      "creation_script": "scripts/make_figures.py",
+      "seed": 42,
+      "creation_timestamp_iso": "2026-11-09T11:14:44Z"
+    },
+    {
+      "figure_id": "fig07_oracle_recoverability_distribution",
+      "title": "Oracle Recoverability Filter",
+      "description": "Privileged oracle admission vs unrecoverable rejection breakdown",
+      "input_data_path": "results\\pilot_recovery\\rollout_metrics.json",
+      "input_data_sha256": "d3cb92a62d2975b1",
+      "output_png_600dpi": "figures\\paper\\fig07_oracle_recoverability_distribution.png",
+      "output_pdf_vector": "figures\\paper\\fig07_oracle_recoverability_distribution.pdf",
+      "creation_script": "scripts/make_figures.py",
+      "seed": 42,
+      "creation_timestamp_iso": "2026-11-09T11:14:44Z"
+    }
+  ]
+}

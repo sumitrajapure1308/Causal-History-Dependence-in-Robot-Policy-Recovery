@@ -1,0 +1,32 @@
+{
+  "task": "second_push_task_env",
+  "failure_mode": "contact_loss",
+  "num_scenarios": 20,
+  "mean_remaining_horizon": 147.0,
+  "policies": {
+    "reactive_mlp": {
+      "b0_success": 0.1,
+      "b4_success": 0.1,
+      "b0_dist": 0.16543676810327912,
+      "b4_dist": 0.16543676810327912
+    },
+    "history_gru": {
+      "b0_success": 0.1,
+      "b4_success": 0.1,
+      "b0_dist": 0.17419022457278072,
+      "b4_dist": 0.17419022457278072
+    },
+    "recovery_augmented_mlp": {
+      "b0_success": 0.1,
+      "b4_success": 0.1,
+      "b0_dist": 0.1437471005806943,
+      "b4_dist": 0.1437471005806943
+    },
+    "recovery_augmented_gru": {
+      "b0_success": 0.0,
+      "b4_success": 0.0,
+      "b0_dist": 0.21621784536864586,
+      "b4_dist": 0.21920798012585005
+    }
+  }
+}
