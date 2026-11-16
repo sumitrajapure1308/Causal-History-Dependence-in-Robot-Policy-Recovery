@@ -63,8 +63,6 @@ GEMINI.md
 PROJECT_STATUS.md
 docs/audit/
 docs/reports/
-notebooks/
-release/NOTEBOOKS.md
 
 # Internal Automation & Pipeline Scripts
 scripts/build_phase_*

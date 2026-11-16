@@ -55,6 +55,7 @@ causal-history-recovery/
 │       ├── rollout/           <- Trajectory collection & deterministic replay
 │       └── visualization/     <- Publication and diagnostic plotting routines
 ├── scripts/                   <- Runnable entrypoints for benchmarks and training
+├── notebooks/                 <- Pre-executed experiment and analysis notebooks
 ├── tests/                     <- Unit and integration test suite (pytest)
 ├── data/                      <- Benchmark manifests and processed evaluations
 └── analysis/                  <- Contact mechanics, sensitivity, and horizon analyses
