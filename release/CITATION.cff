@@ -2,11 +2,12 @@ cff-version: 1.2.0
 message: "If you use this benchmark, code, or data, please cite it as below."
 title: "Matched-State Causal-History Evaluation of Robot Policy Recovery under Execution-Induced Failures"
 authors:
-  - family-names: "Research Contributors"
-    given-names: "Causal-History Recovery"
-version: 1.0.0-rc1
-date-released: 2026-11-10
-url: "https://github.com/causal-history-recovery/causal-history-recovery"
+  - family-names: "Rajapure"
+    given-names: "Sumit S."
+    orcid: "https://orcid.org/0009-0009-8899-353X"
+version: 1.0.0
+date-released: 2026-11-16
+url: "https://github.com/sumitrajapure1308/Causal-History-Dependence-in-Robot-Policy-Recovery"
 license: MIT
 keywords:
   - "robot learning"
@@ -19,7 +20,8 @@ preferred-citation:
   type: article
   title: "Matched-State Causal-History Evaluation of Robot Policy Recovery under Execution-Induced Failures"
   authors:
-    - family-names: "Research Contributors"
-      given-names: "Causal-History Recovery"
+    - family-names: "Rajapure"
+      given-names: "Sumit S."
+      orcid: "https://orcid.org/0009-0009-8899-353X"
   journal: "Robotics Science and Systems (Archival Draft)"
   year: 2026
